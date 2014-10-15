@@ -1,0 +1,755 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19367601270793, 
+          25.85097392034496
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131120080430", 
+        "NAME": "MIAMI STATION 13", 
+        "LON": -80.19368, 
+        "ZIPCODE": 33138, 
+        "CADNAME": "FSTA M13", 
+        "LAT": 25.85097, 
+        "POINT_X": 921342.672080755, 
+        "POINT_Y": 552340.376660176, 
+        "ADDRESS": "185 NE 82ND TER", 
+        "MUNICID": "01", 
+        "TYPE": "R", 
+        "ID": 13
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22857653842586, 
+          25.75499692549738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141100340030", 
+        "NAME": "MIAMI STATION 14", 
+        "LON": -80.22858, 
+        "ZIPCODE": 33145, 
+        "CADNAME": "FSTA M14", 
+        "LAT": 25.755, 
+        "POINT_X": 910068.937082335, 
+        "POINT_Y": 517387.061068259, 
+        "ADDRESS": "2119 SW 19TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "R", 
+        "ID": 14
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1641378243311, 
+          25.69070714103856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "KEY BISCAYNE", 
+        "FOLIO": "2442320010060", 
+        "NAME": "KEY BISCAYNE STATION 1", 
+        "LON": -80.16491, 
+        "ZIPCODE": 33149, 
+        "CADNAME": "FSTA KB1", 
+        "LAT": 25.69038, 
+        "POINT_X": 931173.182275336, 
+        "POINT_Y": 494027.315136924, 
+        "ADDRESS": "560 CRANDON BLVD", 
+        "MUNICID": "24", 
+        "TYPE": "B", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27985401444724, 
+          25.8265799210987
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431180012300", 
+        "NAME": "HIALEAH STATION 1", 
+        "LON": -80.27985, 
+        "ZIPCODE": 33010, 
+        "CADNAME": "FSTA H1", 
+        "LAT": 25.82658, 
+        "POINT_X": 893048.873025421, 
+        "POINT_Y": 543309.369131677, 
+        "ADDRESS": "93 E 5TH ST", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26692340340642, 
+          25.861140200582206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431050100440", 
+        "NAME": "HIALEAH STATION 2", 
+        "LON": -80.26692, 
+        "ZIPCODE": 33013, 
+        "CADNAME": "FSTA H2", 
+        "LAT": 25.86114, 
+        "POINT_X": 897232.3006821721, 
+        "POINT_Y": 555894.367255591, 
+        "ADDRESS": "4200 E 8TH AVE", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29912824736289, 
+          25.866242853069497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430010010150", 
+        "NAME": "HIALEAH STATION 3", 
+        "LON": -80.29913, 
+        "ZIPCODE": 33012, 
+        "CADNAME": "FSTA H3", 
+        "LAT": 25.86624, 
+        "POINT_X": 886631.7933399191, 
+        "POINT_Y": 557691.196339093, 
+        "ADDRESS": "800 W 49TH ST", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30740559770521, 
+          25.890069035950415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420250010470", 
+        "NAME": "HIALEAH STATION 5", 
+        "LON": -80.30741, 
+        "ZIPCODE": 33014, 
+        "CADNAME": "FSTA H5", 
+        "LAT": 25.89007, 
+        "POINT_X": 883864.207011588, 
+        "POINT_Y": 566336.7627093421, 
+        "ADDRESS": "1197 W 74TH ST", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29773678919848, 
+          25.843862703485605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430120460010", 
+        "NAME": "HIALEAH STATION 6", 
+        "LON": -80.29774, 
+        "ZIPCODE": 33010, 
+        "CADNAME": "FSTA H6", 
+        "LAT": 25.84386, 
+        "POINT_X": 887132.837613419, 
+        "POINT_Y": 549559.232288092, 
+        "ADDRESS": "780 W 25TH ST", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26000215303429, 
+          25.7459130820492
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0341170055110", 
+        "NAME": "CORAL GABLES STATION 1", 
+        "LON": -80.26, 
+        "ZIPCODE": 33134, 
+        "CADNAME": "FSTA CG1", 
+        "LAT": 25.74591, 
+        "POINT_X": 899743.8337168361, 
+        "POINT_Y": 514026.14357750904, 
+        "ADDRESS": "2815 SALZEDO ST", 
+        "MUNICID": "03", 
+        "TYPE": "B", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26456462074617, 
+          25.724560951523905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0341200240010", 
+        "NAME": "CORAL GABLES STATION 2", 
+        "LON": -80.26456, 
+        "ZIPCODE": 33146, 
+        "CADNAME": "FSTA CG2", 
+        "LAT": 25.72456, 
+        "POINT_X": 898285.259534255, 
+        "POINT_Y": 506257.075126179, 
+        "ADDRESS": "525 S DIXIE HWY", 
+        "MUNICID": "03", 
+        "TYPE": "B", 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33250509836886, 
+          25.8909879292217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430120460010", 
+        "NAME": "HIALEAH STATION 7", 
+        "LON": -80.33251, 
+        "ZIPCODE": 33016, 
+        "CADNAME": "FSTA H7", 
+        "LAT": 25.89099, 
+        "POINT_X": 875610.5519310051, 
+        "POINT_Y": 566627.980302759, 
+        "ADDRESS": "7590 W 24TH AVE", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25667971966112, 
+          25.82466721033633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431160110220", 
+        "NAME": "HIALEAH STATION 4", 
+        "LON": -80.25668, 
+        "ZIPCODE": 33010, 
+        "CADNAME": "FSTA H4", 
+        "LAT": 25.82467, 
+        "POINT_X": 900675.933886755, 
+        "POINT_Y": 542656.5794267581, 
+        "ADDRESS": "251 E 12TH AVE", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28231775804929, 
+          25.663309972201947
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0351070030010", 
+        "NAME": "CORAL GABLES STATION 3", 
+        "LON": -80.28232, 
+        "ZIPCODE": 33156, 
+        "CADNAME": "FSTA CG3", 
+        "LAT": 25.66331, 
+        "POINT_X": 892561.3195385861, 
+        "POINT_Y": 483962.73454434396, 
+        "ADDRESS": "11911 OLD CUTLER RD", 
+        "MUNICID": "03", 
+        "TYPE": "B", 
+        "ID": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13044393627872, 
+          25.799651508289422
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232270000100", 
+        "NAME": "MIAMI BEACH STATION 2", 
+        "LON": -80.13044, 
+        "ZIPCODE": 33140, 
+        "CADNAME": "FSTA MB2", 
+        "LAT": 25.79965, 
+        "POINT_X": 942262.124008171, 
+        "POINT_Y": 533818.691918842, 
+        "ADDRESS": "2300 PINETREE DR", 
+        "MUNICID": "02", 
+        "TYPE": "B", 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12132611761658, 
+          25.83139444938226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232140010200", 
+        "NAME": "MIAMI BEACH STATION 3", 
+        "LON": -80.12133, 
+        "ZIPCODE": 33140, 
+        "CADNAME": "FSTA MB3", 
+        "LAT": 25.83139, 
+        "POINT_X": 945185.094540171, 
+        "POINT_Y": 545376.316113256, 
+        "ADDRESS": "5303 COLLINS AVE", 
+        "MUNICID": "02", 
+        "TYPE": "B", 
+        "ID": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19121877290493, 
+          25.7787724387084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070901050", 
+        "NAME": "MIAMI STATION 1", 
+        "LON": -80.19122, 
+        "ZIPCODE": 33132, 
+        "CADNAME": "FSTA M1", 
+        "LAT": 25.77877, 
+        "POINT_X": 922312.144551255, 
+        "POINT_Y": 526102.3494119269, 
+        "ADDRESS": "144 NE 5TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19450797214496, 
+          25.794154213315515
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131360680010", 
+        "NAME": "MIAMI STATION 2", 
+        "LON": -80.19451, 
+        "ZIPCODE": 33136, 
+        "CADNAME": "FSTA M2", 
+        "LAT": 25.79415, 
+        "POINT_X": 921195.5299865861, 
+        "POINT_Y": 531686.49014651, 
+        "ADDRESS": "1901 N MIAMI AVE", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19704267545507, 
+          25.76321585092675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141380510400", 
+        "NAME": "MIAMI STATION 4", 
+        "LON": -80.19704, 
+        "ZIPCODE": 33130, 
+        "CADNAME": "FSTA M4", 
+        "LAT": 25.76322, 
+        "POINT_X": 920430.049562171, 
+        "POINT_Y": 520436.327607505, 
+        "ADDRESS": "1105 SW 2ND AVE", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21550211228059, 
+          25.794732952364775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350010010", 
+        "NAME": "MIAMI STATION 5", 
+        "LON": -80.2155, 
+        "ZIPCODE": 33142, 
+        "CADNAME": "FSTA M5", 
+        "LAT": 25.79473, 
+        "POINT_X": 914286.357781336, 
+        "POINT_Y": 531855.131869592, 
+        "ADDRESS": "1200 NW 20TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2078759185088, 
+          25.810354278980967
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131230460010", 
+        "NAME": "MIAMI STATION 6", 
+        "LON": -80.20788, 
+        "ZIPCODE": 33127, 
+        "CADNAME": "FSTA M6", 
+        "LAT": 25.81035, 
+        "POINT_X": 916761.498500336, 
+        "POINT_Y": 537547.9990927579, 
+        "ADDRESS": "701 NW 36TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23519332303644, 
+          25.76879020273803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141030371360", 
+        "NAME": "MIAMI STATION 7", 
+        "LON": -80.23519, 
+        "ZIPCODE": 33135, 
+        "CADNAME": "FSTA M7", 
+        "LAT": 25.76879, 
+        "POINT_X": 907861.9542915861, 
+        "POINT_Y": 522387.732169256, 
+        "ADDRESS": "314 BEACOM BLVD", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24102373982866, 
+          25.73021695109326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141210160750", 
+        "NAME": "MIAMI STATION 8", 
+        "LON": -80.24102, 
+        "ZIPCODE": 33133, 
+        "CADNAME": "FSTA M8", 
+        "LAT": 25.73022, 
+        "POINT_X": 906023.800487585, 
+        "POINT_Y": 508356.688709095, 
+        "ADDRESS": "2975 OAK AVE", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1948091645371, 
+          25.8330084446188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131130560520", 
+        "NAME": "MIAMI STATION 9", 
+        "LON": -80.19481, 
+        "ZIPCODE": 33138, 
+        "CADNAME": "FSTA M9", 
+        "LAT": 25.83301, 
+        "POINT_X": 921009.999517754, 
+        "POINT_Y": 545808.1790946721, 
+        "ADDRESS": "69 NE 62ND ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26326270903039, 
+          25.779035597333838
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131320130490", 
+        "NAME": "MIAMI STATION 10", 
+        "LON": -80.26326, 
+        "ZIPCODE": 33126, 
+        "CADNAME": "FSTA M10", 
+        "LAT": 25.77904, 
+        "POINT_X": 898603.267756503, 
+        "POINT_Y": 526058.9269265911, 
+        "ADDRESS": "4101 NW 7TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29201604784984, 
+          25.770454166348923
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0140010190120", 
+        "NAME": "MIAMI STATION 11", 
+        "LON": -80.29202, 
+        "ZIPCODE": 33144, 
+        "CADNAME": "FSTA M11", 
+        "LAT": 25.77045, 
+        "POINT_X": 889157.918537002, 
+        "POINT_Y": 522888.02185109304, 
+        "ADDRESS": "5920 W FLAGLER ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 11
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22030027254982, 
+          25.81770613966836
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131230160020", 
+        "NAME": "MIAMI STATION 12", 
+        "LON": -80.2203, 
+        "ZIPCODE": 33142, 
+        "CADNAME": "FSTA M12", 
+        "LAT": 25.81771, 
+        "POINT_X": 912658.111037835, 
+        "POINT_Y": 540195.746750012, 
+        "ADDRESS": "1455 NW 46TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 12
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2140297625025, 
+          25.780665962214794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350300010", 
+        "NAME": "MIAMI STATION 3", 
+        "LON": -80.21403, 
+        "ZIPCODE": 33136, 
+        "CADNAME": "FSTA M3", 
+        "LAT": 25.78067, 
+        "POINT_X": 914801.3314889221, 
+        "POINT_Y": 526745.144058093, 
+        "ADDRESS": "1103 NW 7TH ST", 
+        "MUNICID": "01", 
+        "TYPE": "B", 
+        "ID": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13708889902085, 
+          25.7815678943545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0242030094330", 
+        "NAME": "MIAMI BEACH STATION 1", 
+        "LON": -80.13709, 
+        "ZIPCODE": 33139, 
+        "CADNAME": "FSTA MB1", 
+        "LAT": 25.78157, 
+        "POINT_X": 940118.8123499191, 
+        "POINT_Y": 527231.4377049281, 
+        "ADDRESS": "1051 JEFFERSON AVE", 
+        "MUNICID": "02", 
+        "TYPE": "B", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31829568350126, 
+          25.87210234816139
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420350010320", 
+        "NAME": "HIALEAH STATION 8", 
+        "LON": -80.3183, 
+        "ZIPCODE": 33012, 
+        "CADNAME": "FSTA H8", 
+        "LAT": 25.8721, 
+        "POINT_X": 880317.789891839, 
+        "POINT_Y": 559787.739062011, 
+        "ADDRESS": "5405 W 18TH AVE", 
+        "MUNICID": "04", 
+        "TYPE": "B", 
+        "ID": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12388397832449, 
+          25.853715802089297
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232110010760", 
+        "NAME": "MIAMI BEACH STATION 4", 
+        "LON": -80.12388, 
+        "ZIPCODE": 33141, 
+        "CADNAME": "FSTA MB4", 
+        "LAT": 25.85372, 
+        "POINT_X": 944289.6252025029, 
+        "POINT_Y": 553483.9373651741, 
+        "ADDRESS": "6880 INDIAN CREEK DR", 
+        "MUNICID": "02", 
+        "TYPE": "B", 
+        "ID": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,2888 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35326377394514, 
+          25.879967413241257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3913, 
+        "CITY": "HIALEAH GARDENS", 
+        "FOLIO": "2720330010335", 
+        "CAPACITY": 2934, 
+        "NAME": "HIALEAH GARDENS SENIOR HIGH", 
+        "REGION": "NORTHWEST", 
+        "ADACMPL": "Y", 
+        "LON": -80.35326, 
+        "ZIPCODE": 33018, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-698-5000", 
+        "POINT_X": 868805.5399504941, 
+        "POINT_Y": 562588.237069905, 
+        "ADDRESS": "11700 HIALEAH GARDENS BLVD", 
+        "LAT": 25.87997, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC07"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32817605636791, 
+          25.91739685740077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 933, 
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220150010631", 
+        "CAPACITY": 700, 
+        "NAME": "BOB GRAHAM EDUCATION CENTER", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.32818, 
+        "ZIPCODE": 33016, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-557-3303", 
+        "POINT_X": 876984.624970246, 
+        "POINT_Y": 576234.000132658, 
+        "ADDRESS": "15901 NW 79TH AVE", 
+        "LAT": 25.9174, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC25"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29466974346795, 
+          25.91603417969947
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 667, 
+        "CITY": "Miami Lakes", 
+        "FOLIO": "3220130010570", 
+        "CAPACITY": 500, 
+        "NAME": "MIAMI LAKES EDUCATIONAL CENTER", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.29467, 
+        "ZIPCODE": 33014, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-557-1100", 
+        "POINT_X": 888000.625575997, 
+        "POINT_Y": 575796.5626873231, 
+        "ADDRESS": "5780 NW 158TH ST", 
+        "LAT": 25.91603, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC42"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39025608367899, 
+          25.59911793803456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 4793, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059360000040", 
+        "CAPACITY": 3653, 
+        "NAME": "ROBERT MORGAN SR HIGH", 
+        "REGION": "SOUTHERN", 
+        "ADACMPL": "Y", 
+        "LON": -80.39026, 
+        "ZIPCODE": 33177, 
+        "FAX": "(305) 253-3023", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 253-9920", 
+        "POINT_X": 857114.407820996, 
+        "POINT_Y": 460453.756627992, 
+        "ADDRESS": "18180 SW 122ND AVENUE", 
+        "LAT": 25.59912, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC16"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22726668398701, 
+          25.75368105105847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1000, 
+        "CITY": "Miami", 
+        "FOLIO": "0141100490010", 
+        "CAPACITY": 750, 
+        "NAME": "SHENANDOAH MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.22727, 
+        "ZIPCODE": 33145, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-856-8282", 
+        "POINT_X": 910502.8748627449, 
+        "POINT_Y": 516911.312675908, 
+        "ADDRESS": "1950 SW 19TH ST", 
+        "LAT": 25.75368, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC54"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20480426247018, 
+          25.786531943655735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1371, 
+        "CITY": "MIAMI", 
+        "FOLIO": "0131360770020", 
+        "CAPACITY": 1028, 
+        "NAME": "BOOKER T. WASHINGTON SR. HIGH", 
+        "REGION": "CENTRAL", 
+        "ADACMPL": "Y", 
+        "LON": -80.2048, 
+        "ZIPCODE": 33136, 
+        "FAX": "(305) 324-4676", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 324-8900", 
+        "POINT_X": 917824.362516329, 
+        "POINT_Y": 528895.453077659, 
+        "ADDRESS": "1200 NW 6TH AVENUE", 
+        "LAT": 25.78653, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22696435069216, 
+          25.830338988870896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1400, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3031150460010", 
+        "CAPACITY": 1050, 
+        "NAME": "CHARLES R. DREW MIDDLE", 
+        "REGION": "CENTRAL", 
+        "ADACMPL": "Y", 
+        "LON": -80.22696, 
+        "ZIPCODE": 33142, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-633-6057", 
+        "POINT_X": 910438.81232683, 
+        "POINT_Y": 544774.437395737, 
+        "ADDRESS": "1801 NW 60TH ST", 
+        "LAT": 25.83034, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26705629708334, 
+          25.774338177356746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1781, 
+        "CITY": "Miami", 
+        "FOLIO": "0141050010010", 
+        "CAPACITY": 1336, 
+        "NAME": "KINLOCH PARK MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.26706, 
+        "ZIPCODE": 33126, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-445-5467", 
+        "POINT_X": 897364.375221163, 
+        "POINT_Y": 524344.624908991, 
+        "ADDRESS": "4340 NW 3RD ST", 
+        "LAT": 25.77434, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC38"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20236295691686, 
+          25.80447647497789
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1741, 
+        "CITY": "MIAMI", 
+        "FOLIO": "0131250750010", 
+        "CAPACITY": 1306, 
+        "NAME": "ENEIDA MASSAS HARTNER ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.20236, 
+        "ZIPCODE": 33127, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-573-8181", 
+        "POINT_X": 918588.1874322441, 
+        "POINT_Y": 535422.5620706531, 
+        "ADDRESS": "401 NW 29TH ST", 
+        "LAT": 25.80448, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC34"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38543526400062, 
+          25.730894945011183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049130000011", 
+        "CAPACITY": 24, 
+        "NAME": "KENDALL REGIONAL MEDICAL CENTER", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.38544, 
+        "ZIPCODE": 33175, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 223-3000", 
+        "POINT_X": 858480.6918338281, 
+        "POINT_Y": 508355.702490576, 
+        "ADDRESS": "11750 SW 40TH STREET", 
+        "LAT": 25.73089, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31250195363484, 
+          25.868526737852417
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430020000071", 
+        "CAPACITY": 20, 
+        "NAME": "PALM SPRINGS GENERAL HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.3125, 
+        "ZIPCODE": 33012, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305 558 2500", 
+        "POINT_X": 882229.686986663, 
+        "POINT_Y": 558498.0621794091, 
+        "ADDRESS": "1475 W 49TH ST", 
+        "LAT": 25.86853, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM28"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33053852113066, 
+          25.874066845922222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 500, 
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420340010741", 
+        "CAPACITY": 500, 
+        "NAME": "JOSE MARTI MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.33054, 
+        "ZIPCODE": 33016, 
+        "FAX": "(305) 556-6917", 
+        "PRIORITY": "T", 
+        "PHONE": "(305) 557-5931", 
+        "POINT_X": 876288.467569914, 
+        "POINT_Y": 560481.0506674871, 
+        "ADDRESS": "5701 W 24TH AVENUE", 
+        "LAT": 25.87407, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MEC", 
+        "ID": "SN60"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3544521960217, 
+          25.771672752425356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 500, 
+        "CITY": "Miami", 
+        "FOLIO": "3040050110020", 
+        "CAPACITY": 500, 
+        "NAME": "RUBEN DARIO MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.35445, 
+        "ZIPCODE": 33172, 
+        "FAX": "(305) 559-0914", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 226-0179", 
+        "POINT_X": 868607.99441383, 
+        "POINT_Y": 523225.402081825, 
+        "ADDRESS": "350 NW 97TH AVENUE", 
+        "LAT": 25.77167, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MEC", 
+        "ID": "SN63"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2048840926797, 
+          25.831800779347336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 500, 
+        "CITY": "CITY OF MIAMI", 
+        "FOLIO": "0131130880010", 
+        "CAPACITY": 500, 
+        "NAME": "MIAMI EDISON SENIOR", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.20488, 
+        "ZIPCODE": 33127, 
+        "FAX": "(305) 754-2657", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 751-7337", 
+        "POINT_X": 917698.675431747, 
+        "POINT_Y": 545349.061902657, 
+        "ADDRESS": "6161 NW 5TH COURT", 
+        "LAT": 25.8318, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MEC", 
+        "ID": "SN68"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40589174340555, 
+          25.712416330465494
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 500, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049260050010", 
+        "CAPACITY": 500, 
+        "NAME": "HOWARD D. MCMILLAN MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.40589, 
+        "ZIPCODE": 33183, 
+        "FAX": "(305) 387-9641", 
+        "PRIORITY": "T", 
+        "PHONE": "(305) 385-6877", 
+        "POINT_X": 851776.512656912, 
+        "POINT_Y": 501608.73862232297, 
+        "ADDRESS": "13100 SW 59TH STREET", 
+        "LAT": 25.71242, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MEC", 
+        "ID": "SN69"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20376284072675, 
+          25.93058590751693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": "0721120080010", 
+        "CAPACITY": 10, 
+        "NAME": "JACKSON HOSPITAL NORTH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.20376, 
+        "ZIPCODE": 33169, 
+        "FAX": "(305) 654-5083", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 651-1100", 
+        "POINT_X": 917849.67447358, 
+        "POINT_Y": 581256.870008156, 
+        "ADDRESS": "160 NW 170TH STREET", 
+        "LAT": 25.93059, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM20"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29311215134841, 
+          25.705577013232332
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940250270010", 
+        "CAPACITY": 5, 
+        "NAME": "LARKIN COMMUNITY HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.29311, 
+        "ZIPCODE": 33143, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 284-7500", 
+        "POINT_X": 888923.530554328, 
+        "POINT_Y": 499305.84887115704, 
+        "ADDRESS": "7031 SW 62ND AVENUE", 
+        "LAT": 25.70558, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM22"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34473570973039, 
+          25.629819361032588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3050210000240", 
+        "CAPACITY": 10, 
+        "NAME": "JACKSON HOSPITAL SOUTH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.34474, 
+        "ZIPCODE": 33157, 
+        "FAX": "(305) 256-5369", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 256-5334", 
+        "POINT_X": 872061.369068746, 
+        "POINT_Y": 471683.78764557105, 
+        "ADDRESS": "9333 SW 152ND STREET", 
+        "LAT": 25.62982, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM21"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2123066374484, 
+          25.791654037987268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "CITY OF MIAMI", 
+        "FOLIO": "0131350030040", 
+        "CAPACITY": 9999, 
+        "NAME": "JACKSON MEMORIAL HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.21231, 
+        "ZIPCODE": 33136, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 585-1111", 
+        "POINT_X": 915344.486242495, 
+        "POINT_Y": 530742.3270085751, 
+        "ADDRESS": "1611 NW 12TH AVENUE", 
+        "LAT": 25.79165, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33961055888012, 
+          25.685542053732654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3050040000060", 
+        "CAPACITY": 25, 
+        "NAME": "BAPTIST HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.33961, 
+        "ZIPCODE": 33176, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 596-1960", 
+        "POINT_X": 873648.958085161, 
+        "POINT_Y": 491944.78944632405, 
+        "ADDRESS": "8900 NORTH KENDALL DRIVE", 
+        "LAT": 25.68554, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21570003323544, 
+          25.78952451578336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "CITY OF MIAMI", 
+        "FOLIO": "0131350450010", 
+        "CAPACITY": 25, 
+        "NAME": "UNIVERSITY OF MIAMI -CEDARS", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.2157, 
+        "ZIPCODE": 33136, 
+        "FAX": "(305) 325-4673", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 325-5511", 
+        "POINT_X": 914232.510119997, 
+        "POINT_Y": 529961.65206074, 
+        "ADDRESS": "1400 NW 12TH AVENUE", 
+        "LAT": 25.78952, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM06"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32659584168256, 
+          25.88542322855362
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420270010610", 
+        "CAPACITY": 42, 
+        "NAME": "PALMETTO GENERAL HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.3266, 
+        "ZIPCODE": 33016, 
+        "FAX": "(305) 364-2173", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 823-5000", 
+        "POINT_X": 877563.6986152461, 
+        "POINT_Y": 564615.330456659, 
+        "ADDRESS": "2001 W 68TH  STREET", 
+        "LAT": 25.88542, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM07"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29460818333371, 
+          25.741429635587618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040130090140", 
+        "CAPACITY": 35, 
+        "NAME": "MIAMI CHILDREN'S HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.29461, 
+        "ZIPCODE": 33155, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 666-6511", 
+        "POINT_X": 888361.282006912, 
+        "POINT_Y": 512334.17386432, 
+        "ADDRESS": "3100 SW 62ND AVENUE", 
+        "LAT": 25.74143, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM09"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14109516549657, 
+          25.813087850688003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232220110360", 
+        "CAPACITY": 15, 
+        "NAME": "MOUNT SINAI MEDICAL CENTER", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.1411, 
+        "ZIPCODE": 33140, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 674-2121", 
+        "POINT_X": 938725.690136161, 
+        "POINT_Y": 538679.40955957, 
+        "ADDRESS": "4300 ALTON ROAD", 
+        "LAT": 25.81309, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19230984629175, 
+          25.822974838508497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "CITY OF MIAMI", 
+        "FOLIO": "0131240430020", 
+        "CAPACITY": 25, 
+        "NAME": "MIAMI JEWISH HEALTH SYSTEMS", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.19231, 
+        "ZIPCODE": 33137, 
+        "FAX": "(305) 758-9821", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 751-8626", 
+        "POINT_X": 921854.508655496, 
+        "POINT_Y": 542166.311706491, 
+        "ADDRESS": "5200 NE 2ND AVENUE", 
+        "LAT": 25.82297, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29399718452925, 
+          25.702806227468663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940360400130", 
+        "CAPACITY": 35, 
+        "NAME": "SOUTH MIAMI HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.294, 
+        "ZIPCODE": 33143, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "(786) 662-4000", 
+        "POINT_X": 888637.48880358, 
+        "POINT_Y": 498297.225888409, 
+        "ADDRESS": "6200 SW 73RD STREET", 
+        "LAT": 25.70281, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21461446397733, 
+          25.741796871474232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "CITY OF MIAMI", 
+        "FOLIO": "0141140270010", 
+        "CAPACITY": 10, 
+        "NAME": "MERCY HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.21461, 
+        "ZIPCODE": 33133, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 854-4400", 
+        "POINT_X": 914693.091219828, 
+        "POINT_Y": 512616.442656741, 
+        "ADDRESS": "3663 SOUTH MIAMI AVENUE", 
+        "LAT": 25.7418, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM16"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31757919179579, 
+          25.747400533717414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040140150010", 
+        "CAPACITY": 4, 
+        "NAME": "WESTCHESTER HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.31758, 
+        "ZIPCODE": 33155, 
+        "FAX": "(305) 267-6920", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 264-5252", 
+        "POINT_X": 880788.433635578, 
+        "POINT_Y": 514464.574459158, 
+        "ADDRESS": "2500 SW 75TH AVENUE", 
+        "LAT": 25.7474, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM17"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4300091668228, 
+          25.479695256559506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079090000200", 
+        "CAPACITY": 15, 
+        "NAME": "HOMESTEAD HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.43001, 
+        "ZIPCODE": 33030, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(786) 243-8000", 
+        "POINT_X": 844199.227942746, 
+        "POINT_Y": 416992.02727865404, 
+        "ADDRESS": "975 BAPTIST WAY", 
+        "LAT": 25.4797, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM19"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43690169841847, 
+          25.68161311750888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1697, 
+        "CITY": "Miami", 
+        "FOLIO": "3059040022560", 
+        "CAPACITY": 1273, 
+        "NAME": "OLIVER HOOVER ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.4369, 
+        "ZIPCODE": 33196, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-385-4382", 
+        "POINT_X": 841613.999517411, 
+        "POINT_Y": 490368.531443991, 
+        "ADDRESS": "9050 HAMMOCKS BLVD", 
+        "LAT": 25.68161, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC47"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18416277190404, 
+          25.900719596800716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 675, 
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622190070230", 
+        "CAPACITY": 506, 
+        "NAME": "NORTH MIAMI MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.18416, 
+        "ZIPCODE": 33161, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-891-5611", 
+        "POINT_X": 924359.057124078, 
+        "POINT_Y": 570440.865721576, 
+        "ADDRESS": "700 NE 137TH ST", 
+        "LAT": 25.90072, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC58"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37163618676705, 
+          25.852231169848512
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3924, 
+        "CITY": "DORAL", 
+        "FOLIO": "3530070010037", 
+        "CAPACITY": 2943, 
+        "NAME": "RONALD REAGAN SENIOR", 
+        "REGION": "CENTRAL", 
+        "ADACMPL": "Y", 
+        "LON": -80.37164, 
+        "ZIPCODE": 33178, 
+        "FAX": "(305) 805-1901", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 805-1900", 
+        "POINT_X": 862813.000426412, 
+        "POINT_Y": 552477.8127369881, 
+        "ADDRESS": "8600 NW 107TH AVENUE", 
+        "LAT": 25.85223, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC17"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32320110694701, 
+          25.939593534331912
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2733, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3020110010025", 
+        "CAPACITY": 2089, 
+        "NAME": "COUNTRY CLUB MIDDLE SCHOOL", 
+        "REGION": "NORTHWEST", 
+        "ADACMPL": "Y", 
+        "LON": -80.3232, 
+        "ZIPCODE": 33015, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-820-8800", 
+        "POINT_X": 878578.188056078, 
+        "POINT_Y": 584310.188048489, 
+        "ADDRESS": "18305 NW 75TH PL", 
+        "LAT": 25.93959, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25830743485058, 
+          25.94136649255853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 5142, 
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3421040100010", 
+        "CAPACITY": 3857, 
+        "NAME": "MIAMI CAROL CITY SENIOR", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.25831, 
+        "ZIPCODE": 33056, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-621-5681", 
+        "POINT_X": 899900.784518413, 
+        "POINT_Y": 585070.0894158259, 
+        "ADDRESS": "3301 MIAMI GARDENS DR", 
+        "LAT": 25.94137, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC11"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45104976214509, 
+          25.71284481950861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 500, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049290010022", 
+        "CAPACITY": 500, 
+        "NAME": "JOHN A. FERGUSON SENIOR", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.45105, 
+        "ZIPCODE": 33185, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-551-8708", 
+        "POINT_X": 836907.312736578, 
+        "POINT_Y": 501700.124594405, 
+        "ADDRESS": "15900 SW 56TH STREET", 
+        "LAT": 25.71284, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MEC", 
+        "ID": "SN71"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37636422616335, 
+          25.819384175395673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1360, 
+        "CITY": "DORAL", 
+        "FOLIO": "3530190010090", 
+        "CAPACITY": 1360, 
+        "NAME": "DORAL MIDDLE SCHOOL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.37636, 
+        "ZIPCODE": 33178, 
+        "FAX": "(305) 597-3853", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 592-2822", 
+        "POINT_X": 861314.711100161, 
+        "POINT_Y": 540531.8103823221, 
+        "ADDRESS": "5005 NW 112TH AVENUE", 
+        "LAT": 25.81938, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MDPD", 
+        "ID": "EC04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17536417286723, 
+          25.92962257327617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3022080000042", 
+        "CAPACITY": 0, 
+        "NAME": "NORTH MIAMI BEACH SENIOR HIGH", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.17536, 
+        "ZIPCODE": 33162, 
+        "FAX": "(305) 949-0491", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 949-8381", 
+        "POINT_X": 927185.48257358, 
+        "POINT_Y": 580964.456222907, 
+        "ADDRESS": "1247 NE 167TH STREET", 
+        "LAT": 25.92962, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "PHEC", 
+        "ID": "EC63"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45152599833915, 
+          25.537653841024564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 667, 
+        "CITY": "Miami", 
+        "FOLIO": "3069200000680", 
+        "CAPACITY": 500, 
+        "NAME": "REDLAND MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.45153, 
+        "ZIPCODE": 33031, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-247-6112", 
+        "POINT_X": 837014.12453083, 
+        "POINT_Y": 438026.78146890504, 
+        "ADDRESS": "16001 SW 248TH ST", 
+        "LAT": 25.53765, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC51"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19937100872801, 
+          25.96660979097989
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 476, 
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3411360033760", 
+        "CAPACITY": 365, 
+        "NAME": "ANDOVER MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.19937, 
+        "ZIPCODE": 33179, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-654-2727", 
+        "POINT_X": 919213.0411694121, 
+        "POINT_Y": 594359.4484617411, 
+        "ADDRESS": "121 NE 207TH ST", 
+        "LAT": 25.96661, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC57"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33225081597588, 
+          25.874407159323027
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1893, 
+        "CITY": "Hialeah", 
+        "FOLIO": "0420340010430", 
+        "CAPACITY": 1420, 
+        "NAME": "BEN SHEPPARD ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.33225, 
+        "ZIPCODE": 33016, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-556-2204", 
+        "POINT_X": 875724.81285733, 
+        "POINT_Y": 560601.875228986, 
+        "ADDRESS": "5700 W 24TH AVE", 
+        "LAT": 25.87441, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC24"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3396433569683, 
+          25.75632710205874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1508, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040090030030", 
+        "CAPACITY": 1131, 
+        "NAME": "MIAMI CORAL PARK SENIOR HIGH", 
+        "REGION": "CENTRAL", 
+        "ADACMPL": "Y", 
+        "LON": -80.33964, 
+        "ZIPCODE": 33165, 
+        "FAX": "(305) 553-4658", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 226-6565", 
+        "POINT_X": 873509.465910077, 
+        "POINT_Y": 517672.03818857705, 
+        "ADDRESS": "8865 SW 16TH STREET", 
+        "LAT": 25.75633, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC13"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30294621396376, 
+          25.844622958935076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1611, 
+        "CITY": "Hialeah", 
+        "FOLIO": "0430120061380", 
+        "CAPACITY": 1208, 
+        "NAME": "JAMES H. BRIGHT ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.30295, 
+        "ZIPCODE": 33010, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-885-1683", 
+        "POINT_X": 885418.000163827, 
+        "POINT_Y": 549826.437134244, 
+        "ADDRESS": "2530 W 10TH AVE", 
+        "LAT": 25.84462, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC36"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18329501646733, 
+          25.896944005058526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1193, 
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622190070230", 
+        "CAPACITY": 895, 
+        "NAME": "NORTH MIAMI SENIOR HIGH", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.1833, 
+        "ZIPCODE": 33161, 
+        "FAX": "305-895-6248", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 891-6590", 
+        "POINT_X": 924652.873465579, 
+        "POINT_Y": 569070.3136726541, 
+        "ADDRESS": "13110 NE 8TH AVE", 
+        "LAT": 25.89694, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44206963689047, 
+          25.704910809640186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1848, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049280260010", 
+        "CAPACITY": 1386, 
+        "NAME": "BOWMAN FOSTER ASHE ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.44207, 
+        "ZIPCODE": 33193, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-386-6667", 
+        "POINT_X": 839876.2388853279, 
+        "POINT_Y": 498828.885914326, 
+        "ADDRESS": "6601 SW 152ND AVE", 
+        "LAT": 25.70491, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC26"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28360415776153, 
+          25.941067976722977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1357, 
+        "CITY": "Miami", 
+        "FOLIO": "3021060040010", 
+        "CAPACITY": 1018, 
+        "NAME": "LAKE STEVENS ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.2836, 
+        "ZIPCODE": 33055, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-625-6536", 
+        "POINT_X": 891588.125290744, 
+        "POINT_Y": 584915.3118382391, 
+        "ADDRESS": "5101 NW 183RD ST", 
+        "LAT": 25.94107, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC39"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15417113670298, 
+          25.963972859466008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2733, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3012330000220", 
+        "CAPACITY": 2050, 
+        "NAME": "HIGHLAND OAKS MIDDLE", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.15417, 
+        "ZIPCODE": 33180, 
+        "FAX": "(305) 932-0676", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 932-3810", 
+        "POINT_X": 934070.2906543281, 
+        "POINT_Y": 593494.415414907, 
+        "ADDRESS": "2375 NE 203RD STREET", 
+        "LAT": 25.96397, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC08"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22684057872522, 
+          25.81014444663443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 500, 
+        "CITY": "MIAMI", 
+        "FOLIO": "0131220370010", 
+        "CAPACITY": 500, 
+        "NAME": "MIAMI JACKSON SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.22684, 
+        "ZIPCODE": 33142, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-634-2621", 
+        "POINT_X": 910522.6687864141, 
+        "POINT_Y": 537434.62267907, 
+        "ADDRESS": "1751 NW 36TH ST", 
+        "LAT": 25.81014, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "MEC", 
+        "ID": "SN70"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30566096152916, 
+          25.719846303336332
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 80, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040230220010", 
+        "CAPACITY": 80, 
+        "NAME": "SOUTH MIAMI SENIOR", 
+        "REGION": "SOUTHERN", 
+        "ADACMPL": "Y", 
+        "LON": -80.30566, 
+        "ZIPCODE": 33155, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-666-5871", 
+        "POINT_X": 884764.1878231621, 
+        "POINT_Y": 504470.218463659, 
+        "ADDRESS": "6856 SW 53RD ST", 
+        "LAT": 25.71985, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "PHEC", 
+        "ID": "EC23"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37991964535098, 
+          25.75992189093964
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1876, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040070000050", 
+        "CAPACITY": 1407, 
+        "NAME": "DR. CARLOS J FINLAY ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.37992, 
+        "ZIPCODE": 33174, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-552-7122", 
+        "POINT_X": 860246.874325078, 
+        "POINT_Y": 518914.21844699205, 
+        "ADDRESS": "851 SW 117TH AVE", 
+        "LAT": 25.75992, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC32"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35924126640957, 
+          25.630774013060154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1333, 
+        "CITY": "Miami", 
+        "FOLIO": "3050200140010", 
+        "CAPACITY": 1000, 
+        "NAME": "RICHMOND HEIGHTS MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.35924, 
+        "ZIPCODE": 33176, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-238-2316", 
+        "POINT_X": 867280.312029827, 
+        "POINT_Y": 472007.374596827, 
+        "ADDRESS": "15015 SW 103RD AVE", 
+        "LAT": 25.63077, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC52"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42961693232816, 
+          25.676340039372636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1677, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059030141020", 
+        "CAPACITY": 1258, 
+        "NAME": "CLAUDE PEPPER ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.42962, 
+        "ZIPCODE": 33186, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-386-5244", 
+        "POINT_X": 844021.4369597471, 
+        "POINT_Y": 488462.311831243, 
+        "ADDRESS": "14550 SW 96TH ST", 
+        "LAT": 25.67634, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC29"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22943502845233, 
+          25.816126277039842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 681, 
+        "CITY": "Miami", 
+        "FOLIO": "3031220000630", 
+        "CAPACITY": 511, 
+        "NAME": "KELSEY L. PHARR ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.22944, 
+        "ZIPCODE": 33142, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-633-0429", 
+        "POINT_X": 909656.374587245, 
+        "POINT_Y": 539603.812238321, 
+        "ADDRESS": "2000 NW 46TH ST", 
+        "LAT": 25.81613, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC37"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45921618701918, 
+          25.50231879368466
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 4000, 
+        "CITY": "Miami", 
+        "FOLIO": "3079050000180", 
+        "CAPACITY": 3000, 
+        "NAME": "SOUTH DADE SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.45922, 
+        "ZIPCODE": 33030, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 247-4244", 
+        "POINT_X": 834530.625232745, 
+        "POINT_Y": 425174.155271322, 
+        "ADDRESS": "28401 SW 167TH AVE", 
+        "LAT": 25.50232, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22810492869505, 
+          25.862545234748058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2290, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3031030000020", 
+        "CAPACITY": 1718, 
+        "NAME": "MIAMI CENTRAL SENIOR HIGH", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.2281, 
+        "ZIPCODE": 33147, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-696-4161", 
+        "POINT_X": 909994.874566413, 
+        "POINT_Y": 556478.187610239, 
+        "ADDRESS": "1781 NW 95TH ST", 
+        "LAT": 25.86255, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC12"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37005135931732, 
+          25.692942149982386
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2690, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040310000080", 
+        "CAPACITY": 2018, 
+        "NAME": "TERRA ENVIRONMENTAL SENIOR", 
+        "REGION": "SOUTHERN", 
+        "ADACMPL": "Y", 
+        "LON": -80.37005, 
+        "ZIPCODE": 33173, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-412-5800", 
+        "POINT_X": 863610.983410496, 
+        "POINT_Y": 494585.451815903, 
+        "ADDRESS": "11005 SW 84TH ST", 
+        "LAT": 25.69294, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC19"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40544484575308, 
+          25.722517355275198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 749, 
+        "CITY": "Miami", 
+        "FOLIO": "3049230030790", 
+        "CAPACITY": 562, 
+        "NAME": "ROYAL GREEN ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.40544, 
+        "ZIPCODE": 33175, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-221-4452", 
+        "POINT_X": 851907.124928497, 
+        "POINT_Y": 505280.65581915504, 
+        "ADDRESS": "13047 SW 47TH ST", 
+        "LAT": 25.72252, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC53"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39322103270798, 
+          25.737739333210126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 753, 
+        "CITY": "Miami", 
+        "FOLIO": "3049130060880", 
+        "CAPACITY": 565, 
+        "NAME": "VILLAGE GREEN ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.39322, 
+        "ZIPCODE": 33175, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-226-0441", 
+        "POINT_X": 855906.125788745, 
+        "POINT_Y": 510831.469192572, 
+        "ADDRESS": "12265 SW 34TH ST", 
+        "LAT": 25.73774, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC55"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23017022101169, 
+          25.777314979447794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2267, 
+        "CITY": "MIAMI", 
+        "FOLIO": "0141030560010", 
+        "CAPACITY": 1700, 
+        "NAME": "CITRUS GROVE MIDDLE SCHOOL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.23017, 
+        "ZIPCODE": 33125, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-642-5055", 
+        "POINT_X": 909496.999577914, 
+        "POINT_Y": 525495.813223407, 
+        "ADDRESS": "2153 NW 3RD ST", 
+        "LAT": 25.77731, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC28"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2136445285924, 
+          25.838982672977615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3516, 
+        "CITY": "MIAMI", 
+        "FOLIO": "0131140460010", 
+        "CAPACITY": 2637, 
+        "NAME": "MIAMI NORTHWESTERN SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.21364, 
+        "ZIPCODE": 33150, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-836-0991", 
+        "POINT_X": 914801.438115995, 
+        "POINT_Y": 547942.125614159, 
+        "ADDRESS": "1100 NW 71ST ST", 
+        "LAT": 25.83898, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC60"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44292616741609, 
+          25.679475401999287
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3884, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059040000165", 
+        "CAPACITY": 2913, 
+        "NAME": "FELIX VARELA SENIOR HIGH", 
+        "REGION": "SOUTHERN", 
+        "ADACMPL": "Y", 
+        "LON": -80.44293, 
+        "ZIPCODE": 33196, 
+        "FAX": "(305) 386-8987", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 752-7900", 
+        "POINT_X": 839633.1721142461, 
+        "POINT_Y": 489583.172450408, 
+        "ADDRESS": "15255  SW 96TH STREET", 
+        "LAT": 25.67948, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC06"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40655000302684, 
+          25.746371587376323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2733, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049110000080", 
+        "CAPACITY": 2050, 
+        "NAME": "W. R. THOMAS MIDDLE SCHOOL", 
+        "REGION": "CENTRAL", 
+        "ADACMPL": "Y", 
+        "LON": -80.40655, 
+        "ZIPCODE": 33175, 
+        "FAX": "(305) 551-4430", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 995-3800", 
+        "POINT_X": 851504.282230247, 
+        "POINT_Y": 513948.946225323, 
+        "ADDRESS": "13001 SW 26TH STREET", 
+        "LAT": 25.74637, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC20"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33399122256041, 
+          25.951737853992423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1915, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3020030311700", 
+        "CAPACITY": 1436, 
+        "NAME": "LAWTON CHILES MIDDLE SCHOOL", 
+        "REGION": "NORTHWEST", 
+        "ADACMPL": "Y", 
+        "LON": -80.33399, 
+        "ZIPCODE": 33015, 
+        "FAX": "(305) 816-9248", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 816-9101", 
+        "POINT_X": 875009.760481663, 
+        "POINT_Y": 588706.083784238, 
+        "ADDRESS": "8190 NW 197TH STREET", 
+        "LAT": 25.95174, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41238954539341, 
+          25.67889248025405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1200, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059020051100", 
+        "CAPACITY": 900, 
+        "NAME": "CALUSA ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.41239, 
+        "ZIPCODE": 33186, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-385-0589", 
+        "POINT_X": 849691.250423245, 
+        "POINT_Y": 489414.844374992, 
+        "ADDRESS": "9580 W CALUSA CLUB DR", 
+        "LAT": 25.67889, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC27"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31598069940569, 
+          25.660048332746985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3084, 
+        "CITY": "Miami", 
+        "FOLIO": "3050110000400", 
+        "CAPACITY": 2313, 
+        "NAME": "MIAMI PALMETTO SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.31598, 
+        "ZIPCODE": 33156, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-235-1360", 
+        "POINT_X": 881478.999511663, 
+        "POINT_Y": 482718.531324074, 
+        "ADDRESS": "7460 SW 118TH ST", 
+        "LAT": 25.66005, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC44"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3056156102723, 
+          25.71979595974268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 6039, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040230220010", 
+        "CAPACITY": 4529, 
+        "NAME": "SOUTH MIAMI SENIOR", 
+        "REGION": "SOUTHERN", 
+        "ADACMPL": "Y", 
+        "LON": -80.30562, 
+        "ZIPCODE": 33155, 
+        "FAX": "(305) 666-6359", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 666-5871", 
+        "POINT_X": 884779.215680245, 
+        "POINT_Y": 504451.99933999, 
+        "ADDRESS": "6856 SW 53RD STREET", 
+        "LAT": 25.7198, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC18"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17335892480506, 
+          25.971515462127257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 4057, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3012320000030", 
+        "CAPACITY": 3042, 
+        "NAME": "DR. MICHAEL M KROP SENIOR HIGH", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.17336, 
+        "ZIPCODE": 33179, 
+        "FAX": "(305) 651-8043", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 552-7122", 
+        "POINT_X": 927748.398770578, 
+        "POINT_Y": 596195.693476908, 
+        "ADDRESS": "1410 COUNTYLINE ROAD", 
+        "LAT": 25.97152, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3325804902794, 
+          25.934468949618417
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1372, 
+        "CITY": "Miami", 
+        "FOLIO": "3020100000030", 
+        "CAPACITY": 1029, 
+        "NAME": "PALM SPRINGS NORTH ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.33258, 
+        "ZIPCODE": 33015, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-821-4631", 
+        "POINT_X": 875505.3123120781, 
+        "POINT_Y": 582431.7498762379, 
+        "ADDRESS": "17615 NW 82ND AVE", 
+        "LAT": 25.93447, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC49"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25463501005417, 
+          25.74462435296348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0341170057550", 
+        "CAPACITY": 5, 
+        "NAME": "CORAL GABLES HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.25464, 
+        "ZIPCODE": 33134, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305)445-8461", 
+        "POINT_X": 901513.188117746, 
+        "POINT_Y": 513567.687473409, 
+        "ADDRESS": "3100 SOUTH  DOUGLAS ROAD", 
+        "LAT": 25.74462, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM23"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35379383442073, 
+          25.686490031163718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3050050020151", 
+        "CAPACITY": 0, 
+        "NAME": "HARMONY HEALTH GREENBRIAR NURSING HOME", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.35379, 
+        "ZIPCODE": 33176, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 275-5604", 
+        "POINT_X": 868976.250567079, 
+        "POINT_Y": 492266.250417575, 
+        "ADDRESS": "9820 NORTH KENDALL DRIVE", 
+        "LAT": 25.68649, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM27"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27883721712685, 
+          25.763652275888877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0341070240010", 
+        "CAPACITY": 5, 
+        "NAME": "KINDRED HOSPITAL SOUTH FLORIDA", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.27884, 
+        "ZIPCODE": 33134, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 448-1585", 
+        "POINT_X": 893508.625058662, 
+        "POINT_Y": 520439.31218157, 
+        "ADDRESS": "5190 SW 8TH STREET", 
+        "LAT": 25.76365, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM26"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14534483765404, 
+          25.969789714447355
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "AVENTURA", 
+        "FOLIO": "2812340010340", 
+        "CAPACITY": 15, 
+        "NAME": "AVENTURA HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.14534, 
+        "ZIPCODE": 33180, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 682-7000", 
+        "POINT_X": 936956.5624408281, 
+        "POINT_Y": 595627.5630514921, 
+        "ADDRESS": "20900 BISCAYNE BLVD", 
+        "LAT": 25.96979, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM25"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.50680791974915, 
+          25.496153992938694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2271, 
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "3078020000291", 
+        "CAPACITY": 1704, 
+        "NAME": "SOUTH DADE MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.50681, 
+        "ZIPCODE": 33030, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": null, 
+        "POINT_X": 818841.732726079, 
+        "POINT_Y": 422872.642157823, 
+        "ADDRESS": "29100 SW 194 AVE", 
+        "LAT": 25.49615, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC56"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26893200041974, 
+          25.84559508606983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431080011790", 
+        "CAPACITY": 15, 
+        "NAME": "HIALEAH HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.26893, 
+        "ZIPCODE": 33013, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 693-6100", 
+        "POINT_X": 896603.2084364111, 
+        "POINT_Y": 550240.554744326, 
+        "ADDRESS": "651 E 25TH ST", 
+        "LAT": 25.8456, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21419622587631, 
+          25.859594247644043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3031020310010", 
+        "CAPACITY": 15, 
+        "NAME": "NORTH SHORE MEDICAL CENTER", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.2142, 
+        "ZIPCODE": 33150, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 835-6000", 
+        "POINT_X": 914575.174788997, 
+        "POINT_Y": 555432.7159479039, 
+        "ADDRESS": "1100 NW 95TH ST", 
+        "LAT": 25.85959, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30813594455044, 
+          25.939445502182615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3411, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3020120000120", 
+        "CAPACITY": 2558, 
+        "NAME": "AMERICAN SENIOR", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.30814, 
+        "ZIPCODE": 33015, 
+        "FAX": "(305) 828-7380", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 557-3777", 
+        "POINT_X": 883529.375332162, 
+        "POINT_Y": 584282.250112243, 
+        "ADDRESS": "18350 NW 67TH AVENUE", 
+        "LAT": 25.93945, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40526922811888, 
+          25.70205485471037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 3253, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049260000021", 
+        "CAPACITY": 2440, 
+        "NAME": "MIAMI SUNSET SENIRO HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.40527, 
+        "ZIPCODE": 33183, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-385-4255", 
+        "POINT_X": 851998.4370818291, 
+        "POINT_Y": 497843.749761239, 
+        "ADDRESS": "13125 SW 72ND ST", 
+        "LAT": 25.70205, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC59"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44528046594614, 
+          25.69339457476951
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1241, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049330100190", 
+        "CAPACITY": 931, 
+        "NAME": "DANTE B. FASCELL ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.44528, 
+        "ZIPCODE": 33193, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-380-1901", 
+        "POINT_X": 838836.562486995, 
+        "POINT_Y": 494638.843769491, 
+        "ADDRESS": "15625 SW 80TH ST", 
+        "LAT": 25.69339, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC31"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17336573389942, 
+          25.971531647266012
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 80, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3012320000030", 
+        "CAPACITY": 80, 
+        "NAME": "DR. MICHAEL M KROP SENIOR HIGH", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.17337, 
+        "ZIPCODE": 33179, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-652-6808", 
+        "POINT_X": 927746.124496911, 
+        "POINT_Y": 596201.5622315711, 
+        "ADDRESS": "1410 NE 215TH ST", 
+        "LAT": 25.97153, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "PHEC", 
+        "ID": "EC21"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27777344457743, 
+          25.865432263947934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1803, 
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431060580010", 
+        "CAPACITY": 1352, 
+        "NAME": "HIALEAH SENIOR", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.27777, 
+        "ZIPCODE": 33013, 
+        "FAX": "(305) 828-5513", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 822-1500", 
+        "POINT_X": 893655.664790828, 
+        "POINT_Y": 557434.622705244, 
+        "ADDRESS": "251 E 47TH STREET", 
+        "LAT": 25.86543, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC08"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37159593817243, 
+          25.747959119585474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 100, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3040070000010", 
+        "CAPACITY": 100, 
+        "NAME": "E. DARWIN FUCHS PAVILION @ TAMIAMI PARK", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.3716, 
+        "ZIPCODE": 33165, 
+        "FAX": "(305)554-6092", 
+        "PRIORITY": "P", 
+        "PHONE": "305-223-7066", 
+        "POINT_X": 863007.1539094971, 
+        "POINT_Y": 514579.23859990406, 
+        "ADDRESS": "10901 SW 24TH STREET", 
+        "LAT": 25.74796, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "PHEC", 
+        "ID": "EC22"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23168519077312, 
+          25.8254856655568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1199, 
+        "CITY": "Miami", 
+        "FOLIO": "3031150480010", 
+        "CAPACITY": 899, 
+        "NAME": "OLINDA ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.23169, 
+        "ZIPCODE": 33142, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-633-0308", 
+        "POINT_X": 908896.249467079, 
+        "POINT_Y": 543001.311676905, 
+        "ADDRESS": "5536 NW 21ST AVE", 
+        "LAT": 25.82549, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC46"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20341105446958, 
+          25.796424074745428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1048, 
+        "CITY": "Miami", 
+        "FOLIO": "0131250620030", 
+        "CAPACITY": 786, 
+        "NAME": "PAUL LAURENCE DUNBAR ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.20341, 
+        "ZIPCODE": 33127, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-573-2344", 
+        "POINT_X": 918261.06243033, 
+        "POINT_Y": 532493.687679075, 
+        "ADDRESS": "505 NW 20TH ST", 
+        "LAT": 25.79642, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC50"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44847823309267, 
+          25.634016542225844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 4450, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059200105150", 
+        "CAPACITY": 3340, 
+        "NAME": "JORGE MAS CANOSA MIDDLE", 
+        "REGION": "SOUTHERN", 
+        "ADACMPL": "Y", 
+        "LON": -80.44848, 
+        "ZIPCODE": 33196, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 246-5934", 
+        "POINT_X": 837873.4833764139, 
+        "POINT_Y": 473053.529984824, 
+        "ADDRESS": "15735 SW 144 ST", 
+        "LAT": 25.63402, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC09"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21882184103265, 
+          25.952598128195227
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 916, 
+        "CITY": "Miami Gardens", 
+        "FOLIO": "3421020040010", 
+        "CAPACITY": 687, 
+        "NAME": "MIAMI NORLAND SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.21882, 
+        "ZIPCODE": 33169, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-653-1416", 
+        "POINT_X": 912852.625084497, 
+        "POINT_Y": 589227.9377274071, 
+        "ADDRESS": "1050 NW 195TH ST", 
+        "LAT": 25.9526, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC43"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34108367250185, 
+          25.57475515654859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 0, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3660090010060", 
+        "CAPACITY": 0, 
+        "NAME": "HEALTH SOUTH REHAB HOSPITAL", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.34108, 
+        "ZIPCODE": 33189, 
+        "FAX": null, 
+        "PRIORITY": "P", 
+        "PHONE": "305-251-3800", 
+        "POINT_X": 873364.125649579, 
+        "POINT_Y": 451676.625560239, 
+        "ADDRESS": "20601 OLD CUTLER ROAD", 
+        "LAT": 25.57476, 
+        "SECURITY": "IN HOUSE", 
+        "TYPE": "MMF", 
+        "ID": "MM29"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45234209152483, 
+          25.665364356955692
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 2359, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059080060050", 
+        "CAPACITY": 1769, 
+        "NAME": "GILBERT L. PORTER ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.45234, 
+        "ZIPCODE": 33196, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-382-0792", 
+        "POINT_X": 836553.313116495, 
+        "POINT_Y": 484441.562982991, 
+        "ADDRESS": "15851 SW 112TH ST", 
+        "LAT": 25.66536, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC35"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34570909664068, 
+          25.901235791594118
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1803, 
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220210010091", 
+        "CAPACITY": 1356, 
+        "NAME": "BARBARA GOLEMAN SENIOR HIGH", 
+        "REGION": "NORTHWEST", 
+        "ADACMPL": "Y", 
+        "LON": -80.34571, 
+        "ZIPCODE": 33018, 
+        "FAX": "(305) 827-0249", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 362-0676", 
+        "POINT_X": 871250.943524245, 
+        "POINT_Y": 570330.855114825, 
+        "ADDRESS": "14100 NW 89TH AVENUE", 
+        "LAT": 25.90124, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22721084606859, 
+          25.955565461477182
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1193, 
+        "CITY": "Miami Gardens", 
+        "FOLIO": "3421020170010", 
+        "CAPACITY": 895, 
+        "NAME": "NORWOOD ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.22721, 
+        "ZIPCODE": 33169, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-653-0068", 
+        "POINT_X": 910089.625361163, 
+        "POINT_Y": 590290.124907486, 
+        "ADDRESS": "19810 NW 14TH CT", 
+        "LAT": 25.95557, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC45"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17536417286723, 
+          25.92962257327617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 4203, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3022080000042", 
+        "CAPACITY": 3152, 
+        "NAME": "NORTH MIAMI BEACH SENIOR HIGH", 
+        "REGION": "NORTHEAST", 
+        "ADACMPL": "Y", 
+        "LON": -80.17536, 
+        "ZIPCODE": 33162, 
+        "FAX": "(305) 949-0491", 
+        "PRIORITY": "P", 
+        "PHONE": "(305) 949-8381", 
+        "POINT_X": 927185.48257358, 
+        "POINT_Y": 580964.456222907, 
+        "ADDRESS": "1247 NE 167TH STREET", 
+        "LAT": 25.92962, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC62"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31689854971386, 
+          25.89037744977353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 865, 
+        "CITY": "Hialeah", 
+        "FOLIO": "0420260010400", 
+        "CAPACITY": 649, 
+        "NAME": "PALM LAKES ELEMENTARY", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.3169, 
+        "ZIPCODE": 33014, 
+        "FAX": null, 
+        "PRIORITY": "T", 
+        "PHONE": "305-823-6970", 
+        "POINT_X": 880742.625000164, 
+        "POINT_Y": 566432.49972257, 
+        "ADDRESS": "7450 W 16TH AVE", 
+        "LAT": 25.89038, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC48"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44174198142798, 
+          25.67466352045742
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 1956, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3059040080010", 
+        "CAPACITY": 1467, 
+        "NAME": "HAMMOCKS MIDDLE", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.44174, 
+        "ZIPCODE": 33196, 
+        "FAX": "(305) 382-0861", 
+        "PRIORITY": "S", 
+        "PHONE": "(305) 385-0896", 
+        "POINT_X": 840030.5630517451, 
+        "POINT_Y": 487835.937755905, 
+        "ADDRESS": "9889 HAMMOCKS BLVD", 
+        "LAT": 25.67466, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC07"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4299045558475, 
+          25.734922212765387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 805, 
+        "CITY": "MIAMI", 
+        "FOLIO": "3049150340010", 
+        "CAPACITY": 604, 
+        "NAME": "G. HOLMES BRADDOCK SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.4299, 
+        "ZIPCODE": 33185, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-225-9729", 
+        "POINT_X": 843834.8120049131, 
+        "POINT_Y": 509753.718723409, 
+        "ADDRESS": "3601 SW 147TH AVE", 
+        "LAT": 25.73492, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC61"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34891766645775, 
+          25.670319303895106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CAPACITY15": 560, 
+        "CITY": "Miami", 
+        "FOLIO": "3050090000390", 
+        "CAPACITY": 420, 
+        "NAME": "MIAMI KILLIAN SENIOR HIGH", 
+        "REGION": null, 
+        "ADACMPL": "Y", 
+        "LON": -80.34892, 
+        "ZIPCODE": 33176, 
+        "FAX": null, 
+        "PRIORITY": "S", 
+        "PHONE": "305-271-3311", 
+        "POINT_X": 870611.06225808, 
+        "POINT_Y": 486396.811697155, 
+        "ADDRESS": "10655 SW 97TH AVE", 
+        "LAT": 25.67032, 
+        "SECURITY": "SCHOOL POLICE", 
+        "TYPE": "HEC", 
+        "ID": "EC41"
+      }
+    }
+  ]
+}

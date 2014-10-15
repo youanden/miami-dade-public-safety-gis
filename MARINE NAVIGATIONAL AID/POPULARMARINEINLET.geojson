@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13017909732942, 
+            25.899193560700194
+          ], 
+          [
+            -80.12686770342792, 
+            25.900666287024002
+          ], 
+          [
+            -80.11697304150913, 
+            25.899710798933313
+          ], 
+          [
+            -80.11631184685716, 
+            25.899856033134462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "NAME": "Haulover", 
+        "SHAPE_LEN": 4708.28135248, 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14139883689593, 
+            25.76692275072156
+          ], 
+          [
+            -80.12838296339328, 
+            25.761471836088766
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "NAME": "Government Cut", 
+        "SHAPE_LEN": 4719.93978884, 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.16796237230916, 
+            25.725480787285157
+          ], 
+          [
+            -80.14491219569874, 
+            25.737523557965222
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "NAME": "Bear Island", 
+        "SHAPE_LEN": 8760.56880179, 
+        "ID": 3
+      }
+    }
+  ]
+}

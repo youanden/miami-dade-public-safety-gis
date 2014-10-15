@@ -1,0 +1,2949 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12094717541373, 
+          25.86108358404619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "NORTH SHORE LIBRARY", 
+        "LON": -80.12095, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 945237.56033297, 
+        "POINT_Y": 556168.39437558, 
+        "ADDRESS": "75 ST & COLLINS AV", 
+        "LAT": 25.86109, 
+        "ID": "ZA MIAMI BEACH 21"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12570283603142, 
+          25.8621157077761
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "BISCAYNE ELEMENTARY", 
+        "LON": -80.12571, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 943671.11860351, 
+        "POINT_Y": 556533.10682392, 
+        "ADDRESS": "800 77TH STREET", 
+        "LAT": 25.86212, 
+        "ID": "ZA MIAMI BEACH 22"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12840618325383, 
+          25.86395531565345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "STREET INTERSECTION", 
+        "LON": -80.12841, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 942777.66785067, 
+        "POINT_Y": 557195.84935254, 
+        "ADDRESS": "79 ST & HAWTHORNE AV", 
+        "LAT": 25.86396, 
+        "ID": "ZA MIAMI BEACH 23"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12105670475808, 
+          25.866322959717728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "STREET INTERSECTION", 
+        "LON": -80.12106, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 945188.79540492, 
+        "POINT_Y": 558072.53748135, 
+        "ADDRESS": "81 ST & COLLINS AV", 
+        "LAT": 25.86633, 
+        "ID": "ZA MIAMI BEACH 24"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12370728436969, 
+          25.871296280335866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "ST. JOSEPH'S SCHOOL", 
+        "LON": -80.12371, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 944305.1015801, 
+        "POINT_Y": 559874.39245904, 
+        "ADDRESS": "8625 BYRON AV", 
+        "LAT": 25.8713, 
+        "ID": "ZA MIAMI BEACH 25"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15070152907242, 
+          25.847503686961772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH BAY VILLAGE", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "KLA SCHOOLS", 
+        "LON": -80.1507, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 935484.48537988, 
+        "POINT_Y": 551168.08640292, 
+        "ADDRESS": "7800 HISPANIOLA AVE.", 
+        "LAT": 25.84751, 
+        "ID": "ZA NORTH BAY VILLAGE 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12664831120067, 
+          25.88705269818224
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAL HARBOUR", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "BAL HARBOUR VILLAGE HALL", 
+        "LON": -80.12665, 
+        "ZIPCODE": 33154, 
+        "EVACZONE": "B", 
+        "POINT_X": 943299.89428316, 
+        "POINT_Y": 565595.02555236, 
+        "ADDRESS": "655 96 ST", 
+        "LAT": 25.88706, 
+        "ID": "ZA BAL HARBOUR 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12430785314604, 
+          25.897621156515044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAL HARBOUR", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "HARBOUR HOUSE CONDOS", 
+        "LON": -80.12431, 
+        "ZIPCODE": 33154, 
+        "EVACZONE": "B", 
+        "POINT_X": 944043.76781985, 
+        "POINT_Y": 569441.54126795, 
+        "ADDRESS": "10285 COLLINS AVE", 
+        "LAT": 25.89763, 
+        "ID": "ZA BAL HARBOUR 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13113240735306, 
+          25.88739326485567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAY HARBOR ISLANDS", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "BAY HARBOR TOWN HALL", 
+        "LON": -80.13113, 
+        "ZIPCODE": 33154, 
+        "EVACZONE": "B", 
+        "POINT_X": 941824.76058579, 
+        "POINT_Y": 565709.02619246, 
+        "ADDRESS": "9665 BAY HARBOUR TE", 
+        "LAT": 25.8874, 
+        "ID": "ZA BAY HARBOR ISLANDS 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12300927152168, 
+          25.881458958697106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SURFSIDE", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SURFSIDE TOWN CITY HALL", 
+        "LON": -80.12301, 
+        "ZIPCODE": 33154, 
+        "EVACZONE": "B", 
+        "POINT_X": 944509.95226829, 
+        "POINT_Y": 563569.81364647, 
+        "ADDRESS": "9293 HARDING AV", 
+        "LAT": 25.88146, 
+        "ID": "ZA SURFSIDE 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35522430186552, 
+          25.581047840916384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "CUTLER RIDGE PARK", 
+        "LON": -80.35523, 
+        "ZIPCODE": 33157, 
+        "EVACZONE": "B", 
+        "POINT_X": 868691.73626168, 
+        "POINT_Y": 453940.80157638, 
+        "ADDRESS": "10100 SW 200 ST", 
+        "LAT": 25.58105, 
+        "ID": "ZC CUTLER BAY 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12255762068064, 
+          25.92274829400034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "ARLEN HOUSE CONDOMINIUMS", 
+        "LON": -80.12256, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "B", 
+        "POINT_X": 944558.04980433, 
+        "POINT_Y": 578578.53762845, 
+        "ADDRESS": "BAYVIEW DR. & COLLINS AVE", 
+        "LAT": 25.92275, 
+        "ID": "ZA SUNNY ISLES BEACH 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12468910675976, 
+          25.93701804089646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "WINSTON TOWERS (Building 300)", 
+        "LON": -80.12469, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "B", 
+        "POINT_X": 943822.80321165, 
+        "POINT_Y": 583760.59766528, 
+        "ADDRESS": "230 174 ST.", 
+        "LAT": 25.93702, 
+        "ID": "ZA SUNNY ISLES BEACH 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1279875458772, 
+          25.936823161231132
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "WINSTON TOWERS (Building 100)", 
+        "LON": -80.12799, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "B", 
+        "POINT_X": 942739.24634664, 
+        "POINT_Y": 583682.5327692, 
+        "ADDRESS": "250 174 ST", 
+        "LAT": 25.93683, 
+        "ID": "ZA SUNNY ISLES BEACH 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1210170331795, 
+          25.950315803684678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "STREET INTERSECTION", 
+        "LON": -80.12102, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "B", 
+        "POINT_X": 944997.18426874, 
+        "POINT_Y": 588602.14083779, 
+        "ADDRESS": "189 ST & COLLINS AV", 
+        "LAT": 25.95032, 
+        "ID": "ZA SUNNY ISLES BEACH 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12054745428907, 
+          25.955070436775753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "OCEAN VIEW", 
+        "LON": -80.12055, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "B", 
+        "POINT_X": 945139.88378887, 
+        "POINT_Y": 590331.3901194, 
+        "ADDRESS": "193 ST & COLLINS AV", 
+        "LAT": 25.95508, 
+        "ID": "ZA SUNNY ISLES BEACH 05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3367072147175, 
+          25.580254566722118
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "FRANJO PARK", 
+        "LON": -80.33671, 
+        "ZIPCODE": 33189, 
+        "EVACZONE": "B", 
+        "POINT_X": 874796.78023536, 
+        "POINT_Y": 453682.57130414, 
+        "ADDRESS": "20175 FRANJO RD", 
+        "LAT": 25.58026, 
+        "ID": "ZC CUTLER BAY 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36710887802943, 
+          25.571545830635362
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "SOUTHLAND MALL (SOUTHSIDE)", 
+        "LON": -80.36711, 
+        "ZIPCODE": 33189, 
+        "EVACZONE": "B", 
+        "POINT_X": 864790.81875404, 
+        "POINT_Y": 450468.45085314, 
+        "ADDRESS": "10850 SW 211 ST", 
+        "LAT": 25.57155, 
+        "ID": "ZC CUTLER BAY 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48359666274328, 
+          25.462600685470548
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "LAURA SAUNDERS ELEMENTARY", 
+        "LON": -80.4836, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "C", 
+        "POINT_X": 826545.17263842, 
+        "POINT_Y": 410707.09964811, 
+        "ADDRESS": "505 SW 8 ST", 
+        "LAT": 25.46261, 
+        "ID": "ZC HOMESTEAD 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46339630115845, 
+          25.477143716372066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "HARRIS FIELD", 
+        "LON": -80.4634, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "C", 
+        "POINT_X": 833188.77200461, 
+        "POINT_Y": 416018.93888506, 
+        "ADDRESS": "1034 NE 8 ST", 
+        "LAT": 25.47715, 
+        "ID": "ZC HOMESTEAD 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18396526198825, 
+          25.858434028758772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SHORES", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "STREET INTERSECTION", 
+        "LON": -80.18397, 
+        "ZIPCODE": 33138, 
+        "EVACZONE": "C", 
+        "POINT_X": 924519.54098567, 
+        "POINT_Y": 555071.62867856, 
+        "ADDRESS": "9050 BISCAYNE BD", 
+        "LAT": 25.85844, 
+        "ID": "ZB MIAMI SHORES 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30612185615941, 
+          25.69093530128671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "Dadeland North Metrorail Station", 
+        "LON": -80.30612, 
+        "ZIPCODE": 33143, 
+        "EVACZONE": "C", 
+        "POINT_X": 884667.64181256, 
+        "POINT_Y": 493961.49870165, 
+        "ADDRESS": "8300 S Dixie Hwy", 
+        "LAT": 25.69094, 
+        "ID": "ZC UNINC 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33875123858759, 
+          25.613568359997604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PALMETTO BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "CHRIST FELLOWSHIP CHURCH", 
+        "LON": -80.33875, 
+        "ZIPCODE": 33157, 
+        "EVACZONE": "C", 
+        "POINT_X": 874062.64954668, 
+        "POINT_Y": 465787.12965141, 
+        "ADDRESS": "8900 SW 168 ST", 
+        "LAT": 25.61357, 
+        "ID": "ZC PALMETTO BAY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14872412633596, 
+          25.941135732576072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "AVENTURA", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "OFFICE DEPOT SHOPPING CENTER", 
+        "LON": -80.14873, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "C", 
+        "POINT_X": 935914.00602028, 
+        "POINT_Y": 585205.22537863, 
+        "ADDRESS": "NE 179 ST & BISCAYNE BD", 
+        "LAT": 25.94114, 
+        "ID": "ZB AVENTURA 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38077271079902, 
+          25.56613473543543
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "MAYS MIDDLE SCHOOL", 
+        "LON": -80.38078, 
+        "ZIPCODE": 33170, 
+        "EVACZONE": "C", 
+        "POINT_X": 860295.77951786, 
+        "POINT_Y": 448480.55760329, 
+        "ADDRESS": "11700 SW 216 ST", 
+        "LAT": 25.56614, 
+        "ID": "ZC UNINC 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39403243706737, 
+          25.59732150333443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "Larry/Penny Thompson", 
+        "LON": -80.39404, 
+        "ZIPCODE": 33177, 
+        "EVACZONE": "C", 
+        "POINT_X": 855872.82373774, 
+        "POINT_Y": 459795.14039782, 
+        "ADDRESS": "12451 SW 184 ST", 
+        "LAT": 25.59733, 
+        "ID": "ZC UNINC 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15776559526465, 
+          25.888442897761387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "BAY VIEW TOWERS", 
+        "LON": -80.15777, 
+        "ZIPCODE": 33181, 
+        "EVACZONE": "C", 
+        "POINT_X": 933065.70419363, 
+        "POINT_Y": 566033.44833677, 
+        "ADDRESS": "2100 SANS SOUCI BD", 
+        "LAT": 25.88845, 
+        "ID": "ZB NORTH MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49366610856606, 
+          25.4642952214108
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "POLICE ATHLETIC LEAGUE GYM", 
+        "LON": -80.49367, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "D", 
+        "POINT_X": 823220.53468333, 
+        "POINT_Y": 411310.20979267, 
+        "ADDRESS": "600 SW 14 AV", 
+        "LAT": 25.4643, 
+        "ID": "ZC HOMESTEAD 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47668841463032, 
+          25.485435427347586
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "HOMESTEAD SENIOR CENTER", 
+        "LON": -80.47669, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "D", 
+        "POINT_X": 828791.86934452, 
+        "POINT_Y": 419015.02515985, 
+        "ADDRESS": "NE 16 ST & KROME AV", 
+        "LAT": 25.48544, 
+        "ID": "ZC HOMESTEAD 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30597214912665, 
+          25.761238175727524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "Street Location", 
+        "LON": -80.30597, 
+        "ZIPCODE": 33144, 
+        "EVACZONE": "D", 
+        "POINT_X": 884582.58555648, 
+        "POINT_Y": 519513.94032545, 
+        "ADDRESS": "950 SW 68 AV", 
+        "LAT": 25.76124, 
+        "ID": "MHPSW UNINC 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35439302707657, 
+          25.603148804647955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "WEST PERRINE COMMUNITY ACTION AGENCY", 
+        "LON": -80.3544, 
+        "ZIPCODE": 33157, 
+        "EVACZONE": "D", 
+        "POINT_X": 868926.64186189, 
+        "POINT_Y": 461974.72337586, 
+        "ADDRESS": "17801 HOMESTEAD AV", 
+        "LAT": 25.60315, 
+        "ID": "ZC UNINC 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16607174899129, 
+          25.886886547913967
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "STREET ADDRESS", 
+        "LON": -80.16607, 
+        "ZIPCODE": 33161, 
+        "EVACZONE": "D", 
+        "POINT_X": 930338.38771109, 
+        "POINT_Y": 565450.31336023, 
+        "ADDRESS": "NE 120 ST & NE 16 AV", 
+        "LAT": 25.88689, 
+        "ID": "MHPNE UNINC 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14765725232495, 
+          25.958357593820896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "Street Location", 
+        "LON": -80.14766, 
+        "ZIPCODE": 33180, 
+        "EVACZONE": "D", 
+        "POINT_X": 936223.86816457, 
+        "POINT_Y": 591467.27389646, 
+        "ADDRESS": "19800 W DIXIE HWY", 
+        "LAT": 25.95836, 
+        "ID": "MHPNE UNINC 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.51106512987992, 
+          25.608702444937013
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "8-1/2 SQUARE MILE", 
+        "LON": -80.51107, 
+        "ZIPCODE": 33187, 
+        "EVACZONE": "D", 
+        "POINT_X": 817286.9408218, 
+        "POINT_Y": 463772.24760153, 
+        "ADDRESS": "SW 168 ST & SW 197 AV", 
+        "LAT": 25.60871, 
+        "ID": "ZA EHSM 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4572168172236, 
+          25.68080799183447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "West Kendall Transit Terminal", 
+        "LON": -80.45722, 
+        "ZIPCODE": 33196, 
+        "EVACZONE": "D", 
+        "POINT_X": 834924.61635823, 
+        "POINT_Y": 490047.92583, 
+        "ADDRESS": "9155 SW 162 Ave.", 
+        "LAT": 25.68081, 
+        "ID": "ZD UNINC 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.52010912936196, 
+          25.637642323976515
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "8-1/2 SQUARE MILE", 
+        "LON": -80.52011, 
+        "ZIPCODE": 33196, 
+        "EVACZONE": "E", 
+        "POINT_X": 814268.50037099, 
+        "POINT_Y": 474279.40357932, 
+        "ADDRESS": "SW 136 ST & SW 202 AV", 
+        "LAT": 25.63765, 
+        "ID": "ZA EHSM 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31026366634785, 
+          25.84708471486328
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "WYNKEN BLYNKEN & NOD", 
+        "LON": -80.31027, 
+        "ZIPCODE": 33010, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 883006.62241901, 
+        "POINT_Y": 550708.5000985, 
+        "ADDRESS": "W 28 ST & W 14 AV", 
+        "LAT": 25.84709, 
+        "ID": "MHPNW HIALEAH 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31033902549245, 
+          25.848128497969192
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "HOLIDAY ACRES MOBILE HOME PARK", 
+        "LON": -80.31034, 
+        "ZIPCODE": 33012, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 882979.84661098, 
+        "POINT_Y": 551087.74797085, 
+        "ADDRESS": "1401 W 29 ST", 
+        "LAT": 25.84813, 
+        "ID": "MHPNW HIALEAH 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31176496075133, 
+          25.848134967459536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "STRAWBERRY VILLAGE TRAILER PARK", 
+        "LON": -80.31177, 
+        "ZIPCODE": 33012, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 882510.86382655, 
+        "POINT_Y": 551087.64070685, 
+        "ADDRESS": "1451 W 29 ST", 
+        "LAT": 25.84814, 
+        "ID": "MHPNW HIALEAH 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31453120067306, 
+          25.849494786772457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "HIBISCUS & SUNNY GARDENS & PALMETTO TRAILER PARKS", 
+        "LON": -80.31453, 
+        "ZIPCODE": 33012, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 881598.5077297, 
+        "POINT_Y": 551577.13113931, 
+        "ADDRESS": "3000 W 16 AV", 
+        "LAT": 25.8495, 
+        "ID": "MHPNW HIALEAH 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27400094363497, 
+          25.852513586763955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "HIALEAH TRAILER PARK", 
+        "LON": -80.274, 
+        "ZIPCODE": 33013, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 894922.16521411, 
+        "POINT_Y": 552745.9539244, 
+        "ADDRESS": "425 E 33 ST", 
+        "LAT": 25.85252, 
+        "ID": "MHPNW HIALEAH 05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36564339096866, 
+          25.886757699402096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH GARDENS", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "COURTLY MANOR", 
+        "LON": -80.36565, 
+        "ZIPCODE": 33018, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 864723.24140998, 
+        "POINT_Y": 565036.39566384, 
+        "ADDRESS": "12401 W OKEECHOBEE RD", 
+        "LAT": 25.88676, 
+        "ID": "MHPNW HIALEAH GARDENS 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4387035880626, 
+          25.942276283512477
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "JONES FISHING CAMP TRAILER PARK", 
+        "LON": -80.43871, 
+        "ZIPCODE": 33018, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 840616.43229953, 
+        "POINT_Y": 585105.87049853, 
+        "ADDRESS": "14601 NW 185 ST", 
+        "LAT": 25.94228, 
+        "ID": "MHPNW UNINC 15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47181557172671, 
+          25.4623301208414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "AQUARIUS MOBILE HOME PARK", 
+        "LON": -80.47182, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 830432.60227405, 
+        "POINT_Y": 410624.00000003, 
+        "ADDRESS": "451 E LUCY ST", 
+        "LAT": 25.46233, 
+        "ID": "MHPSW HOMESTEAD 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46882760018102, 
+          25.470884056969414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "BOARDWALK MHP", 
+        "LON": -80.46883, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 831406.06019495, 
+        "POINT_Y": 413736.75110693, 
+        "ADDRESS": "100 NE 6 AVE", 
+        "LAT": 25.47089, 
+        "ID": "MHPSW HOMESTEAD 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46088339285119, 
+          25.472175443151613
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "COCOWALK ESTATES", 
+        "LON": -80.46089, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 834025.08765339, 
+        "POINT_Y": 414216.61952338, 
+        "ADDRESS": "220 NE 12 AVE", 
+        "LAT": 25.47218, 
+        "ID": "MHPSW HOMESTEAD 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4747576046129, 
+          25.468943412545492
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "HOMESTEAD TRAILER PARK", 
+        "LON": -80.47476, 
+        "ZIPCODE": 33030, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 829452.43459313, 
+        "POINT_Y": 413023.68896227, 
+        "ADDRESS": "E MOWRY DR & SE 2 RD", 
+        "LAT": 25.46895, 
+        "ID": "MHPSW HOMESTEAD 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39907500782704, 
+          25.531746382590295
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "PRINCETONIAN MOBILE HOME PARK", 
+        "LON": -80.39908, 
+        "ZIPCODE": 33032, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 854318.79672829, 
+        "POINT_Y": 435954.53391162, 
+        "ADDRESS": "12900 SW 253 TE", 
+        "LAT": 25.53175, 
+        "ID": "MHPSW UNINC 08"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.436769622616, 
+          25.50183242558632
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "PALM GARDENS MHP", 
+        "LON": -80.43677, 
+        "ZIPCODE": 33033, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 841934.95697276, 
+        "POINT_Y": 425028.10010945, 
+        "ADDRESS": "28501 SW 152 AV", 
+        "LAT": 25.50184, 
+        "ID": "MHPSW UNINC 09"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40434592310987, 
+          25.501968885109562
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "PINE ISLE MHP", 
+        "LON": -80.40435, 
+        "ZIPCODE": 33033, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 852629.16703072, 
+        "POINT_Y": 425124.26190154, 
+        "ADDRESS": "28600 SW 132 AV", 
+        "LAT": 25.50197, 
+        "ID": "MHPSW UNINC 10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47147004557789, 
+          25.447730060211903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "SOUTHERN COMFORT TRAILER PARK", 
+        "LON": -80.47147, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 830567.64355417, 
+        "POINT_Y": 405318.23231509, 
+        "ADDRESS": "345 E PALM DR", 
+        "LAT": 25.44773, 
+        "ID": "MHPSW FLORIDA CITY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48068827511467, 
+          25.45703692066473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "FLORIDA CITY CAMP SITE & RV PARK", 
+        "LON": -80.48069, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 827512.64118332, 
+        "POINT_Y": 408688.74444623, 
+        "ADDRESS": "601 NW 3 AV", 
+        "LAT": 25.45704, 
+        "ID": "MHPSW FLORIDA CITY 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4933639030676, 
+          25.44352068542106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "GOLDCOASTER TRAILER PARK", 
+        "LON": -80.49337, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 823348.93685945, 
+        "POINT_Y": 403760.34661764, 
+        "ADDRESS": "SW 348 ST & SW 187 AV", 
+        "LAT": 25.44353, 
+        "ID": "MHPSW UNINC 11"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47760343828944, 
+          25.43966002135989
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "GATEWAY ESTATES MHP", 
+        "LON": -80.47761, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 828555.2385603, 
+        "POINT_Y": 402377.30252035, 
+        "ADDRESS": "35250 SW 177 CT", 
+        "LAT": 25.43966, 
+        "ID": "MHPSW UNINC 12"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48312444342757, 
+          25.43948201258331
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "GATEWAY WEST MHP", 
+        "LON": -80.48313, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 826733.5502386, 
+        "POINT_Y": 402305.50936829, 
+        "ADDRESS": "35303 SW 180 AV", 
+        "LAT": 25.43949, 
+        "ID": "MHPSW UNINC 13"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.50353483912842, 
+          25.414690936875882
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "ANDREW CENTER", 
+        "LON": -80.50354, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 820031.61282436, 
+        "POINT_Y": 393269.96222387, 
+        "ADDRESS": "19308 SW 380 ST", 
+        "LAT": 25.4147, 
+        "ID": "MHPSW UNINC 14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29191318597482, 
+          25.957218945781023
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "OPA-LOCKA", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "ROYAL COUNTRY", 
+        "LON": -80.29192, 
+        "ZIPCODE": 33055, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 888825.78479243, 
+        "POINT_Y": 590770.85917581, 
+        "ADDRESS": "5555 NW 202 TE", 
+        "LAT": 25.95722, 
+        "ID": "MHPNW OPALOCKA 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28286895285912, 
+          25.953934871154164
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "HONEY HILL", 
+        "LON": -80.28287, 
+        "ZIPCODE": 33055, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 891804.1223312, 
+        "POINT_Y": 589593.37207071, 
+        "ADDRESS": "NW 199 ST & NW 49 CT", 
+        "LAT": 25.95394, 
+        "ID": "MHPNW UNINC 16"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26208932941412, 
+          25.95479648569688
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "RIVIERA PARK", 
+        "LON": -80.26209, 
+        "ZIPCODE": 33056, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 898630.43043356, 
+        "POINT_Y": 589944.49117504, 
+        "ADDRESS": "NW 199 ST & NW 37 AV", 
+        "LAT": 25.9548, 
+        "ID": "MHPNW MIAMI GARDENS 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24051589774778, 
+          25.79271979030051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "FLAGAMI PARADISE TRAILER PARK", 
+        "LON": -80.24052, 
+        "ZIPCODE": 33125, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 906060.10237648, 
+        "POINT_Y": 531075.15864021, 
+        "ADDRESS": "2750 NW SOUTH RIVER DR", 
+        "LAT": 25.79272, 
+        "ID": "MHPNW MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24701039495318, 
+          25.764929275945597
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "SILVER COURT TRAILER PARK", 
+        "LON": -80.24701, 
+        "ZIPCODE": 33135, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 903980.87216654, 
+        "POINT_Y": 520962.03018279, 
+        "ADDRESS": "SW 8 ST & SW 32 AV", 
+        "LAT": 25.76493, 
+        "ID": "MHPSW MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2544265039678, 
+          25.80865289806162
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "FRONTON TRAILER PARK", 
+        "LON": -80.25443, 
+        "ZIPCODE": 33142, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 901450.12451619, 
+        "POINT_Y": 536840.12325358, 
+        "ADDRESS": "NW 36 ST & NW 36 AVE", 
+        "LAT": 25.80866, 
+        "ID": "MHPNW MIAMI 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23989982160921, 
+          25.79707211976025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "RIVER PARK TRAILER", 
+        "LON": -80.2399, 
+        "ZIPCODE": 33142, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 906253.68496866, 
+        "POINT_Y": 532658.24907368, 
+        "ADDRESS": "NW 22 ST & NW 27 AV", 
+        "LAT": 25.79708, 
+        "ID": "MHPNW UNINC 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24421423278794, 
+          25.807100027603333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "ALL STAR 36 STREET", 
+        "LON": -80.24422, 
+        "ZIPCODE": 33142, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 904813.18423132, 
+        "POINT_Y": 536294.87397307, 
+        "ADDRESS": "NW 34 ST & NW 30 AV", 
+        "LAT": 25.8071, 
+        "ID": "MHPNW UNINC 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24430458346399, 
+          25.80896845230997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "ROYAL DUKE", 
+        "LON": -80.24431, 
+        "ZIPCODE": 33142, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 904779.55888728, 
+        "POINT_Y": 536973.81157371, 
+        "ADDRESS": "NW 36 ST & NW 30 AV", 
+        "LAT": 25.80897, 
+        "ID": "MHPNW UNINC 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2566236029572, 
+          25.812291556513188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "CARELY'S & BLUE BELLE TRAILER PARK", 
+        "LON": -80.25663, 
+        "ZIPCODE": 33142, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 900719.8123235, 
+        "POINT_Y": 538158.55960681, 
+        "ADDRESS": "NW 41 ST & NW 37 AV", 
+        "LAT": 25.8123, 
+        "ID": "MHPNW UNINC 05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30849875625053, 
+          25.76052460750683
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "MIAMI TERRACE TRAILER PARK", 
+        "LON": -80.3085, 
+        "ZIPCODE": 33144, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 883752.3729477, 
+        "POINT_Y": 519250.2165492, 
+        "ADDRESS": "SW 10 ST & SW 70 AV", 
+        "LAT": 25.76053, 
+        "ID": "MHPSW UNINC 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29429477138736, 
+          25.763230086310525
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "WESTHAVEN & SUNNYSIDE TRAILER PARK", 
+        "LON": -80.2943, 
+        "ZIPCODE": 33144, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 888422.04642405, 
+        "POINT_Y": 520258.32688614, 
+        "ADDRESS": "6024 SW 8 ST", 
+        "LAT": 25.76323, 
+        "ID": "MHPSW WEST MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24180206377407, 
+          25.843459285965046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "PALM LAKE MOBILE HOME PARK", 
+        "LON": -80.2418, 
+        "ZIPCODE": 33147, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 905530.60733599, 
+        "POINT_Y": 549514.81792139, 
+        "ADDRESS": "7600 NW 27 AV", 
+        "LAT": 25.84346, 
+        "ID": "MHPNW UNINC 06"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24577317694843, 
+          25.844508580271444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "J BAR J MHP", 
+        "LON": -80.24578, 
+        "ZIPCODE": 33147, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 904222.31088677, 
+        "POINT_Y": 549888.68723373, 
+        "ADDRESS": "NW 77 ST & NW 30 AV", 
+        "LAT": 25.84451, 
+        "ID": "MHPNW UNINC 07"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22126749337797, 
+          25.845841655851963
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "TROPICAL VILLAGE", 
+        "LON": -80.22127, 
+        "ZIPCODE": 33147, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 912279.35358227, 
+        "POINT_Y": 550420.22438623, 
+        "ADDRESS": "NW 79 ST & NW 14 AV", 
+        "LAT": 25.84585, 
+        "ID": "MHPNW UNINC 09"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25461974374443, 
+          25.845493533909536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "MIAMI HEIGHTS TRAILER PARK", 
+        "LON": -80.25462, 
+        "ZIPCODE": 33147, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 901310.65366805, 
+        "POINT_Y": 550230.08550605, 
+        "ADDRESS": "3520 NW 79 ST", 
+        "LAT": 25.8455, 
+        "ID": "MHPNW UNINC 12"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20098519192686, 
+          25.847321608678705
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "LITTLE RIVER MOBILE HOME PARK", 
+        "LON": -80.20099, 
+        "ZIPCODE": 33150, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 918946.87461248, 
+        "POINT_Y": 550998.18585876, 
+        "ADDRESS": "NW 79 ST & NW 2 AV", 
+        "LAT": 25.84733, 
+        "ID": "MHPNW MIAMI 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1980146687543, 
+          25.848121313745835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "SUNNYLAND TRAILER PARK & TRINIDAD COURT", 
+        "LON": -80.19802, 
+        "ZIPCODE": 33150, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 919922.08690139, 
+        "POINT_Y": 551294.80614704, 
+        "ADDRESS": "NW 79 ST & NW MIAMI CT", 
+        "LAT": 25.84813, 
+        "ID": "MHPNW MIAMI 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21595862328962, 
+          25.84681685036517
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "NEW AVOCADO TRAILER PARK & WESTLAND MOBILE HOME PK", 
+        "LON": -80.21596, 
+        "ZIPCODE": 33150, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 914023.30929589, 
+        "POINT_Y": 550785.05920257, 
+        "ADDRESS": "NW 79 ST & NW 11 CT", 
+        "LAT": 25.84682, 
+        "ID": "MHPNW UNINC 08"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21226453514934, 
+          25.848807867124886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "ROVELL TRAILER PARK", 
+        "LON": -80.21227, 
+        "ZIPCODE": 33150, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 915233.93585702, 
+        "POINT_Y": 551515.99859525, 
+        "ADDRESS": "NW 81 ST & NW 9 AV", 
+        "LAT": 25.84881, 
+        "ID": "MHPNW UNINC 13"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21388240971662, 
+          25.863100833195748
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "COLONIAL ACRES MOBILE HOME PARK", 
+        "LON": -80.21388, 
+        "ZIPCODE": 33150, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 914670.7478885, 
+        "POINT_Y": 556707.87188008, 
+        "ADDRESS": "NW 96 ST & NW 10 AV", 
+        "LAT": 25.86311, 
+        "ID": "MHPNW UNINC 14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1873923833921, 
+          25.9103027561549
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "SHADY OAK & SIXTH AVE TRAILER PARK", 
+        "LON": -80.18739, 
+        "ZIPCODE": 33161, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 923275.74936851, 
+        "POINT_Y": 573917.49980011, 
+        "ADDRESS": "NE 147 ST & NE 6 AV", 
+        "LAT": 25.91031, 
+        "ID": "MHPNE NORTH MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3147276500205, 
+          25.84765134273132
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "MEDLEY MOBILE HOME PARK", 
+        "LON": -80.31473, 
+        "ZIPCODE": 33166, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 881537.39310564, 
+        "POINT_Y": 550906.76825868, 
+        "ADDRESS": "8181 NW SOUTH RIVER DR", 
+        "LAT": 25.84766, 
+        "ID": "MHPNW MEDLEY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47301140936182, 
+          25.550445225469527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "SILVER PALM MOBILE HOME PARK", 
+        "LON": -80.47301, 
+        "ZIPCODE": 33170, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 829911.20656156, 
+        "POINT_Y": 442647.04975785, 
+        "ADDRESS": "17350 SW 232 ST", 
+        "LAT": 25.55045, 
+        "ID": "MHPSW UNINC 06"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.377323704436, 
+          25.771945322409398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "LIL' ABNER MHP", 
+        "LON": -80.37733, 
+        "ZIPCODE": 33172, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 861080.62329459, 
+        "POINT_Y": 523288.24919296, 
+        "ADDRESS": "NW 3 TER & NW 112 AVE", 
+        "LAT": 25.77195, 
+        "ID": "MHPNW SWEETWATER 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37102456232498, 
+          25.86939057280843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "MEDLEY LAKESIDE RETIREMENT PARK", 
+        "LON": -80.37103, 
+        "ZIPCODE": 33178, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 862984.28179236, 
+        "POINT_Y": 558715.57005795, 
+        "ADDRESS": "10591 NW 107 AV", 
+        "LAT": 25.8694, 
+        "ID": "MHPNW MEDLEY 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14742559452972, 
+          25.955766600417736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "SUN HAVEN TRAILER PARK, COE'S TRAILER CT, & DIXIE TRAILER CT", 
+        "LON": -80.14743, 
+        "ZIPCODE": 33180, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 936306.12250065, 
+        "POINT_Y": 590525.99952758, 
+        "ADDRESS": "NE 195 ST & W DIXIE HWY", 
+        "LAT": 25.95577, 
+        "ID": "MHPNE UNINC 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15914875542441, 
+          25.904072901007538
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "HIGHLAND MOBILE HOME PARK", 
+        "LON": -80.15915, 
+        "ZIPCODE": 33181, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 932574.53056117, 
+        "POINT_Y": 571711.64303006, 
+        "ADDRESS": "HIGHLAND DR & BISCAYNE BD", 
+        "LAT": 25.90408, 
+        "ID": "MHPNE NORTH MIAMI BEACH 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40706317402326, 
+          25.755583944674388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "UNIVERSITY LAKES TRAILER PARK", 
+        "LON": -80.40707, 
+        "ZIPCODE": 33184, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 851320.3104535, 
+        "POINT_Y": 517296.46653138, 
+        "ADDRESS": "SW 13 ST & SW 131 AV", 
+        "LAT": 25.75559, 
+        "ID": "MHPSW UNINC 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.58229798359388, 
+          25.760819339536944
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "GATOR PARK MHP", 
+        "LON": -80.5823, 
+        "ZIPCODE": 33194, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 793638.37196778, 
+        "POINT_Y": 518978.22730094, 
+        "ADDRESS": "24050 SW 8 ST", 
+        "LAT": 25.76082, 
+        "ID": "MHPSW UNINC 15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38155245648112, 
+          25.6281240036308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "Coral Reef Park and Ride Lot", 
+        "LON": -80.38156, 
+        "ZIPCODE": 33157, 
+        "EVACZONE": "D", 
+        "POINT_X": 859933.65830152, 
+        "POINT_Y": 471009.28364027, 
+        "ADDRESS": "SW 152 St & SW 117 Ave", 
+        "LAT": 25.62813, 
+        "ID": "ZD UNINC 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4741783488354, 
+          25.550517117175215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "REDLAND MOBILE HOME PARK", 
+        "LON": -80.47418, 
+        "ZIPCODE": 33170, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 829526.3643212, 
+        "POINT_Y": 442671.65366188, 
+        "ADDRESS": "SW 232 ST & SW 174 AVE", 
+        "LAT": 25.55052, 
+        "ID": "MHPSW UNINC 07"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4805870077536, 
+          25.580362193989373
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "AMERICANA VILLAGE CONDO ASSOC. MHP", 
+        "LON": -80.48059, 
+        "ZIPCODE": 33187, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 827371.00175919, 
+        "POINT_Y": 453510.33373597, 
+        "ADDRESS": "19800 SW 179 AVE", 
+        "LAT": 25.58037, 
+        "ID": "MHPSW UNINC 05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15842827166995, 
+          25.906221723040286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "TARGET SHOPPING CENTER", 
+        "LON": -80.15843, 
+        "ZIPCODE": 33181, 
+        "EVACZONE": "A", 
+        "POINT_X": 932806.36902539, 
+        "POINT_Y": 572494.20584679, 
+        "ADDRESS": "NE 140 ST & BISCAYNE BLVD", 
+        "LAT": 25.90623, 
+        "ID": "ZB NORTH MIAMI BEACH 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14442151185558, 
+          25.96885170755376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "AVENTURA", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "PROMENADE SHOPPING CENTER", 
+        "LON": -80.14442, 
+        "ZIPCODE": 33180, 
+        "EVACZONE": "B", 
+        "POINT_X": 937262.15706154, 
+        "POINT_Y": 595288.59972402, 
+        "ADDRESS": "NE 209 ST & BISCAYNE BLVD", 
+        "LAT": 25.96886, 
+        "ID": "ZB AVENTURA 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37304420071402, 
+          25.673688623999958
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "Miami-Dade College", 
+        "LON": -80.37305, 
+        "ZIPCODE": 33176, 
+        "EVACZONE": "D", 
+        "POINT_X": 862658.59296006, 
+        "POINT_Y": 487583.00551171, 
+        "ADDRESS": "SW 104 St & SW 112 Ave", 
+        "LAT": 25.67369, 
+        "ID": "ZD UNINC 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2666677825476, 
+          25.764236234261332
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "GABLES TRAILER PARK", 
+        "LON": -80.26667, 
+        "ZIPCODE": 33134, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 897512.66403252, 
+        "POINT_Y": 520673.65744653, 
+        "ADDRESS": "SW 8 ST & SW 44 AVE", 
+        "LAT": 25.76424, 
+        "ID": "MHPSW UNINC 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19210387019069, 
+          25.831882902845635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "MAGIC CITY TRAILER PARK", 
+        "LON": -80.19211, 
+        "ZIPCODE": 33137, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 921902.37541523, 
+        "POINT_Y": 545404.53746956, 
+        "ADDRESS": "NE 60 ST & NE 2 AVE", 
+        "LAT": 25.83189, 
+        "ID": "MHPNE MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18496185249123, 
+          25.853622795518262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "LITTLE FARM MOBILE COURT", 
+        "LON": -80.18496, 
+        "ZIPCODE": 33138, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 924202.64805738, 
+        "POINT_Y": 553320.84877293, 
+        "ADDRESS": "NE 85 ST & BISCAYNE BLVD", 
+        "LAT": 25.85363, 
+        "ID": "MHPNE MIAMI 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37763593886339, 
+          25.77486565245719
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "VICINITY": "NORTHWEST", 
+        "FACILITY": "LIL' ABNER MHP", 
+        "LON": -80.37764, 
+        "ZIPCODE": 33172, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 860972.85548649, 
+        "POINT_Y": 524349.18000995, 
+        "ADDRESS": "NW 6 TER & NW 112 AVE", 
+        "LAT": 25.77487, 
+        "ID": "MHPNW SWEETWATER 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16685570648949, 
+          25.881087842608054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "BISCAYNE BREEZE PARK", 
+        "LON": -80.16686, 
+        "ZIPCODE": 33181, 
+        "EVACZONE": "MHP", 
+        "POINT_X": 930094.01395086, 
+        "POINT_Y": 563340.99931026, 
+        "ADDRESS": "NE 114 ST & BISCAYNE BD", 
+        "LAT": 25.88109, 
+        "ID": "MHPNE UNINC 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16364225028636, 
+          25.68950014062091
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "KEY BISCAYNE", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "VILLAGE OF KEY BISCAYNE FIRE STATION", 
+        "LON": -80.16364, 
+        "ZIPCODE": 33149, 
+        "EVACZONE": "A", 
+        "POINT_X": 931592.81075226, 
+        "POINT_Y": 493711.52110142, 
+        "ADDRESS": "CRANDON BD & E ENID DR", 
+        "LAT": 25.6895, 
+        "ID": "ZA KEY BISCAYNE 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30469764492803, 
+          25.62991770832367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PALMETTO BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "WESTMINSTER CHRISTIAN SCHOOL", 
+        "LON": -80.3047, 
+        "ZIPCODE": 33157, 
+        "EVACZONE": "A", 
+        "POINT_X": 885253.2108371, 
+        "POINT_Y": 471786.78917699, 
+        "ADDRESS": "6855 SW 152 ST", 
+        "LAT": 25.62992, 
+        "ID": "ZB PALMETTO BAY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33186721123224, 
+          25.58764120026476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "EAST RIDGE RETIREMENT VILLAGE", 
+        "LON": -80.33187, 
+        "ZIPCODE": 33157, 
+        "EVACZONE": "A", 
+        "POINT_X": 876378.63546883, 
+        "POINT_Y": 456375.24996264, 
+        "ADDRESS": "SW 193 TE & SW 87 AV", 
+        "LAT": 25.58765, 
+        "ID": "ZC CUTLER BAY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14382560469191, 
+          25.92647454713633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "STRATFORD CONDOMINIUMS", 
+        "LON": -80.14383, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "A", 
+        "POINT_X": 937558.66675782, 
+        "POINT_Y": 579886.70863767, 
+        "ADDRESS": "NE 163 ST & NE 28 AV", 
+        "LAT": 25.92648, 
+        "ID": "ZB NORTH MIAMI BEACH 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13546988964431, 
+          25.928706489846142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "EASTERN SHORES SHOPPING CENTER", 
+        "LON": -80.13547, 
+        "ZIPCODE": 33160, 
+        "EVACZONE": "A", 
+        "POINT_X": 940299.64928837, 
+        "POINT_Y": 580716.00169444, 
+        "ADDRESS": "NE 163 ST & NE 35 AV", 
+        "LAT": 25.92871, 
+        "ID": "ZB NORTH MIAMI BEACH 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1477634149372, 
+          25.90044219119401
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "VICINITY": "NORTHEAST", 
+        "FACILITY": "DORSET HOUSE", 
+        "LON": -80.14777, 
+        "ZIPCODE": 33181, 
+        "EVACZONE": "A", 
+        "POINT_X": 936325.90976467, 
+        "POINT_Y": 570416.12866085, 
+        "ADDRESS": "2500 NE 135 ST", 
+        "LAT": 25.90045, 
+        "ID": "ZB NORTH MIAMI 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32637224477067, 
+          25.570912380922408
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "CENTENNIAL MIDDLE SCHOOL", 
+        "LON": -80.32637, 
+        "ZIPCODE": 33189, 
+        "EVACZONE": "A", 
+        "POINT_X": 878220.65633455, 
+        "POINT_Y": 450304.31338099, 
+        "ADDRESS": "8601 SW 212 ST", 
+        "LAT": 25.57092, 
+        "ID": "ZB CUTLER BAY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3963023717381, 
+          25.515321919400137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "HUD - PINE ISLAND", 
+        "LON": -80.39631, 
+        "ZIPCODE": 33032, 
+        "EVACZONE": "B", 
+        "POINT_X": 855260.18348117, 
+        "POINT_Y": 429989.29512207, 
+        "ADDRESS": "SW 272 ST & SW 127 AV", 
+        "LAT": 25.51533, 
+        "ID": "ZB UNINC 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40930036989211, 
+          25.477735297817834
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "SOUTH DADE CAMP", 
+        "LON": -80.4093, 
+        "ZIPCODE": 33033, 
+        "EVACZONE": "B", 
+        "POINT_X": 851034.10066123, 
+        "POINT_Y": 416309.46586133, 
+        "ADDRESS": "13600 SW 312TH ST", 
+        "LAT": 25.47774, 
+        "ID": "ZB HOMESTEAD 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4830588762631, 
+          25.447926254305823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "FLORIDA CITY - CITY HALL", 
+        "LON": -80.48306, 
+        "ZIPCODE": 33034, 
+        "EVACZONE": "B", 
+        "POINT_X": 826743.29129461, 
+        "POINT_Y": 405374.54489114, 
+        "ADDRESS": "404 W PALM DR", 
+        "LAT": 25.44793, 
+        "ID": "ZC FLORIDA CITY 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19623102589567, 
+          25.755467975697236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "VICINITY": "SOUTHWEST", 
+        "FACILITY": "STANLEY AXLROD UTD TOWERS", 
+        "LON": -80.19623, 
+        "ZIPCODE": 33129, 
+        "EVACZONE": "B", 
+        "POINT_X": 920714.35442213, 
+        "POINT_Y": 517621.86736368, 
+        "ADDRESS": "1809 BRICKELL AVE", 
+        "LAT": 25.75547, 
+        "ID": "ZB MIAMI 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13837430149646, 
+          25.77059678857344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "REBECCA TOWERS SOUTH", 
+        "LON": -80.13838, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 939721.89312783, 
+        "POINT_Y": 523241.00004092, 
+        "ADDRESS": "150 ALTON RD", 
+        "LAT": 25.7706, 
+        "ID": "ZA MIAMI BEACH 01"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13271278118383, 
+          25.775490955407978
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "COUNCIL TOWERS SOUTH", 
+        "LON": -80.13272, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 941573.44128955, 
+        "POINT_Y": 525032.10737059, 
+        "ADDRESS": "533 COLLINS AVE", 
+        "LAT": 25.7755, 
+        "ID": "ZA MIAMI BEACH 02"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14213231439554, 
+          25.77808712844551
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SOUTH BAY CLUB", 
+        "LON": -80.14213, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 938467.37203866, 
+        "POINT_Y": 525955.44279544, 
+        "ADDRESS": "800 WEST AV", 
+        "LAT": 25.77809, 
+        "ID": "ZA MIAMI BEACH 03"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13679612701796, 
+          25.775857761605625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SOUTH SHORE COMMUNITY CENTER", 
+        "LON": -80.1368, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 940228.7570003, 
+        "POINT_Y": 525156.6052907, 
+        "ADDRESS": "833 6 ST", 
+        "LAT": 25.77586, 
+        "ID": "ZA MIAMI BEACH 04"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14098676070667, 
+          25.779414405287223
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SOUTH BEACH ALT. MIDDLE SCHOOL", 
+        "LON": -80.14099, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 938841.21421501, 
+        "POINT_Y": 526440.3247159, 
+        "ADDRESS": "920 ALTON RD", 
+        "LAT": 25.77942, 
+        "ID": "ZA MIAMI BEACH 05"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13049481967572, 
+          25.78064513041555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "OCEAN FRONT AUDITORIUM", 
+        "LON": -80.1305, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 942290.99802622, 
+        "POINT_Y": 526910.30974034, 
+        "ADDRESS": "1001 OCEAN DR", 
+        "LAT": 25.78065, 
+        "ID": "ZA MIAMI BEACH 06"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14117298176879, 
+          25.785344425047384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "ALTON TOWERS CONDOMINIUM", 
+        "LON": -80.14118, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 938765.87827894, 
+        "POINT_Y": 528595.3107019, 
+        "ADDRESS": "14 ST & ALTON RD", 
+        "LAT": 25.78535, 
+        "ID": "ZA MIAMI BEACH 07"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13313933076849, 
+          25.786711588866474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "IDA FISHER COMMUNITY SCHOOL", 
+        "LON": -80.13314, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 941406.2264414, 
+        "POINT_Y": 529109.55428638, 
+        "ADDRESS": "1424 DREXEL AV", 
+        "LAT": 25.78672, 
+        "ID": "ZA MIAMI BEACH 08"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13521773121292, 
+          25.788661463810406
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "EUCLID GARDENS CONDOMINIUM", 
+        "LON": -80.13522, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 940717.64455276, 
+        "POINT_Y": 529813.78059103, 
+        "ADDRESS": "1575 EUCLID AVE", 
+        "LAT": 25.78867, 
+        "ID": "ZA MIAMI BEACH 09"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13501515874266, 
+          25.79283822893936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "MIAMI BEACH CITY HALL", 
+        "LON": -80.13502, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 940774.33037681, 
+        "POINT_Y": 531332.35134445, 
+        "ADDRESS": "1700 CONVENTION CENTER DR", 
+        "LAT": 25.79284, 
+        "ID": "ZA MIAMI BEACH 10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14004459145325, 
+          25.796035200283942
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "MESIVTA HIGH SCHOOL", 
+        "LON": -80.14005, 
+        "ZIPCODE": 33139, 
+        "EVACZONE": "B", 
+        "POINT_X": 939111.81850326, 
+        "POINT_Y": 532483.51704152, 
+        "ADDRESS": "1965 ALTON RD", 
+        "LAT": 25.79604, 
+        "ID": "ZA MIAMI BEACH 11"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13811925032729, 
+          25.80219306298385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "BAYSHORE GOLF CLUB", 
+        "LON": -80.13812, 
+        "ZIPCODE": 33140, 
+        "EVACZONE": "B", 
+        "POINT_X": 939730.67571984, 
+        "POINT_Y": 534725.86558761, 
+        "ADDRESS": "2301 ALTON RD", 
+        "LAT": 25.8022, 
+        "ID": "ZA MIAMI BEACH 12"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1293609580478, 
+          25.803698462880092
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SCOTT RAKOW YOUTH CENTER", 
+        "LON": -80.12936, 
+        "ZIPCODE": 33140, 
+        "EVACZONE": "B", 
+        "POINT_X": 942608.72577052, 
+        "POINT_Y": 535292.00139614, 
+        "ADDRESS": "2700 SHERIDAN AV", 
+        "LAT": 25.8037, 
+        "ID": "ZA MIAMI BEACH 13"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12474567935939, 
+          25.805163147519995
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SEVILLE BEACH HOTEL", 
+        "LON": -80.12475, 
+        "ZIPCODE": 33140, 
+        "EVACZONE": "B", 
+        "POINT_X": 944123.69537193, 
+        "POINT_Y": 535834.44517265, 
+        "ADDRESS": "29 ST & COLLINS AV", 
+        "LAT": 25.80517, 
+        "ID": "ZA MIAMI BEACH 14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12302217225438, 
+          25.81252904561718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "CROWN HOTEL", 
+        "LON": -80.12302, 
+        "ZIPCODE": 33140, 
+        "EVACZONE": "B", 
+        "POINT_X": 944672.91111644, 
+        "POINT_Y": 538515.52216714, 
+        "ADDRESS": "4041 COLLINS AVE", 
+        "LAT": 25.81253, 
+        "ID": "ZA MIAMI BEACH 15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13160396002192, 
+          25.814905490090766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "TEMPLE BETH SHALOM", 
+        "LON": -80.13161, 
+        "ZIPCODE": 33140, 
+        "EVACZONE": "B", 
+        "POINT_X": 941843.8563938, 
+        "POINT_Y": 539360.56767193, 
+        "ADDRESS": "4144 CHASE AV", 
+        "LAT": 25.81491, 
+        "ID": "ZA MIAMI BEACH 16"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12023536789924, 
+          25.849453293185213
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "SHERRY FRONTENAC HOTEL", 
+        "LON": -80.12024, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 945499.95444521, 
+        "POINT_Y": 551942.64128365, 
+        "ADDRESS": "6565 COLLINS AV", 
+        "LAT": 25.84946, 
+        "ID": "ZA MIAMI BEACH 17"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12983881857048, 
+          25.855822587350303
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "STREET INTERSECTION", 
+        "LON": -80.12984, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 942326.12685825, 
+        "POINT_Y": 554236.68442179, 
+        "ADDRESS": "NORMANDY DR & RUE VERSAILLES", 
+        "LAT": 25.85583, 
+        "ID": "ZA MIAMI BEACH 18"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13746352238536, 
+          25.851807015477284
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "NORMANDY POOL", 
+        "LON": -80.13747, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 939828.14567193, 
+        "POINT_Y": 552760.59200441, 
+        "ADDRESS": "71 ST & TROUVILLE ESPLANADE", 
+        "LAT": 25.85181, 
+        "ID": "ZA MIAMI BEACH 19"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1234723379003, 
+          25.857166903012352
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "VICINITY": "BEACHES", 
+        "FACILITY": "NORTH SHORE PARK", 
+        "LON": -80.12347, 
+        "ZIPCODE": 33141, 
+        "EVACZONE": "B", 
+        "POINT_X": 944416.6361722, 
+        "POINT_Y": 554739.22880625, 
+        "ADDRESS": "72 ST & BYRON AV", 
+        "LAT": 25.85717, 
+        "ID": "ZA MIAMI BEACH 20"
+      }
+    }
+  ]
+}

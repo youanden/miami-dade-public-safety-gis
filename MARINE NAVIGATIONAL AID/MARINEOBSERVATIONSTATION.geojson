@@ -1,0 +1,617 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.09599999966414, 
+          25.08399999976518, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/COMPS (University of South Florida) Stations", 
+        "NAME": "NFBF1", 
+        "LABELNAME": "Station NFBF1 - NFB - Northwest Florida Bay, FL", 
+        "POPUPINFO": "[CDATA[<b>COMPS (University of South Florida)</b><br /><b>Location:</b> 25.084N 81.096W\n<br /><b>03/19/2013 1854 UTC</b><br /><b>Winds:</b> WNW (300\u00b0) at 5.1 kts gusting to 6.0<br />\n<b>Atmospheric Pressure:</b> 29.99 in  and steady<br />\n<b>Air Temperat"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.99000000025313, 
+          25.47599999972577, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "BDVF1", 
+        "LABELNAME": "Station BDVF1 - Broad River, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.476N 80.99W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.5 \u00b0F<br />\n<b>Tide (above MLLW):</b> 2.21 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.51899999976929, 
+          25.086999999926377, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "BNKF1", 
+        "LABELNAME": "Station BNKF1 - Butternut Key, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.087N 80.519W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.9 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.03 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.68100000023227, 
+          25.02699999976531, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "BOBF1", 
+        "LABELNAME": "Station BOBF1 - Bob Allen, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.027N 80.681W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.9 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.80 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43799999992216, 
+          25.177999999655494, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "BWSF1", 
+        "LABELNAME": "Station BWSF1 - Blackwater Sound, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.178N 80.438W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.6 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.10 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.94300000022385, 
+          25.420000000286578, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "CANF1", 
+        "LABELNAME": "Station CANF1 - Cane Patch, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.42N 80.943W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 71.2 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.58 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.18600000021642, 
+          25.69999999988009, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "CNBF1", 
+        "LABELNAME": "Station CNBF1 - Cannon Bay, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.7N 81.186W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.4 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.44 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.01300000013754, 
+          25.295000000217982, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "CWAF1", 
+        "LABELNAME": "Station CWAF1 - Clear Water Pass, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.295N 81.013W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.3 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.03 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49000000017988, 
+          25.180000000132292, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "DKKF1", 
+        "LABELNAME": "Station DKKF1 - Duck Key, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.18N 80.49W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.7 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.13 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.02900000038527, 
+          25.375999999832008, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "GBIF1", 
+        "LABELNAME": "Station GBIF1 - Gunboat Island, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.376N 81.029W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.0 \u00b0F<br />\n<b>Tide (above MLLW):</b> 2.05 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.79700000031121, 
+          25.169999999673536, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "GBTF1", 
+        "LABELNAME": "Station GBTF1 - Garfield Bight, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.17N 80.797W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 75.2 \u00b0F<br />\n<b>Tide (above MLLW):</b> -0.02 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44400000019898, 
+          25.25399999974804, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "HCEF1", 
+        "LABELNAME": "Station HCEF1 - Highway Creek, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.254N 80.444W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 75.4 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.86 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.90400000026939, 
+          25.049999999801383, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "JKYF1", 
+        "LABELNAME": "Station JKYF1 - Johnson Key, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.05N 80.904W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 74.5 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.05 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.11099999963673, 
+          25.483999999732493, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LBRF1", 
+        "LABELNAME": "Station LBRF1 - Broad River Lower, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.484N 81.111W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 71.2 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.79 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43200000014856, 
+          25.213999999795423, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LBSF1", 
+        "LABELNAME": "Station LBSF1 - Little Blackwater, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.214N 80.432W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.4 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.00 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.63200000018227, 
+          25.174000000261884, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LMDF1", 
+        "LABELNAME": "Station LMDF1 - Little Madeira, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.174N 80.632W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 74.1 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.02 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.16899999979933, 
+          25.553999999738025, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LMRF1", 
+        "LABELNAME": "Station LMRF1 - Lostmans River, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.554N 81.169W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 70.9 \u00b0F<br />\n<b>Tide (above MLLW):</b> -0.21 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.89400000032823, 
+          25.283999999907643, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LRIF1", 
+        "LABELNAME": "Station LRIF1 - Lane River, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.284N 80.894W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.9 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.95 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.82600000004362, 
+          24.978999999905113, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LRKF1", 
+        "LABELNAME": "Station LRKF1 - Little Rabbit Key, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 24.979N 80.826W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.4 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.80 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45700000016885, 
+          25.232999999660596, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "LSNF1", 
+        "LABELNAME": "Station LSNF1 - Long Sound, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.233N 80.457W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.4 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.84 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.94200000031724, 
+          25.103999999831995, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "MUKF1", 
+        "LABELNAME": "Station MUKF1 - Murray Key, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.104N 80.942W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.6 \u00b0F<br />\n<b>Tide (above MLLW):</b> -0.21 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.74599999987876, 
+          24.91700000021991, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "PKYF1", 
+        "LABELNAME": "Station PKYF1 - Peterson Key, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 24.917N 80.746W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.9 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.80 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.5329999997012, 
+          25.208999999935436, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "TCVF1", 
+        "LABELNAME": "Station TCVF1 - Trout Cove, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.209N 80.533W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 73.9 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.05 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.96400000036061, 
+          25.40800000018766, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "TPEF1", 
+        "LABELNAME": "Station TPEF1 - Tarpon Bay East, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.408N 80.964W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.7 \u00b0F<br />\n<b>Tide (above MLLW):</b> -0.88 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.65299999966558, 
+          25.223000000169566, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "TRRF1", 
+        "LABELNAME": "Station TRRF1 - Taylor River, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.223N 80.653W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 77.0 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.96 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.04399999984895, 
+          25.618999999750578, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "WIWF1", 
+        "LABELNAME": "Station WIWF1 - Willy Willy, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.619N 81.044W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.3 \u00b0F<br />\n<b>Tide (above MLLW):</b> 1.39 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.2480000000636, 
+          25.70800000021267, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "WPLF1", 
+        "LABELNAME": "Station WPLF1 - Watson Place, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.708N 81.248W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 71.2 \u00b0F<br />\n<b>Tide (above MLLW):</b> -0.48 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.7279999997754, 
+          25.07700000017121, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "WRBF1", 
+        "LABELNAME": "Station WRBF1 - Whipray Basin, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.077N 80.728W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Winds:</b> SW (220\u00b0) at 4.1 kts<br />\n<b>Water Temperature:</b> 74.5 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.83 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.93900000030158, 
+          25.229999999794472, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Everglades National Park Stations", 
+        "NAME": "WWEF1", 
+        "LABELNAME": "Station WWEF1 - White Water -West, FL", 
+        "POPUPINFO": "[CDATA[<b>Everglades National Park</b><br /><b>Location:</b> 25.23N 80.939W\n<br /><b>03/19/2013 1600 UTC</b><br /><b>Water Temperature:</b> 72.5 \u00b0F<br />\n<b>Tide (above MLLW):</b> 0.98 ft<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.10900000033953, 
+          26.091999999719032, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/Integrated Coral Observing Network (ICON) Stations", 
+        "NAME": "PVGF1", 
+        "LABELNAME": "Station PVGF1 - Port Everglades Channel, FL", 
+        "POPUPINFO": "[CDATA[<b>Integrated Coral Observing Network (ICON)</b><br /><b>Location:</b> 26.092N 80.109W\n<br /><b>03/19/2013 2000 UTC</b><br /><b>Winds:</b> SE (130\u00b0) at 4.1 kts gusting to 6.0<br />\n<b>Atmospheric Pressure:</b> 29.95 in  and falling<br />\n<b>Air Te"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0969999997279, 
+          25.590999999963632, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/NDBC Stations", 
+        "NAME": "FWYF1", 
+        "LABELNAME": "Station FWYF1 - Fowey Rock, FL", 
+        "POPUPINFO": "[CDATA[<b>NDBC</b><br /><b>Location:</b> 25.591N 80.097W\n<br /><b>03/19/2013 1900 UTC</b><br /><b>Atmospheric Pressure:</b> 29.98 in  and falling<br />\n<b>Air Temperature:</b> 72.5 \u00b0F<br />\n<b>Water Temperature:</b> 73.8 \u00b0F<br />\n]]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.86199999998743, 
+          24.84300000008588, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/NDBC Stations", 
+        "NAME": "LONF1", 
+        "LABELNAME": "Station LONF1 - Long Key, FL", 
+        "POPUPINFO": "[CDATA[<b>NDBC</b><br /><b>Location:</b> 24.843N 80.862W\n<br /><b>03/19/2013 1900 UTC</b><br /><b>Winds:</b> WNW (290\u00b0) at 8.0 kts gusting to 8.9<br />\n<b>Atmospheric Pressure:</b> 29.99 in  and falling<br />\n<b>Air Temperature:</b> 71.8 \u00b0F<br />\n<b>Wate"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37599999989158, 
+          25.01199999970679, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/NDBC Stations", 
+        "NAME": "MLRF1", 
+        "LABELNAME": "Station MLRF1 - Molasses Reef, FL", 
+        "POPUPINFO": "[CDATA[<b>NDBC</b><br /><b>Location:</b> 25.012N 80.376W\n<br /><b>03/19/2013 1900 UTC</b><br /><b>Winds:</b> W (270\u00b0) at 8.9 kts gusting to 9.9<br />\n<b>Atmospheric Pressure:</b> 29.98 in  and falling<br />\n<b>Air Temperature:</b> 72.5 \u00b0F<br />\n<b>Water"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.1109999999061, 
+          24.62799999983093, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/NDBC Stations", 
+        "NAME": "SMKF1", 
+        "LABELNAME": "Station SMKF1 - Sombrero Key, FL", 
+        "POPUPINFO": "[CDATA[<b>NDBC</b><br /><b>Location:</b> 24.628N 81.111W\n<br /><b>03/19/2013 1900 UTC</b><br /><b>Winds:</b> WSW (250\u00b0) at 11.1 kts gusting to 12.1<br />\n<b>Atmospheric Pressure:</b> 29.98 in  and falling<br />\n<b>Air Temperature:</b> 72.3 \u00b0F<br />\n<b>De"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16199999987639, 
+          25.732000000168707, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/NOS Stations", 
+        "NAME": "VAKF1", 
+        "LABELNAME": "Station VAKF1 - 8723214 - Virginia Key, FL", 
+        "POPUPINFO": "[CDATA[<b>NOS</b><br /><b>Location:</b> 25.732N 80.162W\n<br /><b>03/19/2013 1948 UTC</b><br /><b>Winds:</b> SSW (210\u00b0) at 2.9 kts gusting to 4.1<br />\n<b>Atmospheric Pressure:</b> 29.94 in  and steady<br />\n<b>Air Temperature:</b> 73.0 \u00b0F<br />\n<b>Water"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.10500000035255, 
+          24.71199999980316, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "FOLDERPATH": "Marine Obs via NDBC/Marine Obs by Station Owner/NOS Stations", 
+        "NAME": "VCAF1", 
+        "LABELNAME": "Station VCAF1 - 8723970 - Vaca Key, FL", 
+        "POPUPINFO": "[CDATA[<b>NOS</b><br /><b>Location:</b> 24.712N 81.105W\n<br /><b>03/19/2013 1948 UTC</b><br /><b>Winds:</b> W (260\u00b0) at 5.1 kts gusting to 8.9<br />\n<b>Atmospheric Pressure:</b> 29.96 in  and steady<br />\n<b>Air Temperature:</b> 74.3 \u00b0F<br />\n]]"
+      }
+    }
+  ]
+}

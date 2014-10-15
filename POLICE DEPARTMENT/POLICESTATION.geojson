@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29836775225213, 
+          25.91010679759385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220240180030", 
+        "NAME": "NORTHWEST STATION", 
+        "LON": -80.29837, 
+        "ZIPCODE": 33014, 
+        "POINT_X": 886796.62456204, 
+        "POINT_Y": 573635.624969088, 
+        "ADDRESS": "5975 MIAMI LAKES DR", 
+        "LAT": 25.91011
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34338802359522, 
+          25.797635737461704
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530280110010", 
+        "NAME": "MIDWEST STATION", 
+        "LON": -80.34339, 
+        "ZIPCODE": 33172, 
+        "POINT_X": 872202.12455162, 
+        "POINT_Y": 532679.891592003, 
+        "ADDRESS": "9101 NW 25TH ST", 
+        "LAT": 25.79764
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38110869450155, 
+          25.696132098084522
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3040310000170", 
+        "NAME": "KENDALL STATION", 
+        "LON": -80.38111, 
+        "ZIPCODE": 33183, 
+        "POINT_X": 859964.243843705, 
+        "POINT_Y": 495727.64430242, 
+        "ADDRESS": "7707 SW 117TH AVE", 
+        "LAT": 25.69613
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42292519271133, 
+          25.67463611548283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3059030122860", 
+        "NAME": "HAMMOCKS STATION", 
+        "LON": -80.42293, 
+        "ZIPCODE": 33186, 
+        "POINT_X": 846228.100056205, 
+        "POINT_Y": 487852.58172252, 
+        "ADDRESS": "10000 SW 142ND AVE", 
+        "LAT": 25.67464
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15497078501897, 
+          25.92010498418685
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0622160000020", 
+        "NAME": "INTRACOASTAL STATION", 
+        "LON": -80.15497, 
+        "ZIPCODE": 33160, 
+        "POINT_X": 933910.4316629771, 
+        "POINT_Y": 577547.744769506, 
+        "ADDRESS": "15665 BISCAYNE BLVD", 
+        "LAT": 25.9201
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3665019814629, 
+          25.571008103277133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3660070000551", 
+        "NAME": "SOUTH STATION", 
+        "LON": -80.3665, 
+        "ZIPCODE": 33189, 
+        "POINT_X": 864991.812118601, 
+        "POINT_Y": 450273.969215855, 
+        "ADDRESS": "10800 SW 211TH ST", 
+        "LAT": 25.57101
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26980182092463, 
+          25.796717030348482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": null, 
+        "NAME": "AIRPORT STATION", 
+        "LON": -80.2698, 
+        "ZIPCODE": 33102, 
+        "POINT_X": 896415.749844749, 
+        "POINT_Y": 532473.499698356, 
+        "ADDRESS": "PO BOX 592075, BUILDING 3033", 
+        "LAT": 25.79672
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20995936543, 
+          25.84927557047637
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031110000192", 
+        "NAME": "NORTHSIDE STATION", 
+        "LON": -80.20996, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 915991.0584630821, 
+        "POINT_Y": 551690.546237938, 
+        "ADDRESS": "799 NW 81ST ST", 
+        "LAT": 25.84928
+      }
+    }
+  ]
+}

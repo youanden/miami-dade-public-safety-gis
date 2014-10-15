@@ -1,0 +1,656 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42759207217881, 
+          25.805251174129378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Doral", 
+        "FOLIO": "3039270000040", 
+        "CAPACITY": 1100, 
+        "NAME": "South Florida Reception Center", 
+        "PHONE2": "475-1390", 
+        "AGE": null, 
+        "AGENCY": "Florida Department of Corrections", 
+        "LON": -80.42759, 
+        "ZIPCODE": 33178, 
+        "FAX": "305-470-5628", 
+        "PHONE": "305-592-9567", 
+        "POINT_Y": 535318.45463834, 
+        "POINT_X": 844485.0400580211, 
+        "URL": "http://www.dc.state.fl.us/facilities/region4/401.html", 
+        "INMATES": "Male", 
+        "ADDRESS": "14000 NW 41ST ST", 
+        "LAT": 25.80525, 
+        "TYPE": "Reception Center", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49720830923584, 
+          25.760760891042587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3048110000020", 
+        "CAPACITY": 1525, 
+        "NAME": "Everglades Correctional Institution", 
+        "PHONE2": "479-2000", 
+        "AGE": "Adult", 
+        "AGENCY": "Florida Department of Corrections", 
+        "LON": -80.49721, 
+        "ZIPCODE": 33185, 
+        "FAX": "305-228-2039", 
+        "PHONE": "305-228-2054", 
+        "POINT_Y": 519054.756030634, 
+        "POINT_X": 821643.09345198, 
+        "URL": "http://www.dc.state.fl.us/facilities/region4/401.html", 
+        "INMATES": "Male", 
+        "ADDRESS": "1599 SW 187TH AVE", 
+        "LAT": 25.76076, 
+        "TYPE": "Correctional Institution", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21817675508974, 
+          25.919094612274005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3021140000120", 
+        "CAPACITY": 0, 
+        "NAME": "North Dade Detention Center - CLOSED", 
+        "PHONE2": null, 
+        "AGE": null, 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.21818, 
+        "ZIPCODE": 33169, 
+        "FAX": null, 
+        "PHONE": "305-685-5022", 
+        "POINT_Y": 577051.56671001, 
+        "POINT_X": 913137.281362187, 
+        "URL": "FACILITY IS CLOSED", 
+        "INMATES": "Male", 
+        "ADDRESS": "15801 North State Road  9", 
+        "LAT": 25.91909, 
+        "TYPE": "Detention Center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49832243518998, 
+          25.41321339329857
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "FOLIO": "3088020000040", 
+        "CAPACITY": 1496, 
+        "NAME": "Dade Correctional Institution", 
+        "PHONE2": "478-1700", 
+        "AGE": "Adult", 
+        "AGENCY": "Florida Department of Corrections", 
+        "LON": -80.49832, 
+        "ZIPCODE": 33034, 
+        "FAX": "305-242-1881", 
+        "PHONE": "305-242-1700", 
+        "POINT_Y": 392739.402936779, 
+        "POINT_X": 821754.081993125, 
+        "URL": "http://www.dc.state.fl.us/facilities/region4/463.html", 
+        "INMATES": "Male", 
+        "ADDRESS": "19000  SW 377TH ST", 
+        "LAT": 25.41321, 
+        "TYPE": "Correctional Institution", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42527193313362, 
+          25.805257446905294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Doral", 
+        "FOLIO": "3039270000040", 
+        "CAPACITY": 889, 
+        "NAME": "South Florida Reception Center (SFRC), South Unit", 
+        "PHONE2": null, 
+        "AGE": "Adult", 
+        "AGENCY": "Florida Department of Corrections", 
+        "LON": -80.42527, 
+        "ZIPCODE": 33178, 
+        "FAX": "305-470-5628", 
+        "PHONE": "305-592-9567", 
+        "POINT_Y": 535324.061992608, 
+        "POINT_X": 845248.3562807289, 
+        "URL": "http://www.dc.state.fl.us/facilities/region4/403.html", 
+        "INMATES": "Male", 
+        "ADDRESS": "14000 NW 41st Street", 
+        "LAT": 25.80526, 
+        "TYPE": "Reception Center", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49736750488914, 
+          25.413641541784664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "FOLIO": "3088020000040", 
+        "CAPACITY": 553, 
+        "NAME": "Homestead Correction Instititute", 
+        "PHONE2": "478-1700", 
+        "AGE": "Adult", 
+        "AGENCY": "Florida Departmetn of corrections", 
+        "LON": -80.49737, 
+        "ZIPCODE": 33034, 
+        "FAX": "305-242-1881", 
+        "PHONE": "305-242-1700", 
+        "POINT_Y": 392896.19232136, 
+        "POINT_X": 822068.6929944791, 
+        "URL": "http://www.dc.state.fl.us/facilities/region4/419.html", 
+        "INMATES": "Female", 
+        "ADDRESS": "19000 SW 377th Street", 
+        "LAT": 25.41364, 
+        "TYPE": "Correctional Institution", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19903352440558, 
+          25.776455113777764
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101090501090", 
+        "CAPACITY": 50, 
+        "NAME": "Miami-Dade Juvenile Assesment Center", 
+        "PHONE2": "305-755-6200", 
+        "AGE": "Juvenile", 
+        "AGENCY": "Miami-Dade Police Department", 
+        "LON": -80.19903, 
+        "ZIPCODE": 33128, 
+        "FAX": "305-755-6150", 
+        "PHONE": "305-755-6262", 
+        "POINT_Y": 525244.366764903, 
+        "POINT_X": 919745.56169875, 
+        "URL": "http://www.miamidade.gov/jac/", 
+        "INMATES": "Male & female", 
+        "ADDRESS": "275 NW 2ND AVE", 
+        "LAT": 25.77646, 
+        "TYPE": "Juvenile Assessment Center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24106398777253, 
+          25.806363898714306
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031280160010", 
+        "CAPACITY": 226, 
+        "NAME": "Miami Dade Regional Juvenile Detention Center", 
+        "PHONE2": "305-637-4343", 
+        "AGE": "Juvenile", 
+        "AGENCY": "Florida Department of Juvenile Justice", 
+        "LON": -80.24106, 
+        "ZIPCODE": 33142, 
+        "FAX": "305-637-2812", 
+        "PHONE": "305-637-4682", 
+        "POINT_Y": 536033.281374693, 
+        "POINT_X": 905851.1665053141, 
+        "URL": "http://www.djj.state.fl.us/Detention/Facilities/MiamiDade.html", 
+        "INMATES": null, 
+        "ADDRESS": "3300 NW 27TH AVE", 
+        "LAT": 25.80636, 
+        "TYPE": "Detention Center", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21686239633837, 
+          25.786399469859635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370050", 
+        "CAPACITY": 1712, 
+        "NAME": "Pre-Trial Detention Center", 
+        "PHONE2": "305-545-4004", 
+        "AGE": "Adult and Juvenile", 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.21686, 
+        "ZIPCODE": 33125, 
+        "FAX": null, 
+        "PHONE": "786-263-4100", 
+        "POINT_Y": 528823.52750355, 
+        "POINT_X": 913856.786156774, 
+        "URL": "http://www.miamidade.gov/corrections/pre_trial_detention.asp", 
+        "INMATES": "Male", 
+        "ADDRESS": "1321 NW 13TH ST", 
+        "LAT": 25.7864, 
+        "TYPE": "Pre-trial Detention Center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20664882630074, 
+          25.788113417262103
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131360350010", 
+        "CAPACITY": 375, 
+        "NAME": "Women's Detention Center", 
+        "PHONE2": "786-263-4621", 
+        "AGE": null, 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.20665, 
+        "ZIPCODE": 33136, 
+        "FAX": null, 
+        "PHONE": "786-263-4799", 
+        "POINT_Y": 529466.60528563, 
+        "POINT_X": 917213.9247016681, 
+        "URL": "http://www.miamidade.gov/corrections/womens_detention.asp", 
+        "INMATES": "Female", 
+        "ADDRESS": "1401 NW 7TH AVE", 
+        "LAT": 25.78811, 
+        "TYPE": "Pre-trial and Sentenced Detention Center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31038030719057, 
+          25.81155958784058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3030260000020", 
+        "CAPACITY": 1265, 
+        "NAME": "Training & Treatment Center", 
+        "PHONE2": null, 
+        "AGE": "Adult", 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.31038, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "786-263-5713", 
+        "POINT_Y": 537796.214200526, 
+        "POINT_X": 883035.975095105, 
+        "URL": "http://www.miamidade.gov/corrections/training_treatment_center.asp", 
+        "INMATES": "Male", 
+        "ADDRESS": "6950 NW 41ST ST", 
+        "LAT": 25.81156, 
+        "TYPE": "Training & treatment center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41821819866576, 
+          25.809999750607297
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3039270000010", 
+        "CAPACITY": 3098, 
+        "NAME": "Metro-West Detention Center", 
+        "PHONE2": null, 
+        "AGE": "Adult", 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.41822, 
+        "ZIPCODE": 33178, 
+        "FAX": null, 
+        "PHONE": "786-263-5299", 
+        "POINT_Y": 537057.883574173, 
+        "POINT_X": 847561.417189375, 
+        "URL": "http://www.miamidade.gov/corrections/metro_west.asp", 
+        "INMATES": "Male", 
+        "ADDRESS": "13850 NW 41ST ST", 
+        "LAT": 25.81, 
+        "TYPE": "Detention Center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31182821421405, 
+          25.810206476276694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3030260000020", 
+        "CAPACITY": 1300, 
+        "NAME": "Turner Guilford Knight Detention Center", 
+        "PHONE2": "786-263-5519", 
+        "AGE": "Adult", 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.31183, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "786-263-5600", 
+        "POINT_Y": 537301.914418131, 
+        "POINT_X": 882562.204307083, 
+        "URL": "http://www.miamidade.gov/corrections/tgk_correctional.asp", 
+        "INMATES": "Male", 
+        "ADDRESS": "7000 NW 41ST ST", 
+        "LAT": 25.81021, 
+        "TYPE": "Correctional Center", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48152227534185, 
+          25.753440863967047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3048120000010", 
+        "CAPACITY": 0, 
+        "NAME": "Krome North SPC", 
+        "PHONE2": "305-577-0010", 
+        "AGE": null, 
+        "AGENCY": "US Department of Justice.Immigration & Naturalization Service", 
+        "LON": -80.48152, 
+        "ZIPCODE": 33194, 
+        "FAX": "305-536-7368", 
+        "PHONE": "305-207-2001", 
+        "POINT_Y": 516414.269595735, 
+        "POINT_X": 826816.156842709, 
+        "URL": "http://www.ice.gov/pi/dro/facilities/krome.htm", 
+        "INMATES": "Male & female", 
+        "ADDRESS": "18201 SW 12TH ST", 
+        "LAT": 25.75344, 
+        "TYPE": "Detention Center", 
+        "JURISDTN": "Federal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31038030719057, 
+          25.81155958784058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3030260000020", 
+        "CAPACITY": 116, 
+        "NAME": "Boot Camp", 
+        "PHONE2": "786-263-5713", 
+        "AGE": "Adult", 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.31038, 
+        "ZIPCODE": 33166, 
+        "FAX": "786-263-5719", 
+        "PHONE": "305-639-3181", 
+        "POINT_Y": 537796.214200526, 
+        "POINT_X": 883035.975095105, 
+        "URL": "http://www.miamidade.gov/corrections/Boot_Camp.asp", 
+        "INMATES": "Male & female", 
+        "ADDRESS": "6950 NW 41ST ST", 
+        "LAT": 25.81156, 
+        "TYPE": "Correctional Institution", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31188261071932, 
+          25.81151482248382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3030260000020", 
+        "CAPACITY": 191, 
+        "NAME": "Miami North Work Release Center", 
+        "PHONE2": "451-5292", 
+        "AGE": "Adult", 
+        "AGENCY": "Florida Department of Corrections", 
+        "LON": -80.31188, 
+        "ZIPCODE": 33166, 
+        "FAX": "305-470-5584", 
+        "PHONE": "305-470-5580", 
+        "POINT_Y": 537777.355970524, 
+        "POINT_X": 882541.8221300021, 
+        "URL": null, 
+        "INMATES": "Male", 
+        "ADDRESS": "7090 NW 41ST ST", 
+        "LAT": 25.81151, 
+        "TYPE": "Work Release Center", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40858372441052, 
+          25.618572540357906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059260000010", 
+        "CAPACITY": 0, 
+        "NAME": "Federal Correctional Institution - FCI Miami", 
+        "PHONE2": null, 
+        "AGE": null, 
+        "AGENCY": "US Department of Justice. Federal Bureau of Prisons", 
+        "LON": -80.40858, 
+        "ZIPCODE": 33177, 
+        "FAX": "305-259-2160", 
+        "PHONE": "305-259-2100", 
+        "POINT_Y": 467497.139739901, 
+        "POINT_X": 851042.649564169, 
+        "URL": "http://www.bop.gov/locations/institutions/mia/index.jsp", 
+        "INMATES": null, 
+        "ADDRESS": "15801 SW 137TH AVE", 
+        "LAT": 25.61857, 
+        "TYPE": "Correctional Institution", 
+        "JURISDTN": "Federal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28915486204288, 
+          25.89719641563545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa Locka", 
+        "FOLIO": "3021190020030", 
+        "CAPACITY": 151, 
+        "NAME": "Opa Locka Work Release Center", 
+        "PHONE2": "481-4057", 
+        "AGE": "Adult", 
+        "AGENCY": "Florida Department of Corrections", 
+        "LON": -80.28915, 
+        "ZIPCODE": 33054, 
+        "FAX": "305-364-3188", 
+        "PHONE": "305-827-4057", 
+        "POINT_Y": 568959.424511775, 
+        "POINT_X": 889850.477542188, 
+        "URL": null, 
+        "INMATES": "Male", 
+        "ADDRESS": "5400 NW 135TH St", 
+        "LAT": 25.8972, 
+        "TYPE": "Work Release Center", 
+        "JURISDTN": "State"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19320143347383, 
+          25.778116118478607
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141370400030", 
+        "CAPACITY": 0, 
+        "NAME": "Federal Detention Center - FDC Miami", 
+        "PHONE2": null, 
+        "AGE": null, 
+        "AGENCY": "US Department of Justice. Federal Bureau of Prisons", 
+        "LON": -80.1932, 
+        "ZIPCODE": 33132, 
+        "FAX": "305-982-1357", 
+        "PHONE": "305-982-1114", 
+        "POINT_Y": 525859.797784694, 
+        "POINT_X": 921661.1447278151, 
+        "URL": "http://www.bop.gov/locations/institutions/mim/index.jsp", 
+        "INMATES": null, 
+        "ADDRESS": "33 NE 4TH  ST", 
+        "LAT": 25.77812, 
+        "TYPE": "Detention Center", 
+        "JURISDTN": "Federal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21370931805188, 
+          25.790837766187302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350030040", 
+        "CAPACITY": 28, 
+        "NAME": "Hospital Services Unit", 
+        "PHONE2": "305-639-3194", 
+        "AGE": "Adult", 
+        "AGENCY": "Miami-Dade County Corrections & Rehabilitation Department", 
+        "LON": -80.21371, 
+        "ZIPCODE": 33125, 
+        "FAX": null, 
+        "PHONE": "305-585-5200", 
+        "POINT_Y": 530442.881220214, 
+        "POINT_X": 914884.710200001, 
+        "URL": null, 
+        "INMATES": "Male & female", 
+        "ADDRESS": "1611 NW 12TH AVE", 
+        "LAT": 25.79084, 
+        "TYPE": "Hospital services unit", 
+        "JURISDTN": "County"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48061170457125, 
+          25.372285137839473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "FOLIO": "3088240000020", 
+        "CAPACITY": 56, 
+        "NAME": "Dade Juvenile Residential Facility", 
+        "PHONE2": null, 
+        "AGE": "Juvenile", 
+        "AGENCY": "Florida Department of Juvenile Justice", 
+        "LON": -80.48061, 
+        "ZIPCODE": 33034, 
+        "FAX": "305-247-1881", 
+        "PHONE": "305-247-6492", 
+        "POINT_Y": 377887.004410006, 
+        "POINT_X": 827657.740625419, 
+        "URL": "http://www.djj.state.fl.us/Residential/Facilities/south_facilities/Dade_JRF.html", 
+        "INMATES": "Male", 
+        "ADDRESS": "18500 SW 424 Street", 
+        "LAT": 25.37229, 
+        "TYPE": "Detention Center", 
+        "JURISDTN": "State"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1571 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1838509070073, 
+          25.889180583746544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622300190010", 
+        "NAME": "North Miami", 
+        "LON": -80.18385, 
+        "ZIPCODE": 33161, 
+        "FAX": null, 
+        "PHONE": "(305) 891-8111", 
+        "CHIEF": "Marc Elias Jr.", 
+        "POINT_X": 924487.674649, 
+        "POINT_Y": 566247.38099832, 
+        "ADDRESS": "700 NE 124TH ST", 
+        "LAT": 25.88918, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48287319111138, 
+          25.44858432130447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "FOLIO": "1678240071890", 
+        "NAME": "Florida City", 
+        "LON": -80.48287, 
+        "ZIPCODE": 33034, 
+        "FAX": "(305) 245-5001", 
+        "PHONE": "(305) 247-8223", 
+        "CHIEF": "Pedro W. Taylor", 
+        "POINT_X": 826803.6357655, 
+        "POINT_Y": 405613.94865691, 
+        "ADDRESS": "404 W PALM DR", 
+        "LAT": 25.44858, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34385878791231, 
+          25.79836712061792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530280110010", 
+        "NAME": "Miami-Dade County (Mid West Station)", 
+        "LON": -80.34386, 
+        "ZIPCODE": 33172, 
+        "FAX": "(305) 471-2897", 
+        "PHONE": "(305) 471-1780", 
+        "CHIEF": "James Loftus", 
+        "POINT_X": 872045.90650125, 
+        "POINT_Y": 532944.94825949, 
+        "ADDRESS": "9105 NW 25TH ST", 
+        "LAT": 25.79837, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "C"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13944251879056, 
+          25.952764113892698
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "AVENTURA", 
+        "FOLIO": "2812350790010", 
+        "NAME": "Aventura", 
+        "LON": -80.13944, 
+        "ZIPCODE": 33180, 
+        "FAX": "(305) 466-8991", 
+        "PHONE": "(305) 466-8989", 
+        "CHIEF": "Steve Steinberg", 
+        "POINT_X": 938936.50303474, 
+        "POINT_Y": 589451.8250749, 
+        "ADDRESS": "19200 W COUNTRY CLUB DR", 
+        "LAT": 25.95276, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19385570674113, 
+          25.86678171389657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SHORES", 
+        "FOLIO": "1132060132080", 
+        "NAME": "Miami Shores", 
+        "LON": -80.19386, 
+        "ZIPCODE": 33138, 
+        "FAX": "(305) 756-8972", 
+        "PHONE": "(305) 759-2468", 
+        "CHIEF": "Kevin Lystad", 
+        "POINT_X": 921248.31203325, 
+        "POINT_Y": 558085.68734799, 
+        "ADDRESS": "9990 NE 2ND AVE", 
+        "LAT": 25.86678, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19838335565811, 
+          25.77819371858988
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070501090", 
+        "NAME": "Miami (Flagami NET Service Area)", 
+        "LON": -80.19838, 
+        "ZIPCODE": 33128, 
+        "FAX": null, 
+        "PHONE": "(305) 960-2890", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 919955.68010408, 
+        "POINT_Y": 525877.59297166, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77819, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36452577230843, 
+          25.87012964429158
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "FOLIO": "2220320040145", 
+        "NAME": "Medley (Satellite)", 
+        "LON": -80.36453, 
+        "ZIPCODE": 33178, 
+        "FAX": null, 
+        "PHONE": "(305) 863-1889", 
+        "CHIEF": "Tom Hughes", 
+        "POINT_X": 865119.94692799, 
+        "POINT_Y": 558994.48408683, 
+        "ADDRESS": "10200 NW 116TH WAY", 
+        "LAT": 25.87013, 
+        "TYPE": "Satellite", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12137651817409, 
+          25.957331572935864
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "GOLDEN  BEACH", 
+        "FOLIO": "1912350041270", 
+        "NAME": "Golden  Beach", 
+        "LON": -80.12138, 
+        "ZIPCODE": 33160, 
+        "FAX": "(305) 932-2045", 
+        "PHONE": "(305) 935-0940", 
+        "CHIEF": "James N. Skinner", 
+        "POINT_X": 944861.93737808, 
+        "POINT_Y": 591151.43814549, 
+        "ADDRESS": "1 GOLDEN BEACH DR", 
+        "LAT": 25.95733, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34901873731042, 
+          25.603964019533755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PALMETTO BAY", 
+        "FOLIO": "3350280000080", 
+        "NAME": "Palmetto Bay", 
+        "LON": -80.34902, 
+        "ZIPCODE": 33157, 
+        "FAX": "(305) 259-1292", 
+        "PHONE": "(305) 259-1270", 
+        "CHIEF": "Gret Truitt", 
+        "POINT_X": 870696.33374108, 
+        "POINT_Y": 462279.67423599, 
+        "ADDRESS": "9705 E HIBISCUS ST", 
+        "LAT": 25.60396, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28533028513519, 
+          25.8207261171344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "FOLIO": "0530240071560", 
+        "NAME": "Miami Springs (Substation)", 
+        "LON": -80.28533, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "(305) 888-5286", 
+        "CHIEF": "G. Baan", 
+        "POINT_X": 891259.03113266, 
+        "POINT_Y": 541171.89309166, 
+        "ADDRESS": "274 WESTWARD DR", 
+        "LAT": 25.82073, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12236967672852, 
+          25.942666638275433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "FOLIO": "3122110050010", 
+        "NAME": "Sunny Isles Beach", 
+        "LON": -80.12237, 
+        "ZIPCODE": 33160, 
+        "FAX": "(305) 949-3113", 
+        "PHONE": "(305) 949-3113", 
+        "CHIEF": "Fred Maas", 
+        "POINT_X": 944571.32378608, 
+        "POINT_Y": 585818.84513616, 
+        "ADDRESS": "18070 COLLINS AVE", 
+        "LAT": 25.94267, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35907635059665, 
+          25.82936040480972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530170320010", 
+        "NAME": "Doral", 
+        "LON": -80.35908, 
+        "ZIPCODE": 33178, 
+        "FAX": "(786) 871-1501", 
+        "PHONE": "(305) 593-6699", 
+        "CHIEF": "Richard Blom", 
+        "POINT_X": 866984.11905266, 
+        "POINT_Y": 544185.11508358, 
+        "ADDRESS": "6100 NW 99 AVE", 
+        "LAT": 25.82936, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23158479476702, 
+          25.77226456312364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141030360030", 
+        "NAME": "Miami (Little Havana NET Service Area)", 
+        "LON": -80.23158, 
+        "ZIPCODE": 33135, 
+        "FAX": null, 
+        "PHONE": "(305) 643-7160", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 909042.18946391, 
+        "POINT_Y": 523657.44714949, 
+        "ADDRESS": "2200 W FLAGLER ST", 
+        "LAT": 25.77226, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27298436784594, 
+          25.827132532338215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431170000060", 
+        "NAME": "Hialeah (Substation 1)", 
+        "LON": -80.27298, 
+        "ZIPCODE": 33010, 
+        "FAX": "(305) 883-6938", 
+        "PHONE": "(305) 883-5981", 
+        "CHIEF": "Sergio Velasquez", 
+        "POINT_X": 895307.51483358, 
+        "POINT_Y": 543522.65741899, 
+        "ADDRESS": "501 E 4TH AVE", 
+        "LAT": 25.82713, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30740962593636, 
+          25.913095172217904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220130010432", 
+        "NAME": "Miami Lakes", 
+        "LON": -80.30741, 
+        "ZIPCODE": 33014, 
+        "FAX": "(305) 827-4044", 
+        "PHONE": "(305) 827-4020", 
+        "CHIEF": "Major Gene Dieppa", 
+        "POINT_X": 883818.68807375, 
+        "POINT_Y": 574705.99990782, 
+        "ADDRESS": "6601 MAIN ST", 
+        "LAT": 25.9131, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "C"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33849408931198, 
+          25.868941660027712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH GARDENS", 
+        "FOLIO": "2730030010410", 
+        "NAME": "Hialeah Gardens", 
+        "LON": -80.33849, 
+        "ZIPCODE": 33016, 
+        "FAX": null, 
+        "PHONE": "(305) 558-3333", 
+        "CHIEF": "Van Toth", 
+        "POINT_X": 873681.95506641, 
+        "POINT_Y": 558604.96944591, 
+        "ADDRESS": "10301 NW 87TH AVE", 
+        "LAT": 25.86894, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19846253555892, 
+          25.778251860433116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070501090", 
+        "NAME": "Miami (Allapattah NET Service Area)", 
+        "LON": -80.19846, 
+        "ZIPCODE": 33128, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6640", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 919929.49446091, 
+        "POINT_Y": 525898.56701107, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77825, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21664111157197, 
+          25.925155668964415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3421140070320", 
+        "NAME": "Miami Gardens", 
+        "LON": -80.21664, 
+        "ZIPCODE": 33169, 
+        "FAX": "(305) 474-6473", 
+        "PHONE": "(305) 474-6473", 
+        "CHIEF": "Matthew Boyd", 
+        "POINT_X": 913628.87057925, 
+        "POINT_Y": 579257.60989907, 
+        "ADDRESS": "1020 NW 163RD DR", 
+        "LAT": 25.92516, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32863516515722, 
+          25.652968910340245
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PINECREST", 
+        "FOLIO": "2050150350010", 
+        "NAME": "Pinecrest", 
+        "LON": -80.32864, 
+        "ZIPCODE": 33157, 
+        "FAX": null, 
+        "PHONE": "(305) 234-2100", 
+        "CHIEF": "Samuel Ceballos, Jr", 
+        "POINT_X": 877323.61904291, 
+        "POINT_Y": 480124.13526616, 
+        "ADDRESS": "12645 S DIXIE HWY", 
+        "LAT": 25.65297, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36571276911171, 
+          25.576271914263526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "FOLIO": "3660070240020", 
+        "NAME": "Cutler Bay", 
+        "LON": -80.36571, 
+        "ZIPCODE": 33189, 
+        "FAX": "(305) 234-5887", 
+        "PHONE": "(305) 234-4237", 
+        "CHIEF": "Julie Miller", 
+        "POINT_X": 865242.8305405, 
+        "POINT_Y": 452188.33483866, 
+        "ADDRESS": "10720 CARIBBEAN BLVD", 
+        "LAT": 25.57627, 
+        "TYPE": null, 
+        "UNIT": "Suite 125", 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.80130625246123, 
+          25.761794106123936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": null, 
+        "NAME": "Miccosukee", 
+        "LON": -80.80131, 
+        "ZIPCODE": 33194, 
+        "FAX": null, 
+        "PHONE": "(305) 223-1600", 
+        "CHIEF": "Tom Loughren", 
+        "POINT_X": 721558.804917, 
+        "POINT_Y": 519163.9912414, 
+        "ADDRESS": "37799 SW 8TH ST", 
+        "LAT": 25.76179, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48459777977138, 
+          25.76292791830036
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3048010000022", 
+        "NAME": "Miccosukee (Substation)", 
+        "LON": -80.4846, 
+        "ZIPCODE": 33194, 
+        "FAX": null, 
+        "PHONE": "(305) 223-4600", 
+        "CHIEF": "Tom Loughren", 
+        "POINT_X": 825790.40124341, 
+        "POINT_Y": 519858.39602058, 
+        "ADDRESS": "500 SW 177TH AVE", 
+        "LAT": 25.76293, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23180987585256, 
+          25.77231303468133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141030360030", 
+        "NAME": "Miami (South Station)", 
+        "LON": -80.23181, 
+        "ZIPCODE": 33135, 
+        "FAX": null, 
+        "PHONE": "(305) 643-7160", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 908968.01277, 
+        "POINT_Y": 523674.63313874, 
+        "ADDRESS": "2200 W FLAGLER ST", 
+        "LAT": 25.77231, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21341277083059, 
+          25.831918124210063
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131140120880", 
+        "NAME": "Miami (North Station)", 
+        "LON": -80.21341, 
+        "ZIPCODE": 33150, 
+        "FAX": null, 
+        "PHONE": "(305) 795-2300", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 914893.03012441, 
+        "POINT_Y": 545374.83941016, 
+        "ADDRESS": "1000 NW 62ND ST", 
+        "LAT": 25.83192, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23158232926205, 
+          25.772194211220246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141030360030", 
+        "NAME": "Miami (Coconut Grove NET Service Area)", 
+        "LON": -80.23158, 
+        "ZIPCODE": 33135, 
+        "FAX": null, 
+        "PHONE": "(305) 643-7160", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 909043.15009191, 
+        "POINT_Y": 523631.88158383, 
+        "ADDRESS": "2200 W FLAGLER ST", 
+        "LAT": 25.77219, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21306664106544, 
+          25.831811001159693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131140120880", 
+        "NAME": "Miami (Little Haiti NET Service Area)", 
+        "LON": -80.21307, 
+        "ZIPCODE": 33150, 
+        "FAX": null, 
+        "PHONE": "(305) 795-2300", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 915007.11749466, 
+        "POINT_Y": 545336.58489349, 
+        "ADDRESS": "1000 NW 62ND ST", 
+        "LAT": 25.83181, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1267837656544, 
+          25.887192016911584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAL HARBOUR", 
+        "FOLIO": "1222260060040", 
+        "NAME": "Bal Harbour", 
+        "LON": -80.12678, 
+        "ZIPCODE": 33154, 
+        "FAX": "(305) 993-5163", 
+        "PHONE": "(305) 866-5000", 
+        "CHIEF": "Thomas E Hunker", 
+        "POINT_X": 943255.02162866, 
+        "POINT_Y": 565645.36809474, 
+        "ADDRESS": "655 96TH ST", 
+        "LAT": 25.88719, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13110191429152, 
+          25.887421546226786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAY HARBOR ISLANDS", 
+        "FOLIO": "1322270012220", 
+        "NAME": "Bay Harbor Islands", 
+        "LON": -80.1311, 
+        "ZIPCODE": 33154, 
+        "FAX": "(305) 993-1783", 
+        "PHONE": "(305) 866-6242", 
+        "CHIEF": "Duncan W. Young", 
+        "POINT_X": 941834.71836691, 
+        "POINT_Y": 565719.37221182, 
+        "ADDRESS": "9665 BAY HARBOR TER", 
+        "LAT": 25.88742, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18496031756662, 
+          25.880205487035973
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BISCAYNE PARK", 
+        "FOLIO": "1722310030900", 
+        "NAME": "Biscayne Park", 
+        "LON": -80.18496, 
+        "ZIPCODE": 33161, 
+        "FAX": null, 
+        "PHONE": "(305) 899-8000", 
+        "CHIEF": "Mitch Glansberg", 
+        "POINT_X": 924143.18419625, 
+        "POINT_Y": 562982.91114932, 
+        "ADDRESS": "640 NE 114TH ST", 
+        "LAT": 25.88021, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25996277985894, 
+          25.745909434950878
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0341170055110", 
+        "NAME": "Coral Gables", 
+        "LON": -80.25996, 
+        "ZIPCODE": 33134, 
+        "FAX": null, 
+        "PHONE": "(305) 460-5418", 
+        "CHIEF": "Dennis Weiner", 
+        "POINT_X": 899756.80186674, 
+        "POINT_Y": 514024.89062724, 
+        "ADDRESS": "2801 SALZEDO ST", 
+        "LAT": 25.74591, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18770055270906, 
+          25.854797523273838
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "EL PORTAL", 
+        "FOLIO": "1832070490490", 
+        "NAME": "El Portal", 
+        "LON": -80.1877, 
+        "ZIPCODE": 33138, 
+        "FAX": "(305) 795-7877", 
+        "PHONE": "(305) 795-7870", 
+        "CHIEF": "Eugene M. Morales", 
+        "POINT_X": 923299.31285249, 
+        "POINT_Y": 553742.25016874, 
+        "ADDRESS": "500 NE 87TH ST", 
+        "LAT": 25.8548, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26629376698784, 
+          25.872980946565768
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0421320010011", 
+        "NAME": "Hialeah (Police Headquarters)", 
+        "LON": -80.26629, 
+        "ZIPCODE": 33013, 
+        "FAX": "(305) 953-5330", 
+        "PHONE": "(305) 687-2525", 
+        "CHIEF": "Sergio Velasquez", 
+        "POINT_X": 897415.31212716, 
+        "POINT_Y": 560199.24939382, 
+        "ADDRESS": "5555 E 8TH AVE", 
+        "LAT": 25.87298, 
+        "TYPE": "Headquarters", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33244837714842, 
+          25.890101218944952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420270010340", 
+        "NAME": "Hialeah (Substation 5)", 
+        "LON": -80.33245, 
+        "ZIPCODE": 33016, 
+        "FAX": "(305) 698-3603", 
+        "PHONE": "(305) 698-3600", 
+        "CHIEF": "Sergio Velasquez", 
+        "POINT_X": 875630.83962008, 
+        "POINT_Y": 566305.78672141, 
+        "ADDRESS": "7400 W 24TH AVE", 
+        "LAT": 25.8901, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47848816347503, 
+          25.469394886829466
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1078130260070", 
+        "NAME": "Homestead", 
+        "LON": -80.47849, 
+        "ZIPCODE": 33030, 
+        "FAX": null, 
+        "PHONE": "(305) 247-1535", 
+        "CHIEF": "Alexander E. Rolle", 
+        "POINT_X": 828221.00038483, 
+        "POINT_Y": 413182.93745591, 
+        "ADDRESS": "4 S KROME  AVE", 
+        "LAT": 25.46939, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12976901517126, 
+          25.877523463494683
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "INDIAN CREEK VILLAGE", 
+        "FOLIO": "2122350020030", 
+        "NAME": "Indian Creek Village", 
+        "LON": -80.12977, 
+        "ZIPCODE": 33154, 
+        "FAX": "(305) 866-3199", 
+        "PHONE": "(305) 866-2446", 
+        "CHIEF": "Clarke P. Maher", 
+        "POINT_X": 942296.812259, 
+        "POINT_Y": 562124.56280041, 
+        "ADDRESS": "9080 BAY DR", 
+        "LAT": 25.87752, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1649127686788, 
+          25.69078795013534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "KEY BISCAYNE", 
+        "FOLIO": "2442320010061", 
+        "NAME": "Key Biscayne", 
+        "LON": -80.16491, 
+        "ZIPCODE": 33149, 
+        "FAX": "(305) 365-8937", 
+        "PHONE": "(305) 365-5505", 
+        "CHIEF": "Charles R. Press", 
+        "POINT_X": 931171.43195074, 
+        "POINT_Y": 494176.94803974, 
+        "ADDRESS": "88 W MCINTYRE ST", 
+        "LAT": 25.69079, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31735288656411, 
+          25.84125431949444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "FOLIO": "2230110020660", 
+        "NAME": "Medley", 
+        "LON": -80.31735, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "(305) 883-2044", 
+        "CHIEF": "Tom Hughes", 
+        "POINT_X": 880686.06277733, 
+        "POINT_Y": 548577.18766424, 
+        "ADDRESS": "7331 NW 74TH ST", 
+        "LAT": 25.84125, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1985655099933, 
+          25.77833380155532
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070501090", 
+        "NAME": "Miami (Headquarters)", 
+        "LON": -80.19857, 
+        "ZIPCODE": 33128, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6640", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 919895.42595949, 
+        "POINT_Y": 525928.14372357, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77833, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21325816443405, 
+          25.831865209297426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131140120880", 
+        "NAME": "Miami (Model City NET Service Area)", 
+        "LON": -80.21326, 
+        "ZIPCODE": 33150, 
+        "FAX": null, 
+        "PHONE": "(305) 795-2300", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 914944.00082, 
+        "POINT_Y": 545355.91064224, 
+        "ADDRESS": "1000 NW 62ND ST", 
+        "LAT": 25.83187, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19830739397335, 
+          25.77812147053506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070501090", 
+        "NAME": "Miami (Overtown NET Service Area)", 
+        "LON": -80.19831, 
+        "ZIPCODE": 33128, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6640", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 919980.83753408, 
+        "POINT_Y": 525851.48541232, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77812, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1331987691906, 
+          25.782251153334844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0242030090370", 
+        "NAME": "Miami Beach", 
+        "LON": -80.1332, 
+        "ZIPCODE": 33139, 
+        "FAX": "(305) 673-7456", 
+        "PHONE": "(305) 673-7900", 
+        "CHIEF": "Raymond A. Martinez", 
+        "POINT_X": 941397.33702383, 
+        "POINT_Y": 527488.18751949, 
+        "ADDRESS": "1100 WASHINGTON AVE", 
+        "LAT": 25.78225, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12385852624496, 
+          25.853636376670025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232110010760", 
+        "NAME": "Miami Beach (Substation)", 
+        "LON": -80.12386, 
+        "ZIPCODE": 33140, 
+        "FAX": null, 
+        "PHONE": "(305) 993-2060", 
+        "CHIEF": "Raymond A. Martinez", 
+        "POINT_X": 944298.18850558, 
+        "POINT_Y": 553455.12410257, 
+        "ADDRESS": "6840 INDIAN CREEK  DR", 
+        "LAT": 25.85364, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28466778196551, 
+          25.821406680231167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "FOLIO": "0530240061390", 
+        "NAME": "Miami Springs", 
+        "LON": -80.28467, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "(305) 805-5100", 
+        "CHIEF": "G. Baan", 
+        "POINT_X": 891475.62485958, 
+        "POINT_Y": 541420.43819824, 
+        "ADDRESS": "201 WESTWARD DR", 
+        "LAT": 25.82141, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14954924928577, 
+          25.84839216522269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH BAY VILLAGE", 
+        "FOLIO": "2332090511420", 
+        "NAME": "North Bay Village", 
+        "LON": -80.14955, 
+        "ZIPCODE": 33141, 
+        "FAX": null, 
+        "PHONE": "(305) 866-7508", 
+        "CHIEF": "Robert Daniels", 
+        "POINT_X": 935861.37532675, 
+        "POINT_Y": 551493.47513874, 
+        "ADDRESS": "1700 KENNEDY CSWY", 
+        "LAT": 25.84839, 
+        "TYPE": null, 
+        "UNIT": "132", 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16177835861781, 
+          25.931425830215407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": "0722090062960", 
+        "NAME": "North Miami Beach", 
+        "LON": -80.16178, 
+        "ZIPCODE": 33162, 
+        "FAX": null, 
+        "PHONE": "(305) 949-5500", 
+        "CHIEF": "Larry Gomer", 
+        "POINT_X": 931646.50055441, 
+        "POINT_Y": 581648.23241441, 
+        "ADDRESS": "16901 NE 19TH AVE", 
+        "LAT": 25.93143, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24165289472022, 
+          25.9065286694351
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "OPA-LOCKA", 
+        "FOLIO": "0821220020460", 
+        "NAME": "Opa-Locka", 
+        "LON": -80.24165, 
+        "ZIPCODE": 33054, 
+        "FAX": "(305) 953-2833", 
+        "PHONE": "(305) 681-1033", 
+        "CHIEF": "Cheryl Cason", 
+        "POINT_X": 905447.2501315, 
+        "POINT_Y": 572438.87517699, 
+        "ADDRESS": "2495 ALI BABA AVE", 
+        "LAT": 25.90653, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23272278936875, 
+          25.897922371240725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "OPA-LOCKA", 
+        "FOLIO": "0821220000240", 
+        "NAME": "Opa-Locka (Mini-Station)", 
+        "LON": -80.23272, 
+        "ZIPCODE": 33054, 
+        "FAX": null, 
+        "PHONE": "(305) 953-2877", 
+        "CHIEF": "Cheryl Cason", 
+        "POINT_X": 908401.12480116, 
+        "POINT_Y": 569327.81250149, 
+        "ADDRESS": "2040 OPA LOCKA BLVD", 
+        "LAT": 25.89792, 
+        "TYPE": "Mini-station", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29212768466931, 
+          25.703366760415708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940360000030", 
+        "NAME": "South Miami", 
+        "LON": -80.29213, 
+        "ZIPCODE": 33143, 
+        "FAX": "(305) 663-6353", 
+        "PHONE": "(305) 663-6301", 
+        "CHIEF": "Orlando M de Castro", 
+        "POINT_X": 889252.001026, 
+        "POINT_Y": 498504.25040874, 
+        "ADDRESS": "6130 SW 72ND ST", 
+        "LAT": 25.70337, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12277752399794, 
+          25.88134131411358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SURFSIDE", 
+        "FOLIO": "1422350060490", 
+        "NAME": "Surfside", 
+        "LON": -80.12278, 
+        "ZIPCODE": 33154, 
+        "FAX": null, 
+        "PHONE": "(305) 861-4862", 
+        "CHIEF": "David Allen", 
+        "POINT_X": 944586.43727291, 
+        "POINT_Y": 563527.56196291, 
+        "ADDRESS": "9293 HARDING AVE", 
+        "LAT": 25.88134, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37308667971227, 
+          25.76388562129757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "FOLIO": "2540060010056", 
+        "NAME": "Sweetwater", 
+        "LON": -80.37309, 
+        "ZIPCODE": 33174, 
+        "FAX": null, 
+        "PHONE": "(305) 552-9900", 
+        "CHIEF": "Roberto Fulgueira", 
+        "POINT_X": 862488.93742625, 
+        "POINT_Y": 520365.50130557, 
+        "ADDRESS": "500 SW 109TH AVE", 
+        "LAT": 25.76389, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30277790215754, 
+          25.80948197776341
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "VIRGINIA GARDENS", 
+        "FOLIO": "2630250010300", 
+        "NAME": "Virginia Gardens", 
+        "LON": -80.30278, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "(305) 871-3141", 
+        "CHIEF": "James P. Chohonis", 
+        "POINT_X": 885541.07275233, 
+        "POINT_Y": 537054.25992274, 
+        "ADDRESS": "6498 NW 38TH TER", 
+        "LAT": 25.80948, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29526909695835, 
+          25.762297511257852
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "FOLIO": "1540120000170", 
+        "NAME": "West Miami", 
+        "LON": -80.29527, 
+        "ZIPCODE": 33144, 
+        "FAX": "(305) 266-0970", 
+        "PHONE": "(305) 266-0530", 
+        "CHIEF": "Nelson Andreu", 
+        "POINT_X": 888103.18705066, 
+        "POINT_Y": 519917.65672883, 
+        "ADDRESS": "901 SW 62ND AVE", 
+        "LAT": 25.7623, 
+        "TYPE": null, 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30409351792206, 
+          25.890017083988976
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420250010470", 
+        "NAME": "Hialeah (Substation 4)", 
+        "LON": -80.30409, 
+        "ZIPCODE": 33014, 
+        "FAX": "(305) 816-4458", 
+        "PHONE": "(305)-816-4461", 
+        "CHIEF": "Sergio Velasquez", 
+        "POINT_X": 884953.22090966, 
+        "POINT_Y": 566323.64134449, 
+        "ADDRESS": "7400 W 10TH AVE", 
+        "LAT": 25.89002, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24317450036786, 
+          25.79115099140936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131330060900", 
+        "NAME": "Miami (Grapeland Heights Substation)", 
+        "LON": -80.24317, 
+        "ZIPCODE": 33125, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6500", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 905188.58660683, 
+        "POINT_Y": 530499.91804458, 
+        "ADDRESS": "1701 NW 30TH AVE", 
+        "LAT": 25.79115, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2985265063152, 
+          25.846418615706384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430120140020", 
+        "NAME": "Hialeah (Substation 3)", 
+        "LON": -80.29853, 
+        "ZIPCODE": 33012, 
+        "FAX": null, 
+        "PHONE": "(305)883-5305", 
+        "CHIEF": "Sergio Velasquez", 
+        "POINT_X": 886868.14227666, 
+        "POINT_Y": 550486.82951424, 
+        "ADDRESS": "2700 W 8TH AVE", 
+        "LAT": 25.84642, 
+        "TYPE": "Substation", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19821051441274, 
+          25.77804734917239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070501090", 
+        "NAME": "Miami (Wynwood/Edgewater NET Service Area)", 
+        "LON": -80.19821, 
+        "ZIPCODE": 33128, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6640", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 920012.88340174, 
+        "POINT_Y": 525824.73874666, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77805, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21288428943849, 
+          25.831764958398587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131140120880", 
+        "NAME": "Miami (Upper East Side NET Service Area)", 
+        "LON": -80.21288, 
+        "ZIPCODE": 33150, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6640", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 915067.19972358, 
+        "POINT_Y": 545320.20861391, 
+        "ADDRESS": "1000 NW 62ND ST", 
+        "LAT": 25.83176, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19807876745301, 
+          25.777986052281623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101070501090", 
+        "NAME": "Miami (Downtown NET Service Area)", 
+        "LON": -80.19808, 
+        "ZIPCODE": 33128, 
+        "FAX": null, 
+        "PHONE": "(305) 603-6640", 
+        "CHIEF": "Miguel Exposito", 
+        "POINT_X": 920056.37478458, 
+        "POINT_Y": 525802.72304266, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77799, 
+        "TYPE": "NET", 
+        "UNIT": null, 
+        "JURISDTN": "M"
+      }
+    }
+  ]
+}

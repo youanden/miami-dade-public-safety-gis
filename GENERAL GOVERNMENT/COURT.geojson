@@ -1,0 +1,977 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19656670573482, 
+          25.780242829377432
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131370340010", 
+        "NAME": "Child Support and Alimony", 
+        "PHONE": "3052751122", 
+        "LON": -80.19657, 
+        "ZIPCODE": 33136, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Central Depository", 
+        "STATE": "FL", 
+        "POINT_X": 920548.9695999209, 
+        "POINT_Y": 526626.018640175, 
+        "ADDRESS": "601 NW 1ST CT", 
+        "SERVICES": null, 
+        "LAT": 25.78024, 
+        "UNIT": "Suite 200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1556402574604, 
+          25.918114799784792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0622160000030", 
+        "NAME": "North Dade Justice Center", 
+        "PHONE": "3052751155", 
+        "LON": -80.15564, 
+        "ZIPCODE": 33160, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": null, 
+        "STATE": "FL", 
+        "POINT_X": 933695.0397644191, 
+        "POINT_Y": 576822.9421962571, 
+        "ADDRESS": "15555 BISCAYNE BLVD", 
+        "SERVICES": null, 
+        "LAT": 25.91811, 
+        "UNIT": "Suite 100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19474269044657, 
+          25.775732327791044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101100601040", 
+        "NAME": "Family Court Division", 
+        "PHONE": "3052751155", 
+        "LON": -80.19474, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Lawson E. Thomas Courthouse Center", 
+        "STATE": "FL", 
+        "POINT_X": 921159.235767838, 
+        "POINT_Y": 524990.265678093, 
+        "ADDRESS": "175 NW 1ST AVE", 
+        "SERVICES": null, 
+        "LAT": 25.77573, 
+        "UNIT": "Suite 14-2"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19414735381442, 
+          25.77491667514686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501030", 
+        "NAME": "County Recorder's Office", 
+        "PHONE": "3022751155", 
+        "LON": -80.19415, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Courthouse East", 
+        "STATE": "FL", 
+        "POINT_X": 921356.9696243369, 
+        "POINT_Y": 524695.000848673, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77492, 
+        "UNIT": "1st Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19679405681606, 
+          25.77596169457247
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141370230020", 
+        "NAME": "Code Enforcement", 
+        "PHONE": "3053752333", 
+        "LON": -80.19679, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Stephen P. Clark Center", 
+        "STATE": "FL", 
+        "POINT_X": 920483.64000617, 
+        "POINT_Y": 525069.512238756, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77596, 
+        "UNIT": "Suite 1750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19679632453125, 
+          25.776030993305426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141370230020", 
+        "NAME": "Clerk of the Board", 
+        "PHONE": "3053755126", 
+        "LON": -80.1968, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Stephen P. Clark Center", 
+        "STATE": "FL", 
+        "POINT_X": 920482.74040167, 
+        "POINT_Y": 525094.695259258, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77603, 
+        "UNIT": "Suite 17-202"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19516288577968, 
+          25.77443102631806
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501060", 
+        "NAME": "Clerk of the Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.19516, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Miami-Dade-County Courthouse", 
+        "STATE": "FL", 
+        "POINT_X": 921023.8423378359, 
+        "POINT_Y": 524516.440838344, 
+        "ADDRESS": "73 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77443, 
+        "UNIT": "Suite 242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.195168465666, 
+          25.77452902294771
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501060", 
+        "NAME": "Clerk of the Circuit & County Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.19517, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Civil Court", 
+        "STATE": "FL", 
+        "POINT_X": 921021.788208086, 
+        "POINT_Y": 524552.04805059, 
+        "ADDRESS": "73 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77453, 
+        "UNIT": "Suite 135"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19516992370067, 
+          25.77462134172473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501060", 
+        "NAME": "Small Claims", 
+        "PHONE": "3052751155", 
+        "LON": -80.19517, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Miami-Dade-County Courthouse", 
+        "STATE": "FL", 
+        "POINT_X": 921021.103498172, 
+        "POINT_Y": 524585.600148842, 
+        "ADDRESS": "73 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77462, 
+        "UNIT": "Suite 137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19672287764033, 
+          25.77381507539952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101140401080", 
+        "NAME": "Marriage License Bureau", 
+        "PHONE": "3052751155", 
+        "LON": -80.19672, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Metro-Dade Flagler Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 920511.8213802541, 
+        "POINT_Y": 524289.430465594, 
+        "ADDRESS": "140 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77382, 
+        "UNIT": "Suite 1503"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19671956516831, 
+          25.773688835753646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101140401080", 
+        "NAME": "Payments for Rest & Pub Def Liens", 
+        "PHONE": "3053755943", 
+        "LON": -80.19672, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Metro-Dade Flagler Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 920513.1911281721, 
+        "POINT_Y": 524243.553260759, 
+        "ADDRESS": "140 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77369, 
+        "UNIT": "Suite 1502"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25906986873868, 
+          25.743630800751717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "FOLIO": "0341170058080", 
+        "NAME": "Coral Gables District Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.25907, 
+        "ZIPCODE": 33134, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": null, 
+        "STATE": "FL", 
+        "POINT_X": 900055.374432337, 
+        "POINT_Y": 513198.34405200905, 
+        "ADDRESS": "3100 PONCE DE LEON BLVD", 
+        "SERVICES": null, 
+        "LAT": 25.74363, 
+        "UNIT": "Suite 100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37307290308112, 
+          25.763941359606665
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "2540060010056", 
+        "NAME": "Sweetwater Sub-office", 
+        "PHONE": "3052751155", 
+        "LON": -80.37307, 
+        "ZIPCODE": 33174, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": null, 
+        "STATE": "FL", 
+        "POINT_X": 862493.37508142, 
+        "POINT_Y": 520385.781448759, 
+        "ADDRESS": "500 SW 109TH AVE", 
+        "SERVICES": null, 
+        "LAT": 25.76394, 
+        "UNIT": "3rd Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.233332722487, 
+          25.824826153741526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031150550010", 
+        "NAME": "Joseph Caleb District Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.23333, 
+        "ZIPCODE": 33142, 
+        "OPERHOUR": "09:00-04-00", 
+        "ALIAS": "Joseph Caleb District Court", 
+        "STATE": "FL", 
+        "POINT_X": 908355.687228005, 
+        "POINT_Y": 542758.43781884, 
+        "ADDRESS": "5400 NW 22ND AVE", 
+        "SERVICES": null, 
+        "LAT": 25.82483, 
+        "UNIT": "Suite 103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24130472547405, 
+          25.806316235182
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031280160010", 
+        "NAME": "Juvenile Court", 
+        "PHONE": "3056386227", 
+        "LON": -80.2413, 
+        "ZIPCODE": 33142, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Juvenile Justice Center", 
+        "STATE": "FL", 
+        "POINT_X": 905772.062474005, 
+        "POINT_Y": 536015.50018926, 
+        "ADDRESS": "3300 NW 27TH AVE", 
+        "SERVICES": null, 
+        "LAT": 25.80632, 
+        "UNIT": "Suite 1000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21686030359841, 
+          25.785818834459953
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370030", 
+        "NAME": "Criminal Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.21686, 
+        "ZIPCODE": 33125, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Richard E. Gerstein Justice Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 913858.7296995859, 
+        "POINT_Y": 528612.490060925, 
+        "ADDRESS": "1351 NW 12TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.78582, 
+        "UNIT": "9th Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21698102870992, 
+          25.785813832073988
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370030", 
+        "NAME": "Traffic Court", 
+        "PHONE": "3052751111", 
+        "LON": -80.21698, 
+        "ZIPCODE": 33125, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Richard E. Gerstein Justice Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 913819.014227837, 
+        "POINT_Y": 528610.43560309, 
+        "ADDRESS": "1351 NW 12TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.78581, 
+        "UNIT": "Suite 124"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1330032077161, 
+          25.782446416800287
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242030090370", 
+        "NAME": "Miami Beach District Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.133, 
+        "ZIPCODE": 33139, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": null, 
+        "STATE": "FL", 
+        "POINT_X": 941461.224691339, 
+        "POINT_Y": 527559.5837021769, 
+        "ADDRESS": "1130 WASHINGTON AVE", 
+        "SERVICES": null, 
+        "LAT": 25.78245, 
+        "UNIT": "Suite 200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36474631160479, 
+          25.571330621515482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3660070000537", 
+        "NAME": "Civil Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.36475, 
+        "ZIPCODE": 33189, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "South Dade Justice Center", 
+        "STATE": "FL", 
+        "POINT_X": 865570.001802169, 
+        "POINT_Y": 450393.953913011, 
+        "ADDRESS": "10710 SW 211TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.57133, 
+        "UNIT": "Suite 1200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19414817242442, 
+          25.77479560632448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501030", 
+        "NAME": "Parking Violations Bureau", 
+        "PHONE": "3052751133", 
+        "LON": -80.19415, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Courthouse East", 
+        "STATE": "FL", 
+        "POINT_X": 921356.969296254, 
+        "POINT_Y": 524650.995031178, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.7748, 
+        "UNIT": "4th Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28109037055218, 
+          25.82748728073051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431180013020", 
+        "NAME": "Hialeah District Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.28109, 
+        "ZIPCODE": 33010, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": null, 
+        "STATE": "FL", 
+        "POINT_X": 892640.374498587, 
+        "POINT_Y": 543636.9373741751, 
+        "ADDRESS": "11 E 6TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.82749, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21644611207454, 
+          25.785833559444114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370030", 
+        "NAME": "S.P.I.R.I.T.", 
+        "PHONE": "3052751155", 
+        "LON": -80.21645, 
+        "ZIPCODE": 33125, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Richard E. Gerstein Justice Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 913994.992878504, 
+        "POINT_Y": 528618.65277826, 
+        "ADDRESS": "1351 NW 12TH  ST", 
+        "SERVICES": null, 
+        "LAT": 25.78583, 
+        "UNIT": "Suite 9640"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19680218443331, 
+          25.7760921134809
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141370230020", 
+        "NAME": "Value Adjustment Board (VAB)", 
+        "PHONE": "3053755641", 
+        "LON": -80.1968, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Stephen P. Clark Center", 
+        "STATE": "FL", 
+        "POINT_X": 920480.6764294211, 
+        "POINT_Y": 525116.898626924, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77609, 
+        "UNIT": "Suite 1720"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19414067150785, 
+          25.774673611721465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501030", 
+        "NAME": "County Records Library", 
+        "PHONE": "3052751155", 
+        "LON": -80.19414, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Courthouse East", 
+        "STATE": "FL", 
+        "POINT_X": 921359.708792087, 
+        "POINT_Y": 524606.669004343, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77467, 
+        "UNIT": "2nd Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3649112791194, 
+          25.57126846241678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3660070000537", 
+        "NAME": "Domestic Violence", 
+        "PHONE": "3052751155", 
+        "LON": -80.36491, 
+        "ZIPCODE": 33189, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "South Dade Justice Center", 
+        "STATE": "FL", 
+        "POINT_X": 865515.7289448379, 
+        "POINT_Y": 450371.10192459106, 
+        "ADDRESS": "10710 SW 211TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.57127, 
+        "UNIT": "Suite 1100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36508478945066, 
+          25.5712299180857
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3660070000537", 
+        "NAME": "Traffic", 
+        "PHONE": "3052751155", 
+        "LON": -80.36508, 
+        "ZIPCODE": 33189, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "South Dade Justice Center", 
+        "STATE": "FL", 
+        "POINT_X": 865458.5991378389, 
+        "POINT_Y": 450356.819472842, 
+        "ADDRESS": "10710 SW 211TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.57123, 
+        "UNIT": "Suite 1500"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1968017853606, 
+          25.776151498153823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141370230020", 
+        "NAME": "Foreclosure Unit", 
+        "PHONE": "3053755943", 
+        "LON": -80.1968, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Stephen P. Clark Center", 
+        "STATE": "FL", 
+        "POINT_X": 920480.676101338, 
+        "POINT_Y": 525138.483885594, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77615, 
+        "UNIT": "12th Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19680406740656, 
+          25.776218322657748
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141370230020", 
+        "NAME": "Tax Deed Unit", 
+        "PHONE": "3053753990", 
+        "LON": -80.1968, 
+        "ZIPCODE": 33128, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Stephen P. Clark Center", 
+        "STATE": "FL", 
+        "POINT_X": 920479.777153004, 
+        "POINT_Y": 525162.767629676, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "SERVICES": null, 
+        "LAT": 25.77622, 
+        "UNIT": "12th Floor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21657725298273, 
+          25.78582672800468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370030", 
+        "NAME": "Jury Service", 
+        "PHONE": "3052751155", 
+        "LON": -80.21658, 
+        "ZIPCODE": 33125, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Richard E. Gerstein Justice Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 913951.854185253, 
+        "POINT_Y": 528615.913282424, 
+        "ADDRESS": "1351 NW 12TH  ST", 
+        "SERVICES": null, 
+        "LAT": 25.78583, 
+        "UNIT": "Suite 700"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21672293368846, 
+          25.78582374642086
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370030", 
+        "NAME": "Felonies", 
+        "PHONE": "3052751155", 
+        "LON": -80.21672, 
+        "ZIPCODE": 33125, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Richard E. Gerstein Justice Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 913903.922194503, 
+        "POINT_Y": 528614.544190675, 
+        "ADDRESS": "1351 NW 12TH  ST", 
+        "SERVICES": null, 
+        "LAT": 25.78582, 
+        "UNIT": "Suite 9000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21711006384164, 
+          25.7858107583921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350370030", 
+        "NAME": "Misdemeanor", 
+        "PHONE": "3052751155", 
+        "LON": -80.21711, 
+        "ZIPCODE": 33125, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Richard E. Gerstein Justice Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 913776.560244504, 
+        "POINT_Y": 528609.066183262, 
+        "ADDRESS": "1351 NW 12TH ST", 
+        "SERVICES": null, 
+        "LAT": 25.78581, 
+        "UNIT": "Suite 8100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19672252114583, 
+          25.773558861843814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101140401080", 
+        "NAME": "Marriage License Bureau", 
+        "PHONE": "3052751155", 
+        "LON": -80.19672, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Metro-Dade Flagler Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 920512.506418254, 
+        "POINT_Y": 524196.305979922, 
+        "ADDRESS": "140 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77356, 
+        "UNIT": "Suite 1503"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19670679063911, 
+          25.773423133247405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101140401080", 
+        "NAME": "Tax-Deed Sales", 
+        "PHONE": "3052751155", 
+        "LON": -80.19671, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Metro-Dade Flagler Bldg.", 
+        "STATE": "FL", 
+        "POINT_X": 920517.9840975889, 
+        "POINT_Y": 524147.004569344, 
+        "ADDRESS": "140 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77342, 
+        "UNIT": "Suite 908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15566460845051, 
+          25.917913367944323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0622160000030", 
+        "NAME": "Domestic Violence Intake Location", 
+        "PHONE": "3052751155", 
+        "LON": -80.15566, 
+        "ZIPCODE": 33160, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": null, 
+        "STATE": "FL", 
+        "POINT_X": 933687.50729917, 
+        "POINT_Y": 576749.67495434, 
+        "ADDRESS": "15555 BISCAYNE BLVD", 
+        "SERVICES": null, 
+        "LAT": 25.91791, 
+        "UNIT": "Suite 103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19516919927764, 
+          25.774728719652618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501060", 
+        "NAME": "Jury Service", 
+        "PHONE": "3052751155", 
+        "LON": -80.19517, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Civil Court", 
+        "STATE": "FL", 
+        "POINT_X": 921021.103498172, 
+        "POINT_Y": 524624.629926428, 
+        "ADDRESS": "73 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77473, 
+        "UNIT": "Suite 200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19517058182097, 
+          25.774832343187402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101110501060", 
+        "NAME": "Probate Court", 
+        "PHONE": "3052751155", 
+        "LON": -80.19517, 
+        "ZIPCODE": 33130, 
+        "OPERHOUR": "09:00-04:00", 
+        "ALIAS": "Civil Court", 
+        "STATE": "FL", 
+        "POINT_X": 921020.418460172, 
+        "POINT_Y": 524662.290940344, 
+        "ADDRESS": "73 W FLAGLER ST", 
+        "SERVICES": null, 
+        "LAT": 25.77483, 
+        "UNIT": "Suite 200"
+      }
+    }
+  ]
+}

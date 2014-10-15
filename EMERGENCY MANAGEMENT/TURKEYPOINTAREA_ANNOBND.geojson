@@ -1,0 +1,3326 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.2963170283072, 
+              25.408905009888
+            ], 
+            [
+              -80.29628135095773, 
+              25.415052664978422
+            ], 
+            [
+              -80.251616560592, 
+              25.41483204749061
+            ], 
+            [
+              -80.25165450187136, 
+              25.408684453217145
+            ], 
+            [
+              -80.2963170283072, 
+              25.408905009888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 32942150.1284, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 33955.2788796, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 2, 
+        "TEXTSTRING": "TURKEY POINT", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 0, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 0, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 1152.00682031, 
+        "ID": 0, 
+        "ANNOTATION": 0, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.31928175004316, 
+              25.331558754637953
+            ], 
+            [
+              -80.32138136358924, 
+              25.33575626722342
+            ], 
+            [
+              -80.29128770638196, 
+              25.348184622649697
+            ], 
+            [
+              -80.28918893880936, 
+              25.343986702823265
+            ], 
+            [
+              -80.31928175004316, 
+              25.331558754637953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 18295520.8834, 
+        "ANGLE": 24.73687684, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 25186.6703933, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "DADE COUNTY", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 0, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 864.0050625, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.31740931859933, 
+              25.326245808702417
+            ], 
+            [
+              -80.31959871183265, 
+              25.33040522765343
+            ], 
+            [
+              -80.2827247502665, 
+              25.3464306711343
+            ], 
+            [
+              -80.28053635768357, 
+              25.342270736793957
+            ], 
+            [
+              -80.31740931859933, 
+              25.326245808702417
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 22623310.4494, 
+        "ANGLE": 25.85755742, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 30351.7396365, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "MONROE COUNTY", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 0, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 864.0050625, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.32027167243415, 
+              25.29245137151811
+            ], 
+            [
+              -80.32029760047418, 
+              25.295525211621296
+            ], 
+            [
+              -80.29170813512013, 
+              25.295721730727056
+            ], 
+            [
+              -80.2916829282227, 
+              25.29264790101886
+            ], 
+            [
+              -80.32027167243415, 
+              25.29245137151811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 10553397.3545, 
+        "ANGLE": 0.72976492, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 21127.0773974, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "OCEAN REEF CLUB", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00341016, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.27023130865648, 
+              25.341215898081742
+            ], 
+            [
+              -80.27021284173927, 
+              25.344289736838384
+            ], 
+            [
+              -80.25405693156142, 
+              25.344208690514808
+            ], 
+            [
+              -80.25407580665573, 
+              25.341134862939654
+            ], 
+            [
+              -80.27023130865648, 
+              25.341215898081742
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 5961314.72787, 
+        "ANGLE": -0.00042914, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 12906.3280764, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "PALO ALTO", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00344531, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.40920097582962, 
+              25.335867522772734
+            ], 
+            [
+              -80.40629531226115, 
+              25.33744114508491
+            ], 
+            [
+              -80.3909700914885, 
+              25.314064704292228
+            ], 
+            [
+              -80.3938753818438, 
+              25.312491369785718
+            ], 
+            [
+              -80.40920097582962, 
+              25.335867522772734
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11048688.0182, 
+        "ANGLE": -58.95462058, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 22013.7685696, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "CARD SOUND ROAD", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00253125, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.44790080617948, 
+              25.370175814537465
+            ], 
+            [
+              -80.44788683562007, 
+              25.373249745623827
+            ], 
+            [
+              -80.43476101759984, 
+              25.37319991802833
+            ], 
+            [
+              -80.43477532024967, 
+              25.370125993818544
+            ], 
+            [
+              -80.44790080617948, 
+              25.370175814537465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4841920.12619, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 10902.3948902, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "FLORIDA", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00270703, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.44772455538761, 
+              25.36743360424412
+            ], 
+            [
+              -80.44771058210705, 
+              25.370507533566627
+            ], 
+            [
+              -80.42684373734178, 
+              25.37042775229329
+            ], 
+            [
+              -80.42685823849789, 
+              25.36735383398204
+            ], 
+            [
+              -80.44772455538761, 
+              25.36743360424412
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 7697643.40701, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 16014.7230869, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "ROCK & SAND", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00270703, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.4848902630714, 
+              25.364312946579123
+            ], 
+            [
+              -80.48487723192508, 
+              25.367386898679847
+            ], 
+            [
+              -80.46064962593607, 
+              25.36730011754049
+            ], 
+            [
+              -80.46066326990139, 
+              25.364226177418292
+            ], 
+            [
+              -80.4848902630714, 
+              25.364312946579123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 8937591.50488, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 18234.46837, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "DADE CO-WORK", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00288281, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.48471482481861, 
+              25.361228032600298
+            ], 
+            [
+              -80.4847017910455, 
+              25.36430198590416
+            ], 
+            [
+              -80.46641620101433, 
+              25.36423684154394
+            ], 
+            [
+              -80.46642969724421, 
+              25.36116289723285
+            ], 
+            [
+              -80.48471482481861, 
+              25.361228032600298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 6745742.63844, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 14310.6191493, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "CAMP ROAD", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00288281, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.48494798458044, 
+              25.37723309090166
+            ], 
+            [
+              -80.48833161499098, 
+              25.377244895085973
+            ], 
+            [
+              -80.48826285315558, 
+              25.39355910541311
+            ], 
+            [
+              -80.48487876807623, 
+              25.393547292582536
+            ], 
+            [
+              -80.48494798458044, 
+              25.37723309090166
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 6624093.6318, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 14092.8430211, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "182 AVENUE", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00288281, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.44246506048987, 
+              25.40391006741306
+            ], 
+            [
+              -80.44245093095962, 
+              25.406983978749484
+            ], 
+            [
+              -80.41888272898301, 
+              25.406892716165693
+            ], 
+            [
+              -80.4188974557035, 
+              25.403818817411892
+            ], 
+            [
+              -80.44246506048987, 
+              25.40391006741306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 8691554.78311, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 17794.0254886, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 392 STREET", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00263672, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.41275027494248, 
+              25.36933162229691
+            ], 
+            [
+              -80.41613330887026, 
+              25.36937679003308
+            ], 
+            [
+              -80.41578560851745, 
+              25.390885319188744
+            ], 
+            [
+              -80.41240197266669, 
+              25.390840132914423
+            ], 
+            [
+              -80.41275027494248, 
+              25.36933162229691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 8734108.3503, 
+        "ANGLE": 89.4089639, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 17870.1982827, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 137 AVENUE", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00260156, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.40000492649446, 
+              25.444950705288452
+            ], 
+            [
+              -80.39998969282578, 
+              25.448024581978068
+            ], 
+            [
+              -80.36844403665673, 
+              25.447892308063352
+            ], 
+            [
+              -80.36846007111194, 
+              25.444818449589064
+            ], 
+            [
+              -80.40000492649446, 
+              25.444950705288452
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11629687.0392, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 23053.8424535, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 344 ST (PALM DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00323438, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.4084166919368, 
+              25.368463528866727
+            ], 
+            [
+              -80.41180003130452, 
+              25.368477088381926
+            ], 
+            [
+              -80.41166396520825, 
+              25.396561402547363
+            ], 
+            [
+              -80.40827984329624, 
+              25.396547825928668
+            ], 
+            [
+              -80.4084166919368, 
+              25.368463528866727
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11403266.0248, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 22648.5371091, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "TALLAHASSEE ROAD", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00253125, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.4740619898016, 
+              25.51111981251186
+            ], 
+            [
+              -80.47408962896932, 
+              25.513271402331064
+            ], 
+            [
+              -80.45982287187849, 
+              25.513421620602323
+            ], 
+            [
+              -80.45979548708141, 
+              25.51127003223092
+            ], 
+            [
+              -80.4740619898016, 
+              25.51111981251186
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3679897.69737, 
+        "ANGLE": 0.89438771, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 10975.1519368, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(EPMORE DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20196875, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3926728400517, 
+              25.514574234463677
+            ], 
+            [
+              -80.39266198781112, 
+              25.516725924848043
+            ], 
+            [
+              -80.37961296293629, 
+              25.51667114987657
+            ], 
+            [
+              -80.37962404777404, 
+              25.514519464752205
+            ], 
+            [
+              -80.3926728400517, 
+              25.514574234463677
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3365560.88937, 
+        "ANGLE": -0.00059901, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 10171.24865, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(MOODY DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20225, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.4598019072098, 
+              25.533427946478877
+            ], 
+            [
+              -80.45982344770474, 
+              25.535579582988657
+            ], 
+            [
+              -80.43784822998501, 
+              25.53575900526337
+            ], 
+            [
+              -80.43782708479773, 
+              25.533607372114677
+            ], 
+            [
+              -80.4598019072098, 
+              25.533427946478877
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 5666992.79052, 
+        "ANGLE": 0.75320131, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 16057.0100995, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(COCONUT PALM DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20193359, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.45905003508324, 
+              25.517898499697214
+            ], 
+            [
+              -80.46142131885959, 
+              25.517907232377322
+            ], 
+            [
+              -80.46134869668535, 
+              25.534172960010896
+            ], 
+            [
+              -80.45897709320201, 
+              25.53416422097894
+            ], 
+            [
+              -80.45905003508324, 
+              25.517898499697214
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4623192.39861, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 13387.5630205, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(TENNESSEE RD)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20193359, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.47781507849561, 
+              25.501432219756285
+            ], 
+            [
+              -80.48018604609365, 
+              25.501440643797366
+            ], 
+            [
+              -80.48015439050673, 
+              25.508793931819824
+            ], 
+            [
+              -80.47778327853763, 
+              25.508785505007637
+            ], 
+            [
+              -80.47781507849561, 
+              25.501432219756285
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 2090005.78419, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 6909.11437443, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "177 AVE", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20200391, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.47536400223008, 
+              25.500652282009575
+            ], 
+            [
+              -80.47773495669354, 
+              25.50066074545159
+            ], 
+            [
+              -80.47768094926208, 
+              25.513146001486643
+            ], 
+            [
+              -80.47530974964558, 
+              25.513137533317217
+            ], 
+            [
+              -80.47536400223008, 
+              25.500652282009575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3548658.50755, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 10639.5074659, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(KROME AVE)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20200391, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.44272030635727, 
+              25.537541414853326
+            ], 
+            [
+              -80.44509196979881, 
+              25.537550418152744
+            ], 
+            [
+              -80.44503155113846, 
+              25.5506740920827
+            ], 
+            [
+              -80.44265962950153, 
+              25.550665083502693
+            ], 
+            [
+              -80.44272030635727, 
+              25.537541414853326
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3730148.83137, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 11103.6661863, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(NEWTON RD)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20189844, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.4338586521569, 
+              25.5475512347159
+            ], 
+            [
+              -80.4339049850752, 
+              25.549702535416813
+            ], 
+            [
+              -80.4152296520418, 
+              25.55003233975996
+            ], 
+            [
+              -80.41518365573862, 
+              25.54788103904211
+            ], 
+            [
+              -80.4338586521569, 
+              25.5475512347159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4816176.56432, 
+        "ANGLE": 1.36343882, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 13881.1176496, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(SILVER PALM DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20186328, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.41018691459031, 
+              25.56253543453227
+            ], 
+            [
+              -80.41017636437877, 
+              25.564687114966333
+            ], 
+            [
+              -80.39149649621281, 
+              25.564610553166656
+            ], 
+            [
+              -80.39150738321537, 
+              25.562458880093324
+            ], 
+            [
+              -80.41018691459031, 
+              25.56253543453227
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4815913.43706, 
+        "ANGLE": -0.00033434, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 13880.4336772, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(HAINLIN MILL RD)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20179297, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3442714562207, 
+              25.595665590243577
+            ], 
+            [
+              -80.34425971098275, 
+              25.597817236719468
+            ], 
+            [
+              -80.33057045075856, 
+              25.5977551504989
+            ], 
+            [
+              -80.33058244088691, 
+              25.5956035099775
+            ], 
+            [
+              -80.3442714562207, 
+              25.595665590243577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3528346.09307, 
+        "ANGLE": -0.00029339, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 10587.559946, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(EUREKA DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20232031, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.36072170646608, 
+                25.566497888421377
+              ], 
+              [
+                -80.35748955169166, 
+                25.567424729694828
+              ], 
+              [
+                -80.35687959706034, 
+                25.56567469243103
+              ], 
+              [
+                -80.3568647668222, 
+                25.565630708751065
+              ], 
+              [
+                -80.3563861121046, 
+                25.564163121446683
+              ], 
+              [
+                -80.35632310486217, 
+                25.563928629164344
+              ], 
+              [
+                -80.35593976857412, 
+                25.562126457993337
+              ], 
+              [
+                -80.355902669064, 
+                25.56189296416166
+              ], 
+              [
+                -80.35569519311977, 
+                25.559933785187617
+              ], 
+              [
+                -80.35569864442404, 
+                25.55995228008873
+              ], 
+              [
+                -80.35569323870905, 
+                25.559915333501458
+              ], 
+              [
+                -80.35569519311977, 
+                25.559933785187617
+              ], 
+              [
+                -80.35550705723648, 
+                25.55892569580757
+              ], 
+              [
+                -80.35649543284617, 
+                25.559335709876734
+              ], 
+              [
+                -80.3555239509179, 
+                25.558544869436275
+              ], 
+              [
+                -80.35536091552682, 
+                25.558142618625897
+              ], 
+              [
+                -80.35542022647768, 
+                25.55846043278189
+              ], 
+              [
+                -80.35527777107573, 
+                25.558344464357827
+              ], 
+              [
+                -80.3554465833475, 
+                25.558601655630117
+              ], 
+              [
+                -80.35550705723648, 
+                25.55892569580757
+              ], 
+              [
+                -80.35455386990863, 
+                25.55853027257874
+              ], 
+              [
+                -80.35460786093212, 
+                25.558542070638367
+              ], 
+              [
+                -80.35450361735481, 
+                25.5585094244005
+              ], 
+              [
+                -80.35455386990863, 
+                25.55853027257874
+              ], 
+              [
+                -80.3524785699401, 
+                25.558076735951794
+              ], 
+              [
+                -80.35202686080018, 
+                25.55793950784075
+              ], 
+              [
+                -80.35017119087313, 
+                25.557207872471174
+              ], 
+              [
+                -80.34908571326034, 
+                25.556437795192753
+              ], 
+              [
+                -80.3478556384018, 
+                25.554980513553684
+              ], 
+              [
+                -80.3474331890575, 
+                25.554260027428665
+              ], 
+              [
+                -80.34680738612857, 
+                25.55257128697184
+              ], 
+              [
+                -80.34682854615842, 
+                25.552621185575635
+              ], 
+              [
+                -80.34678848694195, 
+                25.552520288372218
+              ], 
+              [
+                -80.34680738612857, 
+                25.55257128697184
+              ], 
+              [
+                -80.34664421212553, 
+                25.552186511218032
+              ], 
+              [
+                -80.3468317363181, 
+                25.55243203283503
+              ], 
+              [
+                -80.34652589789823, 
+                25.551907514107977
+              ], 
+              [
+                -80.34664421212553, 
+                25.552186511218032
+              ], 
+              [
+                -80.34574049161046, 
+                25.55100326824995
+              ], 
+              [
+                -80.34601397719733, 
+                25.551021870849837
+              ], 
+              [
+                -80.3455844584278, 
+                25.55079897017637
+              ], 
+              [
+                -80.34574049161046, 
+                25.55100326824995
+              ], 
+              [
+                -80.34399637749254, 
+                25.550884620607047
+              ], 
+              [
+                -80.34372455933378, 
+                25.550853672802628
+              ], 
+              [
+                -80.3415678442561, 
+                25.550508226085512
+              ], 
+              [
+                -80.341567580499, 
+                25.550508182637653
+              ], 
+              [
+                -80.33957541334705, 
+                25.550189060032768
+              ], 
+              [
+                -80.33957515268173, 
+                25.550189019412763
+              ], 
+              [
+                -80.33791402893824, 
+                25.54992290671808
+              ], 
+              [
+                -80.33850346093976, 
+                25.546895082898864
+              ], 
+              [
+                -80.34016454455526, 
+                25.547161191030963
+              ], 
+              [
+                -80.34016480522972, 
+                25.547161228832444
+              ], 
+              [
+                -80.34215692427304, 
+                25.547480342589807
+              ], 
+              [
+                -80.34215718802379, 
+                25.547480386036472
+              ], 
+              [
+                -80.34428218754454, 
+                25.54782075085165
+              ], 
+              [
+                -80.34424985312647, 
+                25.547818552138708
+              ], 
+              [
+                -80.34431385101662, 
+                25.547825823179213
+              ], 
+              [
+                -80.34428218754454, 
+                25.54782075085165
+              ], 
+              [
+                -80.3462674019512, 
+                25.54795579794205
+              ], 
+              [
+                -80.3483704407043, 
+                25.54904789286263
+              ], 
+              [
+                -80.34961774244763, 
+                25.550680935392858
+              ], 
+              [
+                -80.34968927262963, 
+                25.550803533663547
+              ], 
+              [
+                -80.34999193716489, 
+                25.5515171990117
+              ], 
+              [
+                -80.35000121881899, 
+                25.551540549058952
+              ], 
+              [
+                -80.35061192031515, 
+                25.553188415723152
+              ], 
+              [
+                -80.3505468049334, 
+                25.553111275076393
+              ], 
+              [
+                -80.35064596275552, 
+                25.553280275004433
+              ], 
+              [
+                -80.35061192031515, 
+                25.553188415723152
+              ], 
+              [
+                -80.35167551403072, 
+                25.554448434000328
+              ], 
+              [
+                -80.35152233504954, 
+                25.554388039599505
+              ], 
+              [
+                -80.35177689433236, 
+                25.554568534737125
+              ], 
+              [
+                -80.35167551403072, 
+                25.554448434000328
+              ], 
+              [
+                -80.35332664168202, 
+                25.55509942114003
+              ], 
+              [
+                -80.35327248791586, 
+                25.555087585281548
+              ], 
+              [
+                -80.35337797055578, 
+                25.55511965743735
+              ], 
+              [
+                -80.35332664168202, 
+                25.55509942114003
+              ], 
+              [
+                -80.35540172968312, 
+                25.55555290764456
+              ], 
+              [
+                -80.35591334838138, 
+                25.55571328073894
+              ], 
+              [
+                -80.35790512819385, 
+                25.556539549459128
+              ], 
+              [
+                -80.35819018930285, 
+                25.556771490236553
+              ], 
+              [
+                -80.35862145169916, 
+                25.557428501758846
+              ], 
+              [
+                -80.35870294294094, 
+                25.55762938868244
+              ], 
+              [
+                -80.35904071786577, 
+                25.559439043488194
+              ], 
+              [
+                -80.35906733608131, 
+                25.55962129754598
+              ], 
+              [
+                -80.35927390855191, 
+                25.56157138237127
+              ], 
+              [
+                -80.35926806906448, 
+                25.561543940115744
+              ], 
+              [
+                -80.3592768246603, 
+                25.56159892452951
+              ], 
+              [
+                -80.35927390855191, 
+                25.56157138237127
+              ], 
+              [
+                -80.35964553840317, 
+                25.563318286346444
+              ], 
+              [
+                -80.35963659558452, 
+                25.563290867160635
+              ], 
+              [
+                -80.35965145681936, 
+                25.56334610365019
+              ], 
+              [
+                -80.35964553840317, 
+                25.563318286346444
+              ], 
+              [
+                -80.36011356002828, 
+                25.564753160055805
+              ], 
+              [
+                -80.3601117120459, 
+                25.564747860790348
+              ], 
+              [
+                -80.3601152838259, 
+                25.564758447508513
+              ], 
+              [
+                -80.36011356002828, 
+                25.564753160055805
+              ], 
+              [
+                -80.36072170646608, 
+                25.566497888421377
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.3557090196944, 
+                25.559001486925244
+              ], 
+              [
+                -80.3554465833475, 
+                25.558601655630117
+              ], 
+              [
+                -80.35542022647768, 
+                25.55846043278189
+              ], 
+              [
+                -80.3555239509179, 
+                25.558544869436275
+              ], 
+              [
+                -80.3557090196944, 
+                25.559001486925244
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 12255931.1655, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 27580.6649027, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "BLACK CREEK CANAL", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00326953, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.49000509527434, 
+              25.430448331314356
+            ], 
+            [
+              -80.49339013233134, 
+              25.43047266152953
+            ], 
+            [
+              -80.49307504613238, 
+              25.466657543454925
+            ], 
+            [
+              -80.48968900051966, 
+              25.466633193356614
+            ], 
+            [
+              -80.49000509527434, 
+              25.430448331314356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 14692689.2396, 
+        "ANGLE": 89.7647962, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 28537.2547497, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 187 AVE (REDLAND RD)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00295313, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.4581607679079, 
+              25.497029059073174
+            ], 
+            [
+              -80.45815111559914, 
+              25.49918077666689
+            ], 
+            [
+              -80.44250807114996, 
+              25.499122141974304
+            ], 
+            [
+              -80.44251800208382, 
+              25.496970430024568
+            ], 
+            [
+              -80.4581607679079, 
+              25.497029059073174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4035136.55418, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 11883.6510831, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(BISCAYNE DR)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20193359, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.45722786265007, 
+              25.499535302234463
+            ], 
+            [
+              -80.45721819263562, 
+              25.50168701875971
+            ], 
+            [
+              -80.44636751966075, 
+              25.50164645267559
+            ], 
+            [
+              -80.44637738296325, 
+              25.499494740054818
+            ], 
+            [
+              -80.45722786265007, 
+              25.499535302234463
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 2798881.29794, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 8722.01421612, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 288 ST", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20193359, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.42602664755093, 
+              25.55319366472206
+            ], 
+            [
+              -80.42839816062302, 
+              25.553236579760217
+            ], 
+            [
+              -80.42810180123979, 
+              25.566716870777565
+            ], 
+            [
+              -80.42573001993719, 
+              25.566673946438186
+            ], 
+            [
+              -80.42602664755093, 
+              25.55319366472206
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3832255.09921, 
+        "ANGLE": 89.10425082, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 11364.7977354, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(NARANJA RD)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20182813, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.40916738052465, 
+              25.480725532268682
+            ], 
+            [
+              -80.41153791101956, 
+              25.480735075937023
+            ], 
+            [
+              -80.41144930333627, 
+              25.498893823896168
+            ], 
+            [
+              -80.40907841353393, 
+              25.498884269650993
+            ], 
+            [
+              -80.40916738052465, 
+              25.480725532268682
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 5161259.0925, 
+        "ANGLE": 89.99951431, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 14763.6387983, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "(TALLAHASSEE RD)", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20179297, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.41261684611737, 
+              25.48222244229496
+            ], 
+            [
+              -80.41498529995638, 
+              25.482131196435375
+            ], 
+            [
+              -80.41549893384531, 
+              25.49311221684036
+            ], 
+            [
+              -80.41313026789068, 
+              25.493203469889284
+            ], 
+            [
+              -80.41261684611737, 
+              25.48222244229496
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3123912.96011, 
+        "ANGLE": 92.68264472, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 9553.26470374, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 137 AVE", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20179297, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.46265588941293, 
+              25.525060775095287
+            ], 
+            [
+              -80.46502731535111, 
+              25.525069451700904
+            ], 
+            [
+              -80.46500040063856, 
+              25.531138069271204
+            ], 
+            [
+              -80.46262885540685, 
+              25.531129390311655
+            ], 
+            [
+              -80.46265588941293, 
+              25.525060775095287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1724876.89641, 
+        "ANGLE": 90.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 5975.32262956, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "167 AV", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20193359, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.39675002927915, 
+              25.567896385704646
+            ], 
+            [
+              -80.39912188377879, 
+              25.567856121053524
+            ], 
+            [
+              -80.39932222437768, 
+              25.577560569862705
+            ], 
+            [
+              -80.39695017859731, 
+              25.57760083143704
+            ], 
+            [
+              -80.39675002927915, 
+              25.567896385704646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 2758793.58868, 
+        "ANGLE": 91.33201613, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 8619.48275701, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "SW 127 AV", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 403.20225, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.34967665701325, 
+              25.281735807907673
+            ], 
+            [
+              -80.34831071526129, 
+              25.284548641008296
+            ], 
+            [
+              -80.34631163512022, 
+              25.283746150060974
+            ], 
+            [
+              -80.34624286085733, 
+              25.283717511960088
+            ], 
+            [
+              -80.34441920272002, 
+              25.282930218491654
+            ], 
+            [
+              -80.34439655906284, 
+              25.282920321225177
+            ], 
+            [
+              -80.34243370173093, 
+              25.282052543764294
+            ], 
+            [
+              -80.34243637302035, 
+              25.282053693962876
+            ], 
+            [
+              -80.3424313397668, 
+              25.282051499193866
+            ], 
+            [
+              -80.34243370173093, 
+              25.282052543764294
+            ], 
+            [
+              -80.34049580429873, 
+              25.2812178654207
+            ], 
+            [
+              -80.34053071872985, 
+              25.281231835959836
+            ], 
+            [
+              -80.34046154180102, 
+              25.281203108870997
+            ], 
+            [
+              -80.34049580429873, 
+              25.2812178654207
+            ], 
+            [
+              -80.33979142560153, 
+              25.28093603638534
+            ], 
+            [
+              -80.33982206143541, 
+              25.28094750004207
+            ], 
+            [
+              -80.33976091465452, 
+              25.280923829445637
+            ], 
+            [
+              -80.33979142560153, 
+              25.28093603638534
+            ], 
+            [
+              -80.33797363547176, 
+              25.28025587605067
+            ], 
+            [
+              -80.33799232875046, 
+              25.280261454156268
+            ], 
+            [
+              -80.33795520965255, 
+              25.28024898052554
+            ], 
+            [
+              -80.33797363547176, 
+              25.28025587605067
+            ], 
+            [
+              -80.335785779739, 
+              25.27960288287419
+            ], 
+            [
+              -80.33581657222383, 
+              25.279608777747253
+            ], 
+            [
+              -80.33575560847746, 
+              25.279593877390017
+            ], 
+            [
+              -80.335785779739, 
+              25.27960288287419
+            ], 
+            [
+              -80.33370568611906, 
+              25.27920464561362
+            ], 
+            [
+              -80.33373378689622, 
+              25.279207443539597
+            ], 
+            [
+              -80.33367828666486, 
+              25.27919939957457
+            ], 
+            [
+              -80.33370568611906, 
+              25.27920464561362
+            ], 
+            [
+              -80.33158399339759, 
+              25.278993355428298
+            ], 
+            [
+              -80.33160678837211, 
+              25.278993971476023
+            ], 
+            [
+              -80.3315616070133, 
+              25.278991126768137
+            ], 
+            [
+              -80.33158399339759, 
+              25.278993355428298
+            ], 
+            [
+              -80.32945620724378, 
+              25.27893591894401
+            ], 
+            [
+              -80.32948953777856, 
+              25.27893607039776
+            ], 
+            [
+              -80.32942258337665, 
+              25.278935011044865
+            ], 
+            [
+              -80.32945620724378, 
+              25.27893591894401
+            ], 
+            [
+              -80.3287127839284, 
+              25.278932538876354
+            ], 
+            [
+              -80.32874508822059, 
+              25.27893165742205
+            ], 
+            [
+              -80.32864851823226, 
+              25.2789322465084
+            ], 
+            [
+              -80.3287127839284, 
+              25.278932538876354
+            ], 
+            [
+              -80.3265663098052, 
+              25.27899109279171
+            ], 
+            [
+              -80.32657191394804, 
+              25.278990839429348
+            ], 
+            [
+              -80.32656090767442, 
+              25.27899124000873
+            ], 
+            [
+              -80.3265663098052, 
+              25.27899109279171
+            ], 
+            [
+              -80.3242223974845, 
+              25.279096987353174
+            ], 
+            [
+              -80.32422068648636, 
+              25.279097064044077
+            ], 
+            [
+              -80.3222064230121, 
+              25.27919274296611
+            ], 
+            [
+              -80.32216312838183, 
+              25.279194482571896
+            ], 
+            [
+              -80.319979396087, 
+              25.279266519029072
+            ], 
+            [
+              -80.31985681193898, 
+              25.276193759688436
+            ], 
+            [
+              -80.32203533807441, 
+              25.276121894623262
+            ], 
+            [
+              -80.32203002225401, 
+              25.27612214632239
+            ], 
+            [
+              -80.32204048920919, 
+              25.276121723876425
+            ], 
+            [
+              -80.32203533807441, 
+              25.276121894623262
+            ], 
+            [
+              -80.32404594909868, 
+              25.276026392047918
+            ], 
+            [
+              -80.32405288907259, 
+              25.276026068823658
+            ], 
+            [
+              -80.3264040604554, 
+              25.27591984563623
+            ], 
+            [
+              -80.3264595149913, 
+              25.275917839062828
+            ], 
+            [
+              -80.32864364359867, 
+              25.275858254019866
+            ], 
+            [
+              -80.32866543840105, 
+              25.275857499447863
+            ], 
+            [
+              -80.32950643675488, 
+              25.275861322807913
+            ], 
+            [
+              -80.3295229673516, 
+              25.275861581052734
+            ], 
+            [
+              -80.33170711744, 
+              25.27592053889829
+            ], 
+            [
+              -80.33192981832974, 
+              25.275934620689675
+            ], 
+            [
+              -80.33410194470771, 
+              25.276150931034195
+            ], 
+            [
+              -80.33437510700524, 
+              25.276190594857454
+            ], 
+            [
+              -80.33651334265826, 
+              25.276599962074805
+            ], 
+            [
+              -80.3368103533494, 
+              25.27667246867222
+            ], 
+            [
+              -80.33904702661006, 
+              25.27734002874564
+            ], 
+            [
+              -80.33924220450571, 
+              25.27740556015943
+            ], 
+            [
+              -80.34110902093596, 
+              25.278104062931188
+            ], 
+            [
+              -80.34112306037012, 
+              25.278109493068975
+            ], 
+            [
+              -80.34189285046986, 
+              25.278417492304943
+            ], 
+            [
+              -80.34190935205903, 
+              25.278424350582185
+            ], 
+            [
+              -80.34388415242566, 
+              25.27927491592735
+            ], 
+            [
+              -80.343910208599, 
+              25.279286287935253
+            ], 
+            [
+              -80.34587270205223, 
+              25.28015390305111
+            ], 
+            [
+              -80.34586979581827, 
+              25.280152647623307
+            ], 
+            [
+              -80.3458753948147, 
+              25.280155092728638
+            ], 
+            [
+              -80.34587270205223, 
+              25.28015390305111
+            ], 
+            [
+              -80.34768543967655, 
+              25.280936475456322
+            ], 
+            [
+              -80.3476776161968, 
+              25.28093333591729
+            ], 
+            [
+              -80.34769342265449, 
+              25.280939922814223
+            ], 
+            [
+              -80.34768543967655, 
+              25.280936475456322
+            ], 
+            [
+              -80.34967665701325, 
+              25.281735807907673
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11191739.0334, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 22636.0296786, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 1, 
+        "TEXTSTRING": "CARD SOUND ROAD", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 64, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 1, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 576.00326953, 
+        "ID": 0, 
+        "ANNOTATION": 1, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.29502037498817, 
+              25.402300712420924
+            ], 
+            [
+              -80.29498464253524, 
+              25.40844836849775
+            ], 
+            [
+              -80.24481978265291, 
+              25.40819924948014
+            ], 
+            [
+              -80.24485805705349, 
+              25.4020516620902
+            ], 
+            [
+              -80.29502037498817, 
+              25.402300712420924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 37000717.3122, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 37588.113443, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 2, 
+        "TEXTSTRING": "NUCLEAR PLANT", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 0, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 0, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 1152.00682031, 
+        "ID": 0, 
+        "ANNOTATION": 0, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.32745362709124, 
+              25.431361834831296
+            ], 
+            [
+              -80.32745362002568, 
+              25.431361989761314
+            ], 
+            [
+              -80.32745360365209, 
+              25.43136214464871
+            ], 
+            [
+              -80.32745357486783, 
+              25.43136229947931
+            ], 
+            [
+              -80.32745353368851, 
+              25.431362451435653
+            ], 
+            [
+              -80.32745348321684, 
+              25.431362600531987
+            ], 
+            [
+              -80.32745342035011, 
+              25.431362746754058
+            ], 
+            [
+              -80.32745335129367, 
+              25.431362890130323
+            ], 
+            [
+              -80.32745326677079, 
+              25.43136302498329
+            ], 
+            [
+              -80.32745317604257, 
+              25.431363159807834
+            ], 
+            [
+              -80.32745307605326, 
+              25.431363286137515
+            ], 
+            [
+              -80.3274529667872, 
+              25.431363406789732
+            ], 
+            [
+              -80.32745284826008, 
+              25.431363518947084
+            ], 
+            [
+              -80.32745272045621, 
+              25.43136362542695
+            ], 
+            [
+              -80.3274525864939, 
+              25.431363723426134
+            ], 
+            [
+              -80.32745244637319, 
+              25.431363812944657
+            ], 
+            [
+              -80.3274523000784, 
+              25.431363896799894
+            ], 
+            [
+              -80.32745214764086, 
+              25.431363969357047
+            ], 
+            [
+              -80.32745199214753, 
+              25.431364033447714
+            ], 
+            [
+              -80.32745183051144, 
+              25.43136408624027
+            ], 
+            [
+              -80.32745166581958, 
+              25.431364130566337
+            ], 
+            [
+              -80.327451498072, 
+              25.43136416642595
+            ], 
+            [
+              -80.32745132728428, 
+              25.431364191001627
+            ], 
+            [
+              -80.32745115655915, 
+              25.431364204307624
+            ], 
+            [
+              -80.32745098277825, 
+              25.431364209147134
+            ], 
+            [
+              -80.32745081216258, 
+              25.431364202731142
+            ], 
+            [
+              -80.32745064159384, 
+              25.431364187862865
+            ], 
+            [
+              -80.32745047108767, 
+              25.431364161724908
+            ], 
+            [
+              -80.32745030374673, 
+              25.431364124331427
+            ], 
+            [
+              -80.32745019839666, 
+              25.43136409849172
+            ], 
+            [
+              -80.32579136485685, 
+              25.430884767928582
+            ], 
+            [
+              -80.32399357537625, 
+              25.430444066719026
+            ], 
+            [
+              -80.32203777797702, 
+              25.430037221997
+            ], 
+            [
+              -80.31988474788487, 
+              25.429656027307715
+            ], 
+            [
+              -80.31583504678116, 
+              25.429065999119945
+            ], 
+            [
+              -80.3064096357608, 
+              25.427882252832575
+            ], 
+            [
+              -80.30640955205594, 
+              25.427882241167502
+            ], 
+            [
+              -80.30215138997099, 
+              25.42721996267715
+            ], 
+            [
+              -80.30215130628328, 
+              25.427219948192253
+            ], 
+            [
+              -80.30215125360485, 
+              25.42721993667211
+            ], 
+            [
+              -80.29873799386235, 
+              25.426519792314004
+            ], 
+            [
+              -80.29873787921552, 
+              25.426519766409466
+            ], 
+            [
+              -80.29873781726276, 
+              25.426519749208897
+            ], 
+            [
+              -80.2957869420729, 
+              25.425715844658043
+            ], 
+            [
+              -80.29578683987029, 
+              25.42571581317591
+            ], 
+            [
+              -80.29578667885104, 
+              25.425715758871995
+            ], 
+            [
+              -80.29578652099978, 
+              25.425715693313315
+            ], 
+            [
+              -80.29578637250516, 
+              25.425715619347006
+            ], 
+            [
+              -80.29578622407604, 
+              25.425715534111053
+            ], 
+            [
+              -80.29578608498718, 
+              25.42571544328491
+            ], 
+            [
+              -80.29578595215244, 
+              25.42571534403627
+            ], 
+            [
+              -80.29578582867435, 
+              25.42571523637999
+            ], 
+            [
+              -80.29578571145039, 
+              25.42571512030123
+            ], 
+            [
+              -80.2957856035667, 
+              25.42571499863226
+            ], 
+            [
+              -80.29578550502325, 
+              25.425714871373067
+            ], 
+            [
+              -80.29578541271759, 
+              25.42571473850879
+            ], 
+            [
+              -80.29578533285469, 
+              25.425714600069192
+            ], 
+            [
+              -80.29578526231568, 
+              25.425714458856763
+            ], 
+            [
+              -80.29578520421943, 
+              25.425714312068983
+            ], 
+            [
+              -80.29578515544708, 
+              25.42571416250843
+            ], 
+            [
+              -80.29578511599861, 
+              25.425714010175046
+            ], 
+            [
+              -80.29578508897656, 
+              25.42571385508374
+            ], 
+            [
+              -80.29578507126202, 
+              25.425713700037047
+            ], 
+            [
+              -80.29578506907639, 
+              25.425713542247255
+            ], 
+            [
+              -80.26295849229207, 
+              25.42555256090365
+            ], 
+            [
+              -80.26301456417237, 
+              25.416331160042933
+            ], 
+            [
+              -80.29584127174802, 
+              25.416492087430832
+            ], 
+            [
+              -80.2957877107668, 
+              25.425711168495063
+            ], 
+            [
+              -80.29578788449079, 
+              25.425711172145085
+            ], 
+            [
+              -80.2957880550304, 
+              25.42571118986729
+            ], 
+            [
+              -80.2957882255209, 
+              25.425711216041716
+            ], 
+            [
+              -80.29578839284338, 
+              25.425711253470908
+            ], 
+            [
+              -80.29578845481164, 
+              25.425711267855316
+            ], 
+            [
+              -80.29873923385371, 
+              25.426515149375824
+            ], 
+            [
+              -80.3021523571241, 
+              25.42721526488052
+            ], 
+            [
+              -80.30641040123365, 
+              25.427877528696325
+            ], 
+            [
+              -80.31583581501489, 
+              25.42906127212488
+            ], 
+            [
+              -80.31583587081406, 
+              25.429061280837182
+            ], 
+            [
+              -80.31988563377024, 
+              25.429651317738912
+            ], 
+            [
+              -80.31988572056461, 
+              25.42965133222815
+            ], 
+            [
+              -80.32203881256672, 
+              25.43003253845779
+            ], 
+            [
+              -80.32203883426938, 
+              25.430032541375425
+            ], 
+            [
+              -80.32203889624324, 
+              25.43003255574887
+            ], 
+            [
+              -80.32399479895156, 
+              25.430439420662125
+            ], 
+            [
+              -80.32399489811047, 
+              25.430439443658305
+            ], 
+            [
+              -80.3257927897904, 
+              25.43088016785989
+            ], 
+            [
+              -80.32579279908268, 
+              25.430880170720023
+            ], 
+            [
+              -80.32579290131362, 
+              25.43088019936411
+            ], 
+            [
+              -80.32745179365475, 
+              25.431359547083435
+            ], 
+            [
+              -80.32745185561433, 
+              25.431359564272046
+            ], 
+            [
+              -80.32745201665608, 
+              25.43135961854166
+            ], 
+            [
+              -80.32745217142994, 
+              25.43135968405258
+            ], 
+            [
+              -80.32745232305417, 
+              25.431359758001555
+            ], 
+            [
+              -80.32745246841054, 
+              25.43135984319185
+            ], 
+            [
+              -80.32745260753025, 
+              25.431359933988595
+            ], 
+            [
+              -80.32745274039772, 
+              25.431360033209195
+            ], 
+            [
+              -80.32745286701294, 
+              25.431360140853663
+            ], 
+            [
+              -80.3274529842732, 
+              25.431360256907816
+            ], 
+            [
+              -80.32745309219415, 
+              25.431360378554206
+            ], 
+            [
+              -80.32745319077583, 
+              25.431360505792846
+            ], 
+            [
+              -80.32745328312087, 
+              25.43136063863793
+            ], 
+            [
+              -80.32745336302396, 
+              25.43136077706106
+            ], 
+            [
+              -80.3274534336034, 
+              25.431360918258985
+            ], 
+            [
+              -80.32745349174085, 
+              25.431361065034977
+            ], 
+            [
+              -80.32745354055464, 
+              25.431361214585785
+            ], 
+            [
+              -80.3274535800448, 
+              25.4313613669114
+            ], 
+            [
+              -80.32745360710862, 
+              25.431361521997623
+            ], 
+            [
+              -80.32745362176176, 
+              25.431361677027056
+            ], 
+            [
+              -80.32745362709124, 
+              25.431361834831296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 36334629.4389, 
+        "ANGLE": 0.0, 
+        "VERTICALAL": 2, 
+        "SYMBOL": 1, 
+        "CHARACTERW": 100.0, 
+        "SHAPE_LEN": 49710.6707728, 
+        "CHARACTERS": 0.0, 
+        "HORIZONTAL": 0, 
+        "LEVEL_": 2, 
+        "TEXTSTRING": "ZONE 1", 
+        "FONTLEADIN": 0.0, 
+        "YOFFSET": 0.0, 
+        "OVERRIDE": 65600, 
+        "UNDERLINE": 0, 
+        "XOFFSET": 0.0, 
+        "STATUS": 0, 
+        "BOLD": 0, 
+        "FEATUREID": 0, 
+        "SYMBOLID": 0, 
+        "WORDSPACIN": 100.0, 
+        "FONTSIZE": 1728.01026563, 
+        "ID": 0, 
+        "ANNOTATION": 0, 
+        "FONTNAME": "Arial", 
+        "FLIPANGLE": 180.0, 
+        "ZORDER": 0, 
+        "ITALIC": 0
+      }
+    }
+  ]
+}

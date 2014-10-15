@@ -1,0 +1,1685 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40117522102115, 
+          25.761798920005447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3049020380010", 
+        "NAME": "TAMIAMI", 
+        "LON": -80.40118, 
+        "ZIPCODE": 33184, 
+        "LAT": 25.7618, 
+        "POINT_X": 853247.99954334, 
+        "POINT_Y": 519564.09444384, 
+        "ADDRESS": "12700 SW 6TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 58
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33279363942857, 
+          25.901807559022576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220220010530", 
+        "NAME": "MIAMI LAKES WEST", 
+        "LON": -80.33279, 
+        "ZIPCODE": 33016, 
+        "LAT": 25.90181, 
+        "POINT_X": 875495.68765942, 
+        "POINT_Y": 570560.06233359, 
+        "ADDRESS": "8205 COMMERCE WY", 
+        "MUNICID": "32", 
+        "TYPE": "S", 
+        "ID": 64
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27675877765407, 
+          25.90911900078485
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "OPA-LOCKA", 
+        "FOLIO": "3021190010010", 
+        "NAME": "OPA LOCKA AIRPORT", 
+        "LON": -80.27676, 
+        "ZIPCODE": 33054, 
+        "LAT": 25.90912, 
+        "POINT_X": 893901.81226442, 
+        "POINT_Y": 573315.18740076, 
+        "ADDRESS": "4600 NW 148TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "A", 
+        "ID": 25
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47682848635102, 
+          25.536098777617507
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069190020010", 
+        "NAME": "REDLAND", 
+        "LON": -80.47683, 
+        "ZIPCODE": 33031, 
+        "LAT": 25.5361, 
+        "POINT_X": 828673.2501365, 
+        "POINT_Y": 437427.96901826, 
+        "ADDRESS": "17605 SW 248TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "S", 
+        "ID": 60
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2886974194745, 
+          25.806472935773762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "FOLIO": "3031300000010", 
+        "NAME": "MIA NORTH", 
+        "LON": -80.2887, 
+        "ZIPCODE": 33166, 
+        "LAT": 25.80647, 
+        "POINT_X": 890179.37482742, 
+        "POINT_Y": 535985.37492143, 
+        "ADDRESS": "5680 NW 36TH ST", 
+        "MUNICID": "5", 
+        "TYPE": "S", 
+        "ID": 59
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12324829543456, 
+          25.93550725238107
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "FOLIO": "3122110010280", 
+        "NAME": "SUNNY ISLES", 
+        "LON": -80.12325, 
+        "ZIPCODE": 33160, 
+        "LAT": 25.93551, 
+        "POINT_X": 944300.00018175, 
+        "POINT_Y": 583214.62495092, 
+        "ADDRESS": "175 172ND ST", 
+        "MUNICID": "31", 
+        "TYPE": "B", 
+        "ID": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17691765801756, 
+          25.777384424036324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0142050000010", 
+        "NAME": "FIREBOAT1", 
+        "LON": -80.17692, 
+        "ZIPCODE": 33132, 
+        "LAT": 25.77738, 
+        "POINT_X": 927021.56262584, 
+        "POINT_Y": 525626.99964085, 
+        "ADDRESS": "975 N AMERICA WY", 
+        "MUNICID": "1", 
+        "TYPE": "B", 
+        "ID": 73
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44044264318468, 
+          25.757573411723993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3049040022960", 
+        "NAME": "TRAIL", 
+        "LON": -80.44044, 
+        "ZIPCODE": 33194, 
+        "LAT": 25.75757, 
+        "POINT_X": 840330.81212317, 
+        "POINT_Y": 517971.53135601, 
+        "ADDRESS": "15155 SW 10TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "S", 
+        "ID": 61
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1683776893877, 
+          25.96480080436633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3012320280010", 
+        "NAME": "HIGHLAND OAKS", 
+        "LON": -80.16838, 
+        "ZIPCODE": 33179, 
+        "LAT": 25.9648, 
+        "POINT_X": 929400.50012517, 
+        "POINT_Y": 593765.43718259, 
+        "ADDRESS": "1655 NE 205TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "S", 
+        "ID": 63
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43122415373533, 
+          25.462196773703365
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079210110010", 
+        "NAME": "VILLAGE OF HOMESTEAD", 
+        "LON": -80.43122, 
+        "ZIPCODE": 33033, 
+        "LAT": 25.4622, 
+        "POINT_X": 843825.5623515, 
+        "POINT_Y": 410630.6558151, 
+        "ADDRESS": "3100 SE 8TH ST", 
+        "MUNICID": "10", 
+        "TYPE": "S", 
+        "ID": 66
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45886825272373, 
+          25.447505195095584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079290010051", 
+        "NAME": "EAST HOMESTEAD", 
+        "LON": -80.45887, 
+        "ZIPCODE": 33035, 
+        "LAT": 25.44751, 
+        "POINT_X": 834726.3128335, 
+        "POINT_Y": 405253.18723934, 
+        "ADDRESS": "1350 SE 24TH ST", 
+        "MUNICID": "10", 
+        "TYPE": "B", 
+        "ID": 65
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13290723801646, 
+          25.885910118236527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAY HARBOR ISLANDS", 
+        "FOLIO": "1322270013570", 
+        "NAME": "BAY HARBOR ISLANDS", 
+        "LON": -80.13287, 
+        "ZIPCODE": 33154, 
+        "LAT": 25.88592, 
+        "POINT_X": 941244.782, 
+        "POINT_Y": 565166.065, 
+        "ADDRESS": "1165 95TH ST", 
+        "MUNICID": "13", 
+        "TYPE": "R", 
+        "ID": 76
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33518076621854, 
+          25.712655620616772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040280000010", 
+        "NAME": "SUPPORT", 
+        "LON": -80.33518, 
+        "ZIPCODE": 33173, 
+        "LAT": 25.71266, 
+        "POINT_X": 875058.24989, 
+        "POINT_Y": 501806.68737342, 
+        "ADDRESS": "6000 SW 87TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "L", 
+        "ID": 88
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13576875977077, 
+          25.93177482328701
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": "0722100022640", 
+        "NAME": "EASTERN SHORES", 
+        "LON": -80.13577, 
+        "ZIPCODE": 33160, 
+        "LAT": 25.93177, 
+        "POINT_X": 940194.0625275, 
+        "POINT_Y": 581830.62476618, 
+        "ADDRESS": "16435 NE 35TH AVE", 
+        "MUNICID": "07", 
+        "TYPE": "R", 
+        "ID": 78
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30890781990647, 
+          25.924104325733428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220130030010", 
+        "NAME": "MIAMI LAKES", 
+        "LON": -80.30891, 
+        "ZIPCODE": 33014, 
+        "LAT": 25.9241, 
+        "POINT_X": 883305.12446834, 
+        "POINT_Y": 578704.87544026, 
+        "ADDRESS": "16699 NW 67TH AVE", 
+        "MUNICID": "32", 
+        "TYPE": "B", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24164816208311, 
+          25.83334304730947
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031160000051", 
+        "NAME": "MODEL CITIES", 
+        "LON": -80.24165, 
+        "ZIPCODE": 33147, 
+        "LAT": 25.83334, 
+        "POINT_X": 905602.43781325, 
+        "POINT_Y": 545838.18756484, 
+        "ADDRESS": "6460 NW 27TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32727766882601, 
+          25.73400391591218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040150000360", 
+        "NAME": "TROPICAL PARK", 
+        "LON": -80.32728, 
+        "ZIPCODE": 33155, 
+        "LAT": 25.734, 
+        "POINT_X": 877620.87501009, 
+        "POINT_Y": 509579.0622486, 
+        "ADDRESS": "3911 SW 82ND AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34240752297288, 
+          25.629320424567883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3050210010040", 
+        "NAME": "CORAL REEF", 
+        "LON": -80.34241, 
+        "ZIPCODE": 33157, 
+        "LAT": 25.62932, 
+        "POINT_X": 872829.37507867, 
+        "POINT_Y": 471506.24961484, 
+        "ADDRESS": "9201 SW 152ND ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40429195144101, 
+          25.54563128276718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069230000290", 
+        "NAME": "GOULDS", 
+        "LON": -80.40429, 
+        "ZIPCODE": 33032, 
+        "LAT": 25.54563, 
+        "POINT_X": 852575.87457525, 
+        "POINT_Y": 440993.18760959, 
+        "ADDRESS": "13150 SW 238TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24529846947142, 
+          25.944912636551475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3421030010700", 
+        "NAME": "CAROL CITY", 
+        "LON": -80.2453, 
+        "ZIPCODE": 33056, 
+        "LAT": 25.94491, 
+        "POINT_X": 904168.49973625, 
+        "POINT_Y": 586383.43751092, 
+        "ADDRESS": "18705 NW 27TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 11
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33519110437433, 
+          25.71287827000463
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040280000010", 
+        "NAME": "EAST KENDALL", 
+        "LON": -80.33519, 
+        "ZIPCODE": 33173, 
+        "LAT": 25.71288, 
+        "POINT_X": 875054.43854192, 
+        "POINT_Y": 501887.59370767, 
+        "ADDRESS": "6000 SW 87TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 13
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12472879771127, 
+          25.90179716247493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3022140080010", 
+        "NAME": "HAULOVER BEACH", 
+        "LON": -80.12473, 
+        "ZIPCODE": 33154, 
+        "LAT": 25.9018, 
+        "POINT_X": 943895.24967892, 
+        "POINT_Y": 570958.49952884, 
+        "ADDRESS": "10500 COLLINS AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 21
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3212331946571, 
+          25.674118604956618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3050030001330", 
+        "NAME": "SUNILAND", 
+        "LON": -80.32123, 
+        "ZIPCODE": 33156, 
+        "LAT": 25.67412, 
+        "POINT_X": 879722.56207967, 
+        "POINT_Y": 487823.53095659, 
+        "ADDRESS": "7825 SW 104TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 23
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25092497027002, 
+          25.882262936814215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3021330010010", 
+        "NAME": "OPA LOCKA", 
+        "LON": -80.25092, 
+        "ZIPCODE": 33167, 
+        "LAT": 25.88226, 
+        "POINT_X": 902449.62489317, 
+        "POINT_Y": 563601.50013526, 
+        "ADDRESS": "3190 NW 119TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 26
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36834533228753, 
+          25.765187404688017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "FOLIO": "2540050010511", 
+        "NAME": "SWEETWATER", 
+        "LON": -80.36835, 
+        "ZIPCODE": 33174, 
+        "LAT": 25.76519, 
+        "POINT_X": 864047.12525475, 
+        "POINT_Y": 520846.09417643, 
+        "ADDRESS": "351 SW 107TH AVE", 
+        "MUNICID": "25", 
+        "TYPE": "B", 
+        "ID": 29
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16258619224149, 
+          25.93284982981401
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": "0722090060120", 
+        "NAME": "NORTH MIAMI BEACH", 
+        "LON": -80.16259, 
+        "ZIPCODE": 33162, 
+        "LAT": 25.93285, 
+        "POINT_X": 931377.68744376, 
+        "POINT_Y": 582164.12475535, 
+        "ADDRESS": "17050 NE 19TH AVE", 
+        "MUNICID": "7", 
+        "TYPE": "B", 
+        "ID": 31
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19333265036947, 
+          25.930560041493756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": null, 
+        "NAME": "ULETA", 
+        "LON": -80.19333, 
+        "ZIPCODE": 33162, 
+        "LAT": 25.93056, 
+        "POINT_X": 921277.7499665, 
+        "POINT_Y": 581268.43789843, 
+        "ADDRESS": "358 NE 168TH ST", 
+        "MUNICID": "7", 
+        "TYPE": "B", 
+        "ID": 32
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3672195514867, 
+          25.57134258232814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3660070000552", 
+        "NAME": "CUTLER RIDGE", 
+        "LON": -80.36722, 
+        "ZIPCODE": 33189, 
+        "LAT": 25.57134, 
+        "POINT_X": 864754.68781601, 
+        "POINT_Y": 450394.40666801, 
+        "ADDRESS": "10850 SW 211TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 34
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28461289628598, 
+          25.82133951601938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "FOLIO": "0530240061390", 
+        "NAME": "MIAMI SPRINGS", 
+        "LON": -80.28461, 
+        "ZIPCODE": 33166, 
+        "LAT": 25.82134, 
+        "POINT_X": 891493.81314342, 
+        "POINT_Y": 541396.12459859, 
+        "ADDRESS": "201 WESTWARD DR", 
+        "MUNICID": "5", 
+        "TYPE": "B", 
+        "ID": 35
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42413425226651, 
+          25.72813618995253
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3049220220920", 
+        "NAME": "WEST BIRD", 
+        "LON": -80.42413, 
+        "ZIPCODE": 33175, 
+        "LAT": 25.72814, 
+        "POINT_X": 845745.12511342, 
+        "POINT_Y": 507295.56255051, 
+        "ADDRESS": "4200 SW 142ND AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 37
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21280548613248, 
+          25.957217182849394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3411360000094", 
+        "NAME": "GOLDEN GLADES", 
+        "LON": -80.21281, 
+        "ZIPCODE": 33169, 
+        "LAT": 25.95722, 
+        "POINT_X": 914819.509488635, 
+        "POINT_Y": 590918.6889359431, 
+        "ADDRESS": "575 NW 199TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 38
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29544960560155, 
+          25.762279294595032
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "FOLIO": "1540120000170", 
+        "NAME": "WEST MIAMI", 
+        "LON": -80.29545, 
+        "ZIPCODE": 33144, 
+        "LAT": 25.76228, 
+        "POINT_X": 888043.81282559, 
+        "POINT_Y": 519910.71809442, 
+        "ADDRESS": "975 SW 62ND AVE", 
+        "MUNICID": "15", 
+        "TYPE": "B", 
+        "ID": 40
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44897442993653, 
+          25.499113547472653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3079050030010", 
+        "NAME": "MODELLO", 
+        "LON": -80.44897, 
+        "ZIPCODE": 33033, 
+        "LAT": 25.49911, 
+        "POINT_X": 837913.50035675, 
+        "POINT_Y": 424023.09425326, 
+        "ADDRESS": "15890 SW 288TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44356067020608, 
+          25.67319098051789
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3059040120010", 
+        "NAME": "HAMMOCKS", 
+        "LON": -80.44356, 
+        "ZIPCODE": 33196, 
+        "LAT": 25.67319, 
+        "POINT_X": 839433.81260484, 
+        "POINT_Y": 487298.21868701, 
+        "ADDRESS": "10001 HAMMOCKS BLVD", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 36
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1575808080796, 
+          25.849186695367816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH BAY VILLAGE", 
+        "FOLIO": "2332090010070", 
+        "NAME": "NORTH BAY VILLAGE", 
+        "LON": -80.15758, 
+        "ZIPCODE": 33141, 
+        "LAT": 25.84919, 
+        "POINT_X": 933217.99971, 
+        "POINT_Y": 551765.24985768, 
+        "ADDRESS": "7903 EAST DR", 
+        "MUNICID": "23", 
+        "TYPE": "B", 
+        "ID": 27
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14333160789727, 
+          25.960501486450877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "AVENTURA", 
+        "FOLIO": "2822030320020", 
+        "NAME": "AVENTURA", 
+        "LON": -80.14333, 
+        "ZIPCODE": 33180, 
+        "LAT": 25.9605, 
+        "POINT_X": 937640.12505009, 
+        "POINT_Y": 592255.81257717, 
+        "ADDRESS": "2900 NE 199TH ST", 
+        "MUNICID": "28", 
+        "TYPE": "B", 
+        "ID": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41005747241752, 
+          25.626159301925664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3059260030010", 
+        "NAME": "RICHMOND", 
+        "LON": -80.41006, 
+        "ZIPCODE": 33177, 
+        "LAT": 25.62616, 
+        "POINT_X": 850544.75035667, 
+        "POINT_Y": 470252.37482601, 
+        "ADDRESS": "13390 SW 152ND ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 43
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23448743673147, 
+          25.85997220474743
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031030070450", 
+        "NAME": "WEST LITTLE RIVER", 
+        "LON": -80.23449, 
+        "ZIPCODE": 33147, 
+        "LAT": 25.85997, 
+        "POINT_X": 907901.43748034, 
+        "POINT_Y": 555530.68720868, 
+        "ADDRESS": "9350 NW 22ND AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38202664969678, 
+          25.69544576959095
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040310000171", 
+        "NAME": "KENDALL", 
+        "LON": -80.38203, 
+        "ZIPCODE": 33183, 
+        "LAT": 25.69545, 
+        "POINT_X": 859663.12549259, 
+        "POINT_Y": 495476.78107001, 
+        "ADDRESS": "7777 SW 117TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19370516783783, 
+          25.862806010599517
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SHORES", 
+        "FOLIO": "1132060132660", 
+        "NAME": "MIAMI SHORES/EL PORTAL", 
+        "LON": -80.19371, 
+        "ZIPCODE": 33138, 
+        "LAT": 25.86281, 
+        "POINT_X": 921306.68724459, 
+        "POINT_Y": 556640.93761284, 
+        "ADDRESS": "9500 NE 2ND AVE", 
+        "MUNICID": "11", 
+        "TYPE": "B", 
+        "ID": 30
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33862794952604, 
+          25.868054200294498
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH GARDENS", 
+        "FOLIO": "2730030440020", 
+        "NAME": "HIALEAH GARDENS", 
+        "LON": -80.33863, 
+        "ZIPCODE": 33016, 
+        "LAT": 25.86805, 
+        "POINT_X": 873639.56276275, 
+        "POINT_Y": 558282.18793926, 
+        "ADDRESS": "8790 NW 103RD ST", 
+        "MUNICID": "27", 
+        "TYPE": "R", 
+        "ID": 28
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16048112096628, 
+          25.702758480796227
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": null, 
+        "NAME": "KEY BISCAYNE", 
+        "LON": -80.16048, 
+        "ZIPCODE": 33149, 
+        "LAT": 25.70276, 
+        "POINT_X": 932603.25028134, 
+        "POINT_Y": 498537.06235101, 
+        "ADDRESS": "2 CRANDON BLVD", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 15
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31181200829658, 
+          25.80907429626373
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3030260050010", 
+        "NAME": "VIRGINIA GARDENS", 
+        "LON": -80.31181, 
+        "ZIPCODE": 33166, 
+        "LAT": 25.80907, 
+        "POINT_X": 882569.68794709, 
+        "POINT_Y": 536890.43741576, 
+        "ADDRESS": "7050 NW 36TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "S", 
+        "ID": 17
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1553785432951, 
+          25.919556961434942
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622160000020", 
+        "NAME": "INTERAMA", 
+        "LON": -80.15538, 
+        "ZIPCODE": 33160, 
+        "LAT": 25.91956, 
+        "POINT_X": 933777.68723692, 
+        "POINT_Y": 577347.68753784, 
+        "ADDRESS": "15655 BISCAYNE BLVD", 
+        "MUNICID": "6", 
+        "TYPE": "S", 
+        "ID": 22
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42112671172606, 
+          25.649765156728225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3059150000010", 
+        "NAME": "TAMIAMI AIRPORT", 
+        "LON": -80.42113, 
+        "ZIPCODE": 33186, 
+        "LAT": 25.64977, 
+        "POINT_X": 846859.99985217, 
+        "POINT_Y": 478815.81242351, 
+        "ADDRESS": "14150 SW 127TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "A", 
+        "ID": 24
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16975494213149, 
+          25.774782468577865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0142050000010", 
+        "NAME": "PORT OF MIAMI", 
+        "LON": -80.16975, 
+        "ZIPCODE": 33132, 
+        "LAT": 25.77478, 
+        "POINT_X": 929384.68782084, 
+        "POINT_Y": 524696.06252635, 
+        "ADDRESS": "641 EUROPE WAY", 
+        "MUNICID": "1", 
+        "TYPE": "S", 
+        "ID": 39
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28859111849431, 
+          25.706135628063436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": null, 
+        "NAME": "SOUTH MIAMI", 
+        "LON": -80.28859, 
+        "ZIPCODE": 33143, 
+        "LAT": 25.70614, 
+        "POINT_X": 890411.12469, 
+        "POINT_Y": 499516.87469585, 
+        "ADDRESS": "5860 SW 70TH ST", 
+        "MUNICID": "9", 
+        "TYPE": "B", 
+        "ID": 14
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13973452025422, 
+          25.763239876578396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3042100000020", 
+        "NAME": "FISHER ISLAND", 
+        "LON": -80.13973, 
+        "ZIPCODE": 33109, 
+        "LAT": 25.76324, 
+        "POINT_X": 939291.68769184, 
+        "POINT_Y": 520564.06193209, 
+        "ADDRESS": "65 FISHER ISLAND DR", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 42
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21020833807309, 
+          25.894463387153884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0621250010050", 
+        "NAME": "NORTH MIAMI WEST", 
+        "LON": -80.21021, 
+        "ZIPCODE": 33168, 
+        "LAT": 25.89446, 
+        "POINT_X": 915810.37540259, 
+        "POINT_Y": 568114.49931134, 
+        "ADDRESS": "650 NW 131ST ST", 
+        "MUNICID": "6", 
+        "TYPE": "B", 
+        "ID": 19
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32656207603598, 
+          25.942089640721004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3020100130685", 
+        "NAME": "PALM SPRINGS NORTH", 
+        "LON": -80.32656, 
+        "ZIPCODE": 33015, 
+        "LAT": 25.94209, 
+        "POINT_X": 877469.00031384, 
+        "POINT_Y": 585211.75022176, 
+        "ADDRESS": "7700 NW 186TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 44
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36440853023707, 
+          25.870270696776693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "FOLIO": "2220320040145", 
+        "NAME": "MEDLEY", 
+        "LON": -80.36441, 
+        "ZIPCODE": 33178, 
+        "LAT": 25.87027, 
+        "POINT_X": 865158.25032909, 
+        "POINT_Y": 559045.93805218, 
+        "ADDRESS": "10200 NW 116TH WAY", 
+        "MUNICID": "22", 
+        "TYPE": "S", 
+        "ID": 46
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28442768934669, 
+          25.67059032212538
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PINECREST", 
+        "FOLIO": "2050120080065", 
+        "NAME": "PINECREST", 
+        "LON": -80.28443, 
+        "ZIPCODE": 33156, 
+        "LAT": 25.67059, 
+        "POINT_X": 891851.99976301, 
+        "POINT_Y": 486605.06193684, 
+        "ADDRESS": "10850 SW 57TH AVE", 
+        "MUNICID": "20", 
+        "TYPE": "R", 
+        "ID": 49
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33869809620359, 
+          25.791082952474998
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3530330340030", 
+        "NAME": "FOUNTAINEBLEAU", 
+        "LON": -80.3387, 
+        "ZIPCODE": 33172, 
+        "LAT": 25.79108, 
+        "POINT_X": 873757.18785559, 
+        "POINT_Y": 530305.93746143, 
+        "ADDRESS": "8825 NW 18TH TER", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 48
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.354414838326, 
+          25.82593984621741
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530200380630", 
+        "NAME": "DORAL", 
+        "LON": -80.35441, 
+        "ZIPCODE": 33178, 
+        "LAT": 25.82594, 
+        "POINT_X": 868523.56249609, 
+        "POINT_Y": 542949.37510101, 
+        "ADDRESS": "9710 NW 58TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "S", 
+        "ID": 45
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34690551652064, 
+          25.747694205049292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040090000175", 
+        "NAME": "WESTCHESTER", 
+        "LON": -80.34691, 
+        "ZIPCODE": 33165, 
+        "LAT": 25.74769, 
+        "POINT_X": 871134.75018709, 
+        "POINT_Y": 514522.43753243, 
+        "ADDRESS": "9361 SW 24TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 47
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29235847250823, 
+          25.79742333733594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3030250010100", 
+        "NAME": "MIA", 
+        "LON": -80.29236, 
+        "ZIPCODE": 33122, 
+        "LAT": 25.79742, 
+        "POINT_X": 888992.56289659, 
+        "POINT_Y": 532689.68761518, 
+        "ADDRESS": "NW 42ND AVE / NW 21ST ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 12
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48298882830989, 
+          25.47162112360999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": null, 
+        "NAME": "HOMESTEAD/FLCITY", 
+        "LON": -80.48299, 
+        "ZIPCODE": 33030, 
+        "LAT": 25.47162, 
+        "POINT_X": 826733.00008, 
+        "POINT_Y": 413986.25048184, 
+        "ADDRESS": "325 NW 2ND ST", 
+        "MUNICID": "10", 
+        "TYPE": "B", 
+        "ID": 16
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.166782957356, 
+          25.895763515303152
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622290580130", 
+        "NAME": "NORTH MIAMI EAST", 
+        "LON": -80.16678, 
+        "ZIPCODE": 33161, 
+        "LAT": 25.89576, 
+        "POINT_X": 930084.06207825, 
+        "POINT_Y": 568675.37515809, 
+        "ADDRESS": "13000 NE 16TH AVE", 
+        "MUNICID": "6", 
+        "TYPE": "B", 
+        "ID": 20
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27986128801435, 
+          25.954302893511226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3011310010030", 
+        "NAME": "HONEY HILL", 
+        "LON": -80.27986, 
+        "ZIPCODE": 33055, 
+        "LAT": 25.9543, 
+        "POINT_X": 892791.68784425, 
+        "POINT_Y": 589732.56303051, 
+        "ADDRESS": "4775 NW 199TH ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 51
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38757271229153, 
+          25.58624010543455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069010420010", 
+        "NAME": "SOUTH MIAMI HEIGHTS", 
+        "LON": -80.38757, 
+        "ZIPCODE": 33177, 
+        "LAT": 25.58624, 
+        "POINT_X": 858020.37516917, 
+        "POINT_Y": 455777.40574451, 
+        "ADDRESS": "12105 QUAIL ROOST DR", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 52
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38748304248651, 
+          25.659177420539145
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": null, 
+        "NAME": "TURNPIKE SOUTH", 
+        "LON": -80.38748, 
+        "ZIPCODE": 33186, 
+        "LAT": 25.65918, 
+        "POINT_X": 857927.37437092, 
+        "POINT_Y": 482286.59386776, 
+        "ADDRESS": "11600 SW TURNPIKE HWY", 
+        "MUNICID": "30", 
+        "TYPE": "R", 
+        "ID": 53
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34944740645774, 
+          25.603473719316284
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3350320043100", 
+        "NAME": "PERRINE", 
+        "LON": -80.34945, 
+        "ZIPCODE": 33157, 
+        "LAT": 25.60347, 
+        "POINT_X": 870555.93736834, 
+        "POINT_Y": 462100.78089301, 
+        "ADDRESS": "9798 E HIBISCUS ST", 
+        "MUNICID": "30", 
+        "TYPE": "R", 
+        "ID": 50
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14825362449876, 
+          25.939868512005187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "AVENTURA", 
+        "FOLIO": "2822100000120", 
+        "NAME": "AVENTURA SOUTH", 
+        "LON": -80.14825, 
+        "ZIPCODE": 33160, 
+        "LAT": 25.93987, 
+        "POINT_X": 936071.62556242, 
+        "POINT_Y": 584745.62451359, 
+        "ADDRESS": "2601 POINTE EAST DR", 
+        "MUNICID": "28", 
+        "TYPE": "R", 
+        "ID": 33
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15538713889327, 
+          25.94694356448518
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": null, 
+        "NAME": "OPERATIONS NORTH-CENTRAL", 
+        "LON": -80.15571, 
+        "ZIPCODE": 33180, 
+        "LAT": 25.94725, 
+        "POINT_X": 933602.68791501, 
+        "POINT_Y": 587411.49975926, 
+        "ADDRESS": "2270 NE MIAMI GARDENS DR", 
+        "MUNICID": "30", 
+        "TYPE": "T", 
+        "ID": 41
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24423148092939, 
+          25.913347528279747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3421160021019", 
+        "NAME": "BUNCHE PARK", 
+        "LON": -80.24423, 
+        "ZIPCODE": 33054, 
+        "LAT": 25.91335, 
+        "POINT_X": 904585.31189475, 
+        "POINT_Y": 574912.43715901, 
+        "ADDRESS": "15250 NW 27TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 54
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34897882393281, 
+          25.81080634328773
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3530280010011", 
+        "NAME": "FIRE HEADQUARTERS", 
+        "LON": -80.34898, 
+        "ZIPCODE": 33178, 
+        "LAT": 25.81081, 
+        "POINT_X": 870338.93747426, 
+        "POINT_Y": 537457.74992943, 
+        "ADDRESS": "9300 NW 41ST ST", 
+        "MUNICID": "30", 
+        "TYPE": "H", 
+        "ID": 87
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33120218234062, 
+          25.56632462263992
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3660090220020", 
+        "NAME": "SAGA BAY", 
+        "LON": -80.3312, 
+        "ZIPCODE": 33189, 
+        "LAT": 25.56632, 
+        "POINT_X": 876636.87533767, 
+        "POINT_Y": 448628.84327001, 
+        "ADDRESS": "21501 SW 87TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "S", 
+        "ID": 55
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45618514760427, 
+          25.69832841523345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3049320250010", 
+        "NAME": "WEST SUNSET", 
+        "LON": -80.45619, 
+        "ZIPCODE": 33193, 
+        "LAT": 25.69833, 
+        "POINT_X": 835238.18746592, 
+        "POINT_Y": 496417.12531792, 
+        "ADDRESS": "16250 SW 72ND ST", 
+        "MUNICID": "30", 
+        "TYPE": "B", 
+        "ID": 56
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40150813748252, 
+          25.68874999984727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3049350250010", 
+        "NAME": "WEST KENDALL", 
+        "LON": -80.40151, 
+        "ZIPCODE": 33183, 
+        "LAT": 25.68875, 
+        "POINT_X": 853258.81185767, 
+        "POINT_Y": 493013.6564031, 
+        "ADDRESS": "8501 SW 127TH AVE", 
+        "MUNICID": "30", 
+        "TYPE": "R", 
+        "ID": 57
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3779434256114, 
+          25.841071938854423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530070150010", 
+        "NAME": "DORAL NORTH", 
+        "LON": -80.37797, 
+        "ZIPCODE": 33178, 
+        "LAT": 25.84108, 
+        "POINT_X": 860762.432, 
+        "POINT_Y": 548412.015, 
+        "ADDRESS": "11151 NW 74TH ST", 
+        "MUNICID": "35", 
+        "TYPE": "B", 
+        "ID": 69
+      }
+    }
+  ]
+}
